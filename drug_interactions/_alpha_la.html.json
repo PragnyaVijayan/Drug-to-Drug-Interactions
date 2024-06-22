@@ -1,0 +1,453 @@
+{
+    "https://www.drugs.com/npp/l-arginine.html": [],
+    "https://www.drugs.com/cons/la-12.html": null,
+    "https://www.drugs.com/mtm/labetalol.html": [
+        "https://www.drugs.com/mtm/aminophylline-injection.html",
+        "https://www.drugs.com/mtm/theophylline.html",
+        "https://www.drugs.com/mtm/cimetidine.html",
+        "https://www.drugs.com/amitriptyline.html",
+        "https://www.drugs.com/mtm/desipramine.html",
+        "https://www.drugs.com/nortriptyline.html",
+        "https://www.drugs.com/mtm/levalbuterol-inhalation.html",
+        "https://www.drugs.com/mtm/metaproterenol.html"
+    ],
+    "https://www.drugs.com/cons/labetalol-intravenous.html": null,
+    "https://www.drugs.com/cons/labetalol-oral.html": null,
+    "https://www.drugs.com/pro/labetalol-tablets.html": null,
+    "https://www.drugs.com/npp/labrador-tea.html": [],
+    "https://www.drugs.com/mtm/lac-dose.html": [
+        "https://www.drugs.com/compare/lac-dose",
+        "https://www.drugs.com/image/lac-dose-images.html",
+        "https://www.drugs.com/sfx/lac-dose-side-effects.html",
+        "https://www.drugs.com/dosage/lactase.html",
+        "https://www.drugs.com/pregnancy/lactase.html",
+        "https://www.drugs.com/drug-class/digestive-enzymes.html"
+    ],
+    "https://www.drugs.com/mtm/lac-hydrin.html": [
+        "https://www.drugs.com/compare/lac-hydrin",
+        "https://www.drugs.com/comments/ammonium-lactate-topical/lac-hydrin.html",
+        "https://www.drugs.com/sfx/lac-hydrin-side-effects.html",
+        "https://www.drugs.com/dosage/lac-hydrin.html",
+        "https://www.drugs.com/pregnancy/ammonium-lactate-topical.html",
+        "https://www.drugs.com/drug-class/topical-emollients.html"
+    ],
+    "https://www.drugs.com/mtm/lac-hydrin-5.html": [
+        "https://www.drugs.com/compare/lac-hydrin-5",
+        "https://www.drugs.com/comments/ammonium-lactate-topical/lac-hydrin-5.html",
+        "https://www.drugs.com/sfx/lac-hydrin-5-side-effects.html",
+        "https://www.drugs.com/dosage/ammonium-lactate-topical.html",
+        "https://www.drugs.com/pregnancy/ammonium-lactate-topical.html",
+        "https://www.drugs.com/drug-class/topical-emollients.html",
+        "https://www.drugs.com/mtm_esp/lac-hydrin-5.html"
+    ],
+    "https://www.drugs.com/pro/lac-hydrin-lotion.html": null,
+    "https://www.drugs.com/pro/lacellate-solution.html": null,
+    "https://www.drugs.com/mtm/laclotion.html": [
+        "https://www.drugs.com/compare/laclotion",
+        "https://www.drugs.com/sfx/laclotion-side-effects.html",
+        "https://www.drugs.com/dosage/ammonium-lactate-topical.html",
+        "https://www.drugs.com/pregnancy/ammonium-lactate-topical.html",
+        "https://www.drugs.com/drug-class/topical-emollients.html"
+    ],
+    "https://www.drugs.com/pro/lacosamide.html": null,
+    "https://www.drugs.com/cons/lacosamide-intravenous.html": null,
+    "https://www.drugs.com/cons/lacosamide-oral.html": null,
+    "https://www.drugs.com/pro/lacosamide-injection.html": null,
+    "https://www.drugs.com/pro/lacosamide-oral-solution.html": null,
+    "https://www.drugs.com/mtm/lacosamide-oral-injection.html": [],
+    "https://www.drugs.com/mtm/lacri-lube-s-o-p.html": [
+        "https://www.drugs.com/compare/lacri-lube-s-o-p",
+        "https://www.drugs.com/price-guide/lacri-lube-s-o-p",
+        "https://www.drugs.com/sfx/lacri-lube-s-o-p-side-effects.html",
+        "https://www.drugs.com/drug-class/ophthalmic-lubricants-and-irrigations.html",
+        "https://www.drugs.com/mtm_esp/lacri-lube-s-o-p.html"
+    ],
+    "https://www.drugs.com/mtm/lacrisert.html": [
+        "https://www.drugs.com/compare/lacrisert",
+        "https://www.drugs.com/price-guide/lacrisert",
+        "https://www.drugs.com/comments/ocular-lubricant-ophthalmic/lacrisert-for-dry-eye-disease.html",
+        "https://www.drugs.com/sfx/lacrisert-side-effects.html",
+        "https://www.drugs.com/dosage/lacrisert.html",
+        "https://www.drugs.com/drug-class/ophthalmic-lubricants-and-irrigations.html",
+        "https://www.drugs.com/mtm_esp/lacrisert.html"
+    ],
+    "https://www.drugs.com/mtm/lactaid.html": [
+        "https://www.drugs.com/compare/lactaid",
+        "https://www.drugs.com/comments/lactase/lactaid-for-lactose-intolerance.html",
+        "https://www.drugs.com/image/lactaid-images.html",
+        "https://www.drugs.com/sfx/lactaid-side-effects.html",
+        "https://www.drugs.com/dosage/lactase.html",
+        "https://www.drugs.com/pregnancy/lactase.html",
+        "https://www.drugs.com/drug-class/digestive-enzymes.html",
+        "https://www.drugs.com/mtm_esp/lactaid.html"
+    ],
+    "https://www.drugs.com/mtm/lactaid-fast-act.html": [
+        "https://www.drugs.com/compare/lactaid-fast-act",
+        "https://www.drugs.com/comments/lactase/lactaid-fast-act-for-lactose-intolerance.html",
+        "https://www.drugs.com/image/lactaid-fast-act-images.html",
+        "https://www.drugs.com/sfx/lactaid-fast-act-side-effects.html",
+        "https://www.drugs.com/dosage/lactase.html",
+        "https://www.drugs.com/pregnancy/lactase.html",
+        "https://www.drugs.com/drug-class/digestive-enzymes.html",
+        "https://www.drugs.com/mtm_esp/lactaid-fast-act.html"
+    ],
+    "https://www.drugs.com/mtm/lactaid-ultra.html": [
+        "https://www.drugs.com/compare/lactaid-ultra",
+        "https://www.drugs.com/comments/lactase/lactaid-ultra-for-lactose-intolerance.html",
+        "https://www.drugs.com/image/lactaid-ultra-images.html",
+        "https://www.drugs.com/sfx/lactaid-ultra-side-effects.html",
+        "https://www.drugs.com/dosage/lactase.html",
+        "https://www.drugs.com/pregnancy/lactase.html",
+        "https://www.drugs.com/drug-class/digestive-enzymes.html",
+        "https://www.drugs.com/mtm_esp/lactaid-ultra.html"
+    ],
+    "https://www.drugs.com/mtm/lactase.html": [
+        "https://www.drugs.com/compare/lactase",
+        "https://www.drugs.com/comments/lactase/",
+        "https://www.drugs.com/image/lactase-images.html",
+        "https://www.drugs.com/sfx/lactase-side-effects.html",
+        "https://www.drugs.com/dosage/lactase.html",
+        "https://www.drugs.com/pregnancy/lactase.html",
+        "https://www.drugs.com/drug-class/digestive-enzymes.html",
+        "https://www.drugs.com/mtm_esp/lactase.html"
+    ],
+    "https://www.drugs.com/cons/lactated-ringer-s.html": null,
+    "https://www.drugs.com/pro/lactated-ringer-s-irrigation.html": null,
+    "https://www.drugs.com/pro/lactated-ringers-injection.html": null,
+    "https://www.drugs.com/pro/lactic-acid-cream.html": null,
+    "https://www.drugs.com/pro/lactic-acid-lotion.html": null,
+    "https://www.drugs.com/cons/lactic-acid-citric-acid-and-potassium-bitartrate.html": null,
+    "https://www.drugs.com/cons/lacticare-hc.html": null,
+    "https://www.drugs.com/mtm/lactinex.html": [
+        "https://www.drugs.com/cg/liver-transplant-discharge-care.html",
+        "https://www.drugs.com/prednisone.html",
+        "https://www.drugs.com/mtm/dexamethasone-intraocular.html",
+        "https://www.drugs.com/methylprednisolone.html"
+    ],
+    "https://www.drugs.com/cons/lactitol.html": null,
+    "https://www.drugs.com/mtm/lactobacillus-acidophilus.html": [
+        "https://www.drugs.com/cg/liver-transplant-discharge-care.html",
+        "https://www.drugs.com/prednisone.html",
+        "https://www.drugs.com/mtm/dexamethasone-intraocular.html",
+        "https://www.drugs.com/methylprednisolone.html"
+    ],
+    "https://www.drugs.com/mtm/lactobacillus-acidophilus-and-bulgaricus.html": [],
+    "https://www.drugs.com/mtm/lactobacillus-rhamnosus-gg.html": [
+        "https://www.drugs.com/prednisone.html",
+        "https://www.drugs.com/mtm/dexamethasone-intraocular.html",
+        "https://www.drugs.com/methylprednisolone.html",
+        "https://www.drugs.com/cg/liver-transplant-discharge-care.html"
+    ],
+    "https://www.drugs.com/mtm/lactrase.html": [
+        "https://www.drugs.com/compare/lactrase",
+        "https://www.drugs.com/image/lactrase-images.html",
+        "https://www.drugs.com/sfx/lactrase-side-effects.html",
+        "https://www.drugs.com/dosage/lactase.html",
+        "https://www.drugs.com/pregnancy/lactase.html",
+        "https://www.drugs.com/drug-class/digestive-enzymes.html"
+    ],
+    "https://www.drugs.com/mtm/lactulose.html": [],
+    "https://www.drugs.com/pro/lactulose-oral-solution.html": null,
+    "https://www.drugs.com/npp/lady-s-mantle.html": [],
+    "https://www.drugs.com/mtm/lagevrio.html": [
+        "https://www.drugs.com/compare/lagevrio",
+        "https://www.drugs.com/price-guide/lagevrio",
+        "https://www.drugs.com/comments/molnupiravir/lagevrio-for-covid-19.html",
+        "https://www.drugs.com/image/lagevrio-images.html",
+        "https://www.drugs.com/sfx/lagevrio-side-effects.html",
+        "https://www.drugs.com/dosage/molnupiravir.html",
+        "https://www.drugs.com/drug-class/miscellaneous-antivirals.html",
+        "https://www.drugs.com/breastfeeding/molnupiravir.html",
+        "https://www.drugs.com/mtm_esp/lagevrio.html"
+    ],
+    "https://www.drugs.com/mtm/lagicam.html": [
+        "https://www.drugs.com/medical-answers/monistat-burn-itch-bad-3558335/",
+        "https://www.drugs.com/medical-answers/monistat-1-white-discharge-burning-3-days-after-3004257/"
+    ],
+    "https://www.drugs.com/lamictal.html": [],
+    "https://www.drugs.com/cons/lamictal-cd.html": null,
+    "https://www.drugs.com/mtm/lamictal-odt.html": [
+        "https://www.drugs.com/medical-answers/if-you-are-taking-lamotrigine-how-long-does-it-88886/"
+    ],
+    "https://www.drugs.com/mtm/lamictal-xr.html": [
+        "https://www.drugs.com/medical-answers/if-you-are-taking-lamotrigine-how-long-does-it-88886/"
+    ],
+    "https://www.drugs.com/npp/laminaria.html": [],
+    "https://www.drugs.com/lamisil.html": [
+        "https://www.drugs.com/medical-answers/common-skin-conditions-photos-3573649/"
+    ],
+    "https://www.drugs.com/cons/lamisil-terbinafine-oral.html": null,
+    "https://www.drugs.com/cons/lamisil-terbinafine-topical.html": null,
+    "https://www.drugs.com/mtm/lamisil-at.html": [
+        "https://www.drugs.com/compare/lamisil-at",
+        "https://www.drugs.com/comments/terbinafine-topical/lamisil-at.html",
+        "https://www.drugs.com/sfx/lamisil-at-side-effects.html",
+        "https://www.drugs.com/dosage/lamisil-at-for-women.html",
+        "https://www.drugs.com/pregnancy/terbinafine-topical.html",
+        "https://www.drugs.com/drug-class/topical-antifungals.html",
+        "https://www.drugs.com/breastfeeding/terbinafine.html",
+        "https://www.drugs.com/mtm_esp/lamisil-at.html"
+    ],
+    "https://www.drugs.com/pro/lamisil-at-cream.html": null,
+    "https://www.drugs.com/pro/lamisil-at-for-women.html": null,
+    "https://www.drugs.com/pro/lamisil-at-gel.html": null,
+    "https://www.drugs.com/pro/lamisil-at-jock-itch.html": null,
+    "https://www.drugs.com/pro/lamisil-at-spray.html": null,
+    "https://www.drugs.com/mtm/lamisil-defense.html": [
+        "https://www.drugs.com/compare/lamisil-af-defense",
+        "https://www.drugs.com/fda-alerts/2214-17053.html",
+        "https://www.drugs.com/sfx/lamisil-af-defense-side-effects.html",
+        "https://www.drugs.com/dosage/tolnaftate-topical.html",
+        "https://www.drugs.com/pregnancy/tolnaftate-topical.html",
+        "https://www.drugs.com/drug-class/topical-antifungals.html",
+        "https://www.drugs.com/breastfeeding/tolnaftate.html"
+    ],
+    "https://www.drugs.com/pro/lamisil-oral-granules.html": null,
+    "https://www.drugs.com/mtm/lamivudine.html": [
+        "https://www.drugs.com/medical-answers/difference-between-symfi-symfi-lo-3418895/",
+        "https://www.drugs.com/medical-answers/cimduo-cost-3418871/",
+        "https://www.drugs.com/medical-answers/drugs-contained-delstrigo-3445552/",
+        "https://www.drugs.com/medical-answers/drugs-contained-cimduo-3418879/",
+        "https://www.drugs.com/medical-answers/drugs-contained-symfi-lo-3418867/"
+    ],
+    "https://www.drugs.com/mtm/lamivudine-and-tenofovir.html": [
+        "https://www.drugs.com/medical-answers/difference-between-symfi-symfi-lo-3418895/",
+        "https://www.drugs.com/medical-answers/drugs-contained-cimduo-3418879/"
+    ],
+    "https://www.drugs.com/mtm/lamivudine-and-zidovudine.html": [
+        "https://www.drugs.com/mtm/ganciclovir-ophthalmic.html"
+    ],
+    "https://www.drugs.com/pro/lamivudine-and-zidovudine-tablets.html": null,
+    "https://www.drugs.com/pro/lamivudine-oral-solution.html": null,
+    "https://www.drugs.com/pro/lamivudine-nevirapine-and-zidovudine-tablets.html": null,
+    "https://www.drugs.com/mtm/lamotrigine.html": [
+        "https://www.drugs.com/medical-answers/if-you-are-taking-lamotrigine-how-long-does-it-88886/"
+    ],
+    "https://www.drugs.com/pro/lamotrigine-chewable-tablet.html": null,
+    "https://www.drugs.com/pro/lamotrigine-extended-release-tablet.html": null,
+    "https://www.drugs.com/pro/lamotrigine-odt.html": null,
+    "https://www.drugs.com/pro/lamotrigine-tablets.html": null,
+    "https://www.drugs.com/lampit.html": [],
+    "https://www.drugs.com/cons/lamprene.html": null,
+    "https://www.drugs.com/mtm/lamzede.html": [
+        "https://www.drugs.com/compare/lamzede",
+        "https://www.drugs.com/price-guide/lamzede",
+        "https://www.drugs.com/image/lamzede-images.html",
+        "https://www.drugs.com/sfx/lamzede-side-effects.html",
+        "https://www.drugs.com/dosage/lamzede-injection.html",
+        "https://www.drugs.com/pregnancy/velmanase-alfa.html",
+        "https://www.drugs.com/history/lamzede.html",
+        "https://www.drugs.com/drug-class/lysosomal-enzymes.html",
+        "https://www.drugs.com/mtm_esp/lamzede.html"
+    ],
+    "https://www.drugs.com/pro/lamzede-injection.html": null,
+    "https://www.drugs.com/mtm/lan-o-soothe.html": [
+        "https://www.drugs.com/compare/lan-o-soothe",
+        "https://www.drugs.com/sfx/lan-o-soothe-side-effects.html",
+        "https://www.drugs.com/drug-class/topical-emollients.html",
+        "https://www.drugs.com/breastfeeding/lanolin.html",
+        "https://www.drugs.com/mtm_esp/lan-o-soothe.html"
+    ],
+    "https://www.drugs.com/lanacane.html": [],
+    "https://www.drugs.com/lanadelumab.html": [],
+    "https://www.drugs.com/cons/lanadelumab-flyo.html": null,
+    "https://www.drugs.com/cons/laniroif.html": null,
+    "https://www.drugs.com/mtm/lanolin-topical.html": [
+        "https://www.drugs.com/compare/lanolin-topical",
+        "https://www.drugs.com/comments/lanolin-topical/",
+        "https://www.drugs.com/sfx/lanolin-topical-side-effects.html",
+        "https://www.drugs.com/drug-class/topical-emollients.html",
+        "https://www.drugs.com/breastfeeding/lanolin.html"
+    ],
+    "https://www.drugs.com/mtm/lanolor-cream.html": [
+        "https://www.drugs.com/compare/lanolor-cream",
+        "https://www.drugs.com/sfx/lanolor-cream-side-effects.html",
+        "https://www.drugs.com/drug-class/topical-emollients.html",
+        "https://www.drugs.com/breastfeeding/lanolin.html",
+        "https://www.drugs.com/mtm_esp/lanolor-cream.html"
+    ],
+    "https://www.drugs.com/cons/lanoxicaps.html": null,
+    "https://www.drugs.com/lanoxin.html": [],
+    "https://www.drugs.com/cons/lanoxin-digoxin-intramuscular-intravenous.html": null,
+    "https://www.drugs.com/cons/lanoxin-digoxin-oral.html": null,
+    "https://www.drugs.com/cons/lanoxin-pediatric-digoxin-intramuscular-intravenous.html": null,
+    "https://www.drugs.com/cons/lanoxin-pediatric-digoxin-oral.html": null,
+    "https://www.drugs.com/pro/lanoxin-tablets.html": null,
+    "https://www.drugs.com/lanreotide.html": [],
+    "https://www.drugs.com/pro/lanreotide-injection.html": null,
+    "https://www.drugs.com/mtm/lansinoh-for-breast-feeding-mothers.html": [
+        "https://www.drugs.com/compare/lansinoh-for-breast-feeding-mothers",
+        "https://www.drugs.com/sfx/lansinoh-for-breast-feeding-mothers-side-effects.html",
+        "https://www.drugs.com/drug-class/topical-emollients.html",
+        "https://www.drugs.com/breastfeeding/lanolin.html",
+        "https://www.drugs.com/mtm_esp/lansinoh-for-breast-feeding-mothers.html"
+    ],
+    "https://www.drugs.com/lansoprazole.html": [],
+    "https://www.drugs.com/pro/lansoprazole-orally-disintegrating-tablets.html": null,
+    "https://www.drugs.com/cons/lansoprazole-amoxicillin-and-clarithromycin.html": null,
+    "https://www.drugs.com/monograph/lanthanum-local.html": [],
+    "https://www.drugs.com/mtm/lanthanum-carbonate.html": [
+        "https://www.drugs.com/article/antibiotics.html",
+        "https://www.drugs.com/mtm/ciprofloxacin-otic.html",
+        "https://www.drugs.com/mtm/levofloxacin-ophthalmic.html",
+        "https://www.drugs.com/levaquin.html"
+    ],
+    "https://www.drugs.com/pro/lanthanum-carbonate-tablets.html": null,
+    "https://www.drugs.com/lantidra.html": [],
+    "https://www.drugs.com/lantus.html": [
+        "https://www.drugs.com/medical-answers/when-take-lantus-3544537/",
+        "https://www.drugs.com/medical-answers/levemir-lantus-difference-3131248/",
+        "https://www.drugs.com/medical-answers/lantus-insulin-refrigerated-3544532/"
+    ],
+    "https://www.drugs.com/cons/lantus-solostar.html": null,
+    "https://www.drugs.com/mtm/lantus-solostar-pen.html": [
+        "https://www.drugs.com/medical-answers/you-lantus-pen-lantus-solostar-3544443/"
+    ],
+    "https://www.drugs.com/mtm/lapatinib.html": [],
+    "https://www.drugs.com/npp/larch.html": [
+        "https://www.drugs.com/support/",
+        "https://www.drugs.com/sitemap.html",
+        "https://www.drugs.com/support/contact.html"
+    ],
+    "https://www.drugs.com/mtm/lariam.html": [
+        "https://www.drugs.com/cg/tuberculosis.html"
+    ],
+    "https://www.drugs.com/pro/larin-1-5-30.html": null,
+    "https://www.drugs.com/mtm/larin-1-5-30-birth-control.html": [
+        "https://www.drugs.com/mtm/glecaprevir-and-pibrentasvir.html",
+        "https://www.drugs.com/drug-class/anticonvulsants.html",
+        "https://www.drugs.com/drug-class/anticonvulsants.html"
+    ],
+    "https://www.drugs.com/cons/larin-1-20.html": null,
+    "https://www.drugs.com/mtm/larin-1-20-birth-control.html": [
+        "https://www.drugs.com/mtm/glecaprevir-and-pibrentasvir.html",
+        "https://www.drugs.com/drug-class/anticonvulsants.html",
+        "https://www.drugs.com/drug-class/anticonvulsants.html"
+    ],
+    "https://www.drugs.com/pro/larin-24-fe.html": null,
+    "https://www.drugs.com/mtm/larin-24-fe-birth-control.html": [
+        "https://www.drugs.com/mtm/glecaprevir-and-pibrentasvir.html",
+        "https://www.drugs.com/drug-class/anticonvulsants.html",
+        "https://www.drugs.com/drug-class/anticonvulsants.html"
+    ],
+    "https://www.drugs.com/pro/larin-fe-1-5-30.html": null,
+    "https://www.drugs.com/mtm/larin-fe-1-5-30-birth-control.html": [
+        "https://www.drugs.com/mtm/glecaprevir-and-pibrentasvir.html",
+        "https://www.drugs.com/drug-class/anticonvulsants.html",
+        "https://www.drugs.com/drug-class/anticonvulsants.html"
+    ],
+    "https://www.drugs.com/pro/larin-fe-1-20.html": null,
+    "https://www.drugs.com/mtm/larin-fe-1-20-birth-control.html": [
+        "https://www.drugs.com/mtm/glecaprevir-and-pibrentasvir.html",
+        "https://www.drugs.com/drug-class/anticonvulsants.html",
+        "https://www.drugs.com/drug-class/anticonvulsants.html"
+    ],
+    "https://www.drugs.com/mtm/larissia.html": [],
+    "https://www.drugs.com/mtm/laronidase.html": [],
+    "https://www.drugs.com/mtm/larotrectinib.html": [
+        "https://www.drugs.com/medical-answers/type-drug-vitrakvi-larotrectinib-3457213/"
+    ],
+    "https://www.drugs.com/cons/lartruvo.html": null,
+    "https://www.drugs.com/cons/larynex.html": null,
+    "https://www.drugs.com/pro/laryng-o-jet.html": null,
+    "https://www.drugs.com/lasix.html": [
+        "https://www.drugs.com/mtm/ethacrynic-acid.html",
+        "https://www.drugs.com/methotrexate.html",
+        "https://www.drugs.com/cdi/chloral-hydrate-capsules.html",
+        "https://www.drugs.com/lithium.html",
+        "https://www.drugs.com/phenytoin.html",
+        "https://www.drugs.com/article/antibiotics.html",
+        "https://www.drugs.com/health-guide/cancer.html",
+        "https://www.drugs.com/mtm/cisplatin.html",
+        "https://www.drugs.com/aspirin.html",
+        "https://www.drugs.com/ibuprofen.html",
+        "https://www.drugs.com/advil.html",
+        "https://www.drugs.com/cons/motrin.html",
+        "https://www.drugs.com/naproxen.html",
+        "https://www.drugs.com/aleve.html",
+        "https://www.drugs.com/celecoxib.html",
+        "https://www.drugs.com/mtm/diclofenac-topical.html",
+        "https://www.drugs.com/mtm/indomethacin.html",
+        "https://www.drugs.com/meloxicam.html"
+    ],
+    "https://www.drugs.com/cons/lasix-furosemide-injection.html": null,
+    "https://www.drugs.com/cons/lasix-furosemide-oral.html": null,
+    "https://www.drugs.com/lasmiditan.html": [],
+    "https://www.drugs.com/cons/lassar-s-paste.html": null,
+    "https://www.drugs.com/lastacaft.html": [
+        "https://www.drugs.com/compare/lastacaft",
+        "https://www.drugs.com/price-guide/lastacaft",
+        "https://www.drugs.com/comments/alcaftadine-ophthalmic/lastacaft-for-allergic-conjunctivitis.html",
+        "https://www.drugs.com/sfx/lastacaft-side-effects.html",
+        "https://www.drugs.com/dosage/lastacaft.html",
+        "https://www.drugs.com/pregnancy/alcaftadine-ophthalmic.html",
+        "https://www.drugs.com/history/lastacaft.html",
+        "https://www.drugs.com/drug-class/ophthalmic-antihistamines-and-decongestants.html",
+        "https://www.drugs.com/mtm_esp/lastacaft.html"
+    ],
+    "https://www.drugs.com/cons/latanoprost.html": null,
+    "https://www.drugs.com/mtm/latanoprost-and-netarsudil-ophthalmic.html": [],
+    "https://www.drugs.com/mtm/latanoprost-ophthalmic.html": [],
+    "https://www.drugs.com/pro/latanoprost-ophthalmic-solution.html": null,
+    "https://www.drugs.com/cons/latanoprostene-bunod.html": null,
+    "https://www.drugs.com/mtm/latanoprostene-bunod-ophthalmic.html": [],
+    "https://www.drugs.com/npp/lathyrus.html": [],
+    "https://www.drugs.com/latisse.html": [],
+    "https://www.drugs.com/latuda.html": [
+        "https://www.drugs.comhttps://www.drugs.com/cg/hypertension.html",
+        "https://www.drugs.com/health-guide/parkinson-s-disease.html"
+    ],
+    "https://www.drugs.com/mtm/laureth-9-polidocanol.html": [
+        "https://www.drugs.com/compare/polidocanol",
+        "https://www.drugs.com/comments/polidocanol/for-varicose-vein.html",
+        "https://www.drugs.com/sfx/polidocanol-side-effects.html",
+        "https://www.drugs.com/dosage/polidocanol.html",
+        "https://www.drugs.com/pregnancy/polidocanol.html",
+        "https://www.drugs.com/drug-class/sclerosing-agents.html",
+        "https://www.drugs.com/mtm_esp/laureth-9-polidocanol.html"
+    ],
+    "https://www.drugs.com/mtm/lavacol.html": [
+        "https://www.drugs.com/compare/lavacol",
+        "https://www.drugs.com/fda-alerts/1035-10359.html",
+        "https://www.drugs.com/sfx/lavacol-side-effects.html",
+        "https://www.drugs.com/drug-class/antiseptic-and-germicides.html",
+        "https://www.drugs.com/breastfeeding/alcohol.html"
+    ],
+    "https://www.drugs.com/mtm/lavender.html": [
+        "https://www.drugs.com/drug-class/barbiturates.html",
+        "https://www.drugs.com/drug-class/benzodiazepines.html",
+        "https://www.drugs.com/cdi/chloral-hydrate-capsules.html",
+        "https://www.drugs.com/cdi/amobarbital.html",
+        "https://www.drugs.com/cons/butabarbital.html",
+        "https://www.drugs.com/mtm/pentobarbital-injection.html",
+        "https://www.drugs.com/mtm/phenobarbital.html",
+        "https://www.drugs.com/mtm/secobarbital.html",
+        "https://www.drugs.com/alprazolam.html",
+        "https://www.drugs.com/clonazepam.html",
+        "https://www.drugs.com/amlodipine.html",
+        "https://www.drugs.com/hctz.html"
+    ],
+    "https://www.drugs.com/cons/laviv.html": null,
+    "https://www.drugs.com/mtm/laxmar.html": [],
+    "https://www.drugs.com/pro/layolis-fe.html": null,
+    "https://www.drugs.com/mtm/layolis-fe-birth-control.html": [
+        "https://www.drugs.com/mtm/glecaprevir-and-pibrentasvir.html",
+        "https://www.drugs.com/drug-class/anticonvulsants.html",
+        "https://www.drugs.com/drug-class/anticonvulsants.html"
+    ],
+    "https://www.drugs.com/lazanda.html": [
+        "https://www.drugs.com/valium.html",
+        "https://www.drugs.com/diazepam.html",
+        "https://www.drugs.com/alprazolam.html",
+        "https://www.drugs.com/lorazepam.html",
+        "https://www.drugs.com/ativan.html",
+        "https://www.drugs.com/klonopin.html",
+        "https://www.drugs.com/restoril.html",
+        "https://www.drugs.com/cons/tranxene.html",
+        "https://www.drugs.com/mtm/versed.html",
+        "https://www.drugs.com/xanax.html",
+        "https://www.drugs.com/health-guide/major-depression.html",
+        "https://www.drugs.com/health-guide/parkinson-s-disease.html"
+    ],
+    "https://www.drugs.com/pro/lazanda-nasal-spray.html": null
+}

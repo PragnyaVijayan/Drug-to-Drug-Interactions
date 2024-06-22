@@ -1,0 +1,64 @@
+{
+    "https://www.drugs.com/xacduro.html": [],
+    "https://www.drugs.com/cons/xaciato.html": null,
+    "https://www.drugs.com/pro/xaciato-vaginal-gel.html": null,
+    "https://www.drugs.com/xadago.html": [],
+    "https://www.drugs.com/xalatan.html": [],
+    "https://www.drugs.com/mtm/xalix.html": [],
+    "https://www.drugs.com/xalkori.html": [],
+    "https://www.drugs.com/xanax.html": [
+        "https://www.drugs.com/medical-answers/valium-xanax-difference-3116677/",
+        "https://www.drugs.com/medical-answers/klonopin-vs-xanax-3030557/",
+        "https://www.drugs.com/medical-answers/lorazepam-xanax-difference-3117819/"
+    ],
+    "https://www.drugs.com/xanax_xr.html": [],
+    "https://www.drugs.com/mtm/xaquil-xr.html": [
+        "https://www.drugs.com/methotrexate.html",
+        "https://www.drugs.com/methylprednisolone.html",
+        "https://www.drugs.com/mtm/pyrimethamine.html",
+        "https://www.drugs.com/article/birth-control-pill.html",
+        "https://www.drugs.com/drug-class/nonsteroidal-anti-inflammatory-agents.html",
+        "https://www.drugs.com/carbamazepine.html",
+        "https://www.drugs.com/mtm/phenobarbital.html",
+        "https://www.drugs.com/mtm/valproic-acid.html"
+    ],
+    "https://www.drugs.com/cons/xaracoll.html": null,
+    "https://www.drugs.com/xarelto.html": [
+        "https://www.drugs.com/mtm/ketoconazole-topical.html",
+        "https://www.drugs.com/mtm/ritonavir.html",
+        "https://www.drugs.com/mtm/erythromycin-ophthalmic.html",
+        "https://www.drugs.com/mtm/rifampin.html",
+        "https://www.drugs.com/carbamazepine.html",
+        "https://www.drugs.com/phenytoin.html",
+        "https://www.drugs.com/mtm/st-john-s-wort.html",
+        "https://www.drugs.com/mtm/enoxaparin.html",
+        "https://www.drugs.com/warfarin.html",
+        "https://www.drugs.com/mtm/alteplase.html",
+        "https://www.drugs.com/mtm/clopidogrel.html",
+        "https://www.drugs.com/mtm/dipyridamole.html",
+        "https://www.drugs.com/cdi/ticlopidine.html",
+        "https://www.drugs.com/celecoxib.html",
+        "https://www.drugs.com/mtm/diclofenac-topical.html",
+        "https://www.drugs.com/mtm/indomethacin.html",
+        "https://www.drugs.com/meloxicam.html"
+    ],
+    "https://www.drugs.com/mtm/xarelto-starter-pack.html": [
+        "https://www.drugs.com/mtm/ketoconazole-topical.html",
+        "https://www.drugs.com/mtm/erythromycin-ophthalmic.html",
+        "https://www.drugs.com/carbamazepine.html",
+        "https://www.drugs.com/mtm/st-john-s-wort.html",
+        "https://www.drugs.com/mtm/dipyridamole.html",
+        "https://www.drugs.com/mtm/indomethacin.html"
+    ],
+    "https://www.drugs.com/pro/xartemis-xr.html": null,
+    "https://www.drugs.com/cons/xartemix-xr.html": null,
+    "https://www.drugs.com/mtm/xatmep.html": [
+        "https://www.drugs.com/mtm/mercaptopurine.html",
+        "https://www.drugs.com/mtm/theophylline.html",
+        "https://www.drugs.com/drug-class/nonsteroidal-anti-inflammatory-agents.html",
+        "https://www.drugs.com/mtm/indomethacin.html",
+        "https://www.drugs.com/mtm/esomeprazole.html",
+        "https://www.drugs.com/lansoprazole.html",
+        "https://www.drugs.com/pantoprazole.html"
+    ]
+}

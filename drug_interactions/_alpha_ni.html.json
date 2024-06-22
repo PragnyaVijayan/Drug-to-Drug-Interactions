@@ -1,0 +1,1297 @@
+{
+    "https://www.drugs.com/mtm/n-a-c-sustain.html": [],
+    "https://www.drugs.com/mtm/nabi-hb.html": [],
+    "https://www.drugs.com/cons/nabi-hb-novaplus.html": null,
+    "https://www.drugs.com/cons/nabilone.html": null,
+    "https://www.drugs.com/mtm/nabumetone.html": [
+        "https://www.drugs.com/methotrexate.html",
+        "https://www.drugs.com/prednisone.html"
+    ],
+    "https://www.drugs.com/mtm/nac.html": [],
+    "https://www.drugs.com/pro/nacellate-injection.html": null,
+    "https://www.drugs.com/mtm/nadofaragene-firadenovec.html": [],
+    "https://www.drugs.com/cons/nadofaragene-firadenovec-vncg.html": null,
+    "https://www.drugs.com/mtm/nadolol.html": [
+        "https://www.drugs.com/digoxin.html",
+        "https://www.drugs.com/mtm/reserpine.html"
+    ],
+    "https://www.drugs.com/cons/nadolol-and-bendroflumethiazide.html": null,
+    "https://www.drugs.com/cons/nafarelin.html": null,
+    "https://www.drugs.com/mtm/nafarelin-nasal.html": [],
+    "https://www.drugs.com/pro/nafcillin.html": null,
+    "https://www.drugs.com/mtm/nafcillin-injection.html": [
+        "https://www.drugs.com/mtm/cyclosporine-ophthalmic.html",
+        "https://www.drugs.com/cdi/tetracycline-topical.html",
+        "https://www.drugs.com/doxycycline.html",
+        "https://www.drugs.com/mtm/minocycline-mucous-membrane-powder.html"
+    ],
+    "https://www.drugs.com/pro/nafrinse.html": null,
+    "https://www.drugs.com/cons/naftifine.html": null,
+    "https://www.drugs.com/pro/naftifine-cream.html": null,
+    "https://www.drugs.com/pro/naftifine-gel.html": null,
+    "https://www.drugs.com/mtm/naftifine-topical.html": [
+        "https://www.drugs.com/compare/naftifine-topical",
+        "https://www.drugs.com/price-guide/naftifine-topical",
+        "https://www.drugs.com/comments/naftifine-topical/",
+        "https://www.drugs.com/sfx/naftifine-topical-side-effects.html",
+        "https://www.drugs.com/dosage/naftifine-topical.html",
+        "https://www.drugs.com/pregnancy/naftifine-topical.html",
+        "https://www.drugs.com/drug-class/topical-antifungals.html",
+        "https://www.drugs.com/breastfeeding/naftifine.html",
+        "https://www.drugs.com/mtm_esp/naftifine-topical.html"
+    ],
+    "https://www.drugs.com/mtm/naftin.html": [
+        "https://www.drugs.com/compare/naftin",
+        "https://www.drugs.com/price-guide/naftin",
+        "https://www.drugs.com/comments/naftifine-topical/naftin.html",
+        "https://www.drugs.com/sfx/naftin-side-effects.html",
+        "https://www.drugs.com/dosage/naftin.html",
+        "https://www.drugs.com/pregnancy/naftifine-topical.html",
+        "https://www.drugs.com/availability/generic-naftin.html",
+        "https://www.drugs.com/drug-class/topical-antifungals.html",
+        "https://www.drugs.com/breastfeeding/naftifine.html",
+        "https://www.drugs.com/mtm_esp/naftin.html"
+    ],
+    "https://www.drugs.com/pro/naftin-gel.html": null,
+    "https://www.drugs.com/cons/naftin-mp.html": null,
+    "https://www.drugs.com/naglazyme.html": [
+        "https://www.drugs.com/compare/naglazyme",
+        "https://www.drugs.com/price-guide/naglazyme",
+        "https://www.drugs.com/sfx/naglazyme-side-effects.html",
+        "https://www.drugs.com/dosage/naglazyme.html",
+        "https://www.drugs.com/pregnancy/galsulfase.html",
+        "https://www.drugs.com/history/naglazyme.html",
+        "https://www.drugs.com/drug-class/lysosomal-enzymes.html",
+        "https://www.drugs.com/mtm_esp/naglazyme.html"
+    ],
+    "https://www.drugs.com/cons/nail-ex.html": null,
+    "https://www.drugs.com/mtm/nalbuphine.html": [
+        "https://www.drugs.com/cg/motion-sickness.html",
+        "https://www.drugs.com/cg/irritable-bowel-syndrome.html",
+        "https://www.drugs.com/cg/overactive-bladder.html",
+        "https://www.drugs.com/health-guide/parkinson-s-disease.html"
+    ],
+    "https://www.drugs.com/mtm/naldemedine.html": [],
+    "https://www.drugs.com/mtm/nalex-a-12.html": [],
+    "https://www.drugs.com/mtm/nalex-a.html": [],
+    "https://www.drugs.com/mtm/nalfon.html": [
+        "https://www.drugs.com/mtm/cyclosporine-ophthalmic.html",
+        "https://www.drugs.com/methotrexate.html",
+        "https://www.drugs.com/mtm/phenobarbital.html",
+        "https://www.drugs.com/prednisone.html"
+    ],
+    "https://www.drugs.com/cons/nalfon-200.html": null,
+    "https://www.drugs.com/pro/nalfon-tablets.html": null,
+    "https://www.drugs.com/monograph/nalmefene.html": [],
+    "https://www.drugs.com/cons/nalmefene-injection.html": null,
+    "https://www.drugs.com/cons/nalmefene-nasal.html": null,
+    "https://www.drugs.com/pro/nalmefene-hydrochloride-injection.html": null,
+    "https://www.drugs.com/mtm/nalocet.html": [
+        "https://www.drugs.com/cg/motion-sickness.html",
+        "https://www.drugs.com/cg/irritable-bowel-syndrome.html",
+        "https://www.drugs.com/cg/overactive-bladder.html",
+        "https://www.drugs.com/alprazolam.html",
+        "https://www.drugs.com/cg/depression.html",
+        "https://www.drugs.com/health-guide/parkinson-s-disease.html"
+    ],
+    "https://www.drugs.com/mtm/naloxegol.html": [],
+    "https://www.drugs.com/naloxone.html": [],
+    "https://www.drugs.com/cons/naloxone-injection.html": null,
+    "https://www.drugs.com/mtm/naloxone-and-pentazocine.html": [
+        "https://www.drugs.com/cg/motion-sickness.html",
+        "https://www.drugs.com/cg/overactive-bladder.html",
+        "https://www.drugs.com/drug-class/antidepressants.html",
+        "https://www.drugs.com/health-guide/parkinson-s-disease.html"
+    ],
+    "https://www.drugs.com/pro/naloxone-auto-injector.html": null,
+    "https://www.drugs.com/mtm/naloxone-nasal.html": [
+        "https://www.drugs.com/medical-answers/difference-between-naltrexone-naloxone-3556015/"
+    ],
+    "https://www.drugs.com/pro/naloxone-nasal-spray.html": null,
+    "https://www.drugs.com/naltrexone.html": [],
+    "https://www.drugs.com/cons/naltrexone-intramuscular.html": null,
+    "https://www.drugs.com/cons/naltrexone-oral.html": null,
+    "https://www.drugs.com/cons/naltrexone-and-bupropion.html": null,
+    "https://www.drugs.com/mtm/naltrexone-injection.html": [],
+    "https://www.drugs.com/namenda.html": [],
+    "https://www.drugs.com/mtm/namenda-xr.html": [
+        "https://www.drugs.com/amantadine.html",
+        "https://www.drugs.com/mtm/zonisamide.html",
+        "https://www.drugs.com/dextromethorphan.html",
+        "https://www.drugs.com/robitussin.html",
+        "https://www.drugs.com/mtm/sodium-bicarbonate.html",
+        "https://www.drugs.com/potassium.html",
+        "https://www.drugs.com/mtm/urocit-k.html",
+        "https://www.drugs.com/mtm/citric-acid-potassium-citrate-and-sodium-citrate.html",
+        "https://www.drugs.com/cg/glaucoma.html",
+        "https://www.drugs.com/mtm/acetazolamide.html",
+        "https://www.drugs.com/mtm/methazolamide.html"
+    ],
+    "https://www.drugs.com/cons/namenda-xr-titration-pack.html": null,
+    "https://www.drugs.com/namzaric.html": [],
+    "https://www.drugs.com/cons/namzaric-titration-pack.html": null,
+    "https://www.drugs.com/pro/nandrolone.html": null,
+    "https://www.drugs.com/cons/naphazoline.html": null,
+    "https://www.drugs.com/mtm/naphazoline-and-pheniramine-ophthalmic.html": [],
+    "https://www.drugs.com/mtm/naphazoline-and-zinc-ophthalmic.html": [],
+    "https://www.drugs.com/mtm/naphazoline-nasal.html": [],
+    "https://www.drugs.com/mtm/naphazoline-ophthalmic.html": [
+        "https://www.drugs.com/amitriptyline.html",
+        "https://www.drugs.com/mtm/clomipramine.html",
+        "https://www.drugs.com/mtm/desipramine.html",
+        "https://www.drugs.com/mtm/desvenlafaxine.html",
+        "https://www.drugs.com/cons/maprotiline.html",
+        "https://www.drugs.com/mtm/milnacipran.html",
+        "https://www.drugs.com/nortriptyline.html",
+        "https://www.drugs.com/venlafaxine.html",
+        "https://www.drugs.com/mtm/dihydroergotamine-injection.html",
+        "https://www.drugs.com/mtm/methylergonovine-oral-and-injection.html",
+        "https://www.drugs.com/cons/furazolidone.html",
+        "https://www.drugs.com/mtm/isocarboxazid.html",
+        "https://www.drugs.com/mtm/tranylcypromine.html"
+    ],
+    "https://www.drugs.com/mtm/naphcon.html": [
+        "https://www.drugs.com/amitriptyline.html",
+        "https://www.drugs.com/mtm/clomipramine.html",
+        "https://www.drugs.com/mtm/desipramine.html",
+        "https://www.drugs.com/mtm/desvenlafaxine.html",
+        "https://www.drugs.com/cons/maprotiline.html",
+        "https://www.drugs.com/mtm/milnacipran.html",
+        "https://www.drugs.com/nortriptyline.html",
+        "https://www.drugs.com/venlafaxine.html",
+        "https://www.drugs.com/mtm/dihydroergotamine-injection.html",
+        "https://www.drugs.com/mtm/methylergonovine-oral-and-injection.html",
+        "https://www.drugs.com/cons/furazolidone.html",
+        "https://www.drugs.com/mtm/isocarboxazid.html",
+        "https://www.drugs.com/mtm/tranylcypromine.html"
+    ],
+    "https://www.drugs.com/mtm/naphcon-a.html": [],
+    "https://www.drugs.com/mtm/naprelan.html": [
+        "https://www.drugs.com/drug-class/salicylates.html",
+        "https://www.drugs.com/mtm/diflunisal.html",
+        "https://www.drugs.com/mtm/cholestyramine.html",
+        "https://www.drugs.com/mtm/cyclosporine-ophthalmic.html",
+        "https://www.drugs.com/methotrexate.html",
+        "https://www.drugs.com/mtm/pemetrexed.html"
+    ],
+    "https://www.drugs.com/mtm/naprelan-500.html": [
+        "https://www.drugs.com/drug-class/salicylates.html",
+        "https://www.drugs.com/mtm/diflunisal.html",
+        "https://www.drugs.com/mtm/cholestyramine.html",
+        "https://www.drugs.com/mtm/cyclosporine-ophthalmic.html",
+        "https://www.drugs.com/methotrexate.html",
+        "https://www.drugs.com/mtm/pemetrexed.html"
+    ],
+    "https://www.drugs.com/cons/naprelan-dose-card.html": null,
+    "https://www.drugs.com/naprosyn.html": [],
+    "https://www.drugs.com/pro/naprosyn-oral-suspension.html": null,
+    "https://www.drugs.com/pro/naprosyn-tablets.html": null,
+    "https://www.drugs.com/pro/naprotin.html": null,
+    "https://www.drugs.com/naproxen.html": [],
+    "https://www.drugs.com/cons/naproxen-and-esomeprazole.html": null,
+    "https://www.drugs.com/pro/naproxen-and-esomeprazole-tablets.html": null,
+    "https://www.drugs.com/mtm/naproxen-and-pseudoephedrine.html": [
+        "https://www.drugs.com/prednisone.html"
+    ],
+    "https://www.drugs.com/pro/naproxen-capsules.html": null,
+    "https://www.drugs.com/pro/naproxen-cr-tablets.html": null,
+    "https://www.drugs.com/pro/naproxen-delayed-release.html": null,
+    "https://www.drugs.com/pro/naproxen-tablets.html": null,
+    "https://www.drugs.com/mtm/naratriptan.html": [],
+    "https://www.drugs.com/narcan.html": [],
+    "https://www.drugs.com/cons/narcan-naloxone-injection.html": null,
+    "https://www.drugs.com/cons/narcan-naloxone-nasal.html": null,
+    "https://www.drugs.com/mtm/narcan-injection.html": [
+        "https://www.drugs.com/medical-answers/you-administer-narcan-nasal-spray-3016728/"
+    ],
+    "https://www.drugs.com/cons/narcof.html": null,
+    "https://www.drugs.com/mtm/nardil.html": [
+        "https://www.drugs.com/medical-answers/common-side-effects-antidepressants-3440087/"
+    ],
+    "https://www.drugs.com/mtm/nariz.html": [],
+    "https://www.drugs.com/mtm/naropin.html": [
+        "https://www.drugs.com/mtm/bupivacaine.html",
+        "https://www.drugs.com/mtm/nitric-oxide-inhalation-gas.html",
+        "https://www.drugs.com/mtm/nitroglycerin-oral-sublingual.html",
+        "https://www.drugs.com/mtm/nitroprusside.html",
+        "https://www.drugs.com/mtm/cyclophosphamide-oral-and-injection.html",
+        "https://www.drugs.com/nitrofurantoin.html",
+        "https://www.drugs.com/drug-class/sulfonamides.html",
+        "https://www.drugs.com/mtm/chloroquine.html",
+        "https://www.drugs.com/mtm/phenobarbital.html",
+        "https://www.drugs.com/acetaminophen.html",
+        "https://www.drugs.com/metoclopramide.html",
+        "https://www.drugs.com/sulfasalazine.html"
+    ],
+    "https://www.drugs.com/mtm/naropin-polyamp.html": [
+        "https://www.drugs.com/mtm/bupivacaine.html",
+        "https://www.drugs.com/mtm/nitric-oxide-inhalation-gas.html",
+        "https://www.drugs.com/mtm/nitroglycerin-oral-sublingual.html",
+        "https://www.drugs.com/mtm/nitroprusside.html",
+        "https://www.drugs.com/mtm/cyclophosphamide-oral-and-injection.html",
+        "https://www.drugs.com/nitrofurantoin.html",
+        "https://www.drugs.com/drug-class/sulfonamides.html",
+        "https://www.drugs.com/mtm/chloroquine.html",
+        "https://www.drugs.com/mtm/phenobarbital.html",
+        "https://www.drugs.com/acetaminophen.html",
+        "https://www.drugs.com/metoclopramide.html",
+        "https://www.drugs.com/sulfasalazine.html"
+    ],
+    "https://www.drugs.com/mtm/naropin-sdv.html": [
+        "https://www.drugs.com/mtm/bupivacaine.html",
+        "https://www.drugs.com/mtm/nitric-oxide-inhalation-gas.html",
+        "https://www.drugs.com/mtm/nitroglycerin-oral-sublingual.html",
+        "https://www.drugs.com/mtm/nitroprusside.html",
+        "https://www.drugs.com/mtm/cyclophosphamide-oral-and-injection.html",
+        "https://www.drugs.com/nitrofurantoin.html",
+        "https://www.drugs.com/drug-class/sulfonamides.html",
+        "https://www.drugs.com/mtm/chloroquine.html",
+        "https://www.drugs.com/mtm/phenobarbital.html",
+        "https://www.drugs.com/acetaminophen.html",
+        "https://www.drugs.com/metoclopramide.html",
+        "https://www.drugs.com/sulfasalazine.html"
+    ],
+    "https://www.drugs.com/cons/narvox.html": null,
+    "https://www.drugs.com/cons/nasacon.html": null,
+    "https://www.drugs.com/pro/nasacort.html": null,
+    "https://www.drugs.com/pro/nasacort-allergy-24hr.html": null,
+    "https://www.drugs.com/mtm/nasacort-allergy-24hr-nasal.html": [
+        "https://www.drugs.com/cg/asthma.html",
+        "https://www.drugs.com/health-guide/rash.html"
+    ],
+    "https://www.drugs.com/nasacort.html": [
+        "https://www.drugs.com/cg/asthma.html",
+        "https://www.drugs.com/cg/acute-rash.html"
+    ],
+    "https://www.drugs.com/cons/nasacort-aq.html": null,
+    "https://www.drugs.com/mtm/nasal-four.html": [
+        "https://www.drugs.com/drug-class/decongestants.html"
+    ],
+    "https://www.drugs.com/mtm/nasal-mist.html": [
+        "https://www.drugs.com/amitriptyline.html",
+        "https://www.drugs.com/mtm/clomipramine.html",
+        "https://www.drugs.com/mtm/desipramine.html",
+        "https://www.drugs.com/nortriptyline.html",
+        "https://www.drugs.com/ergotamine.html",
+        "https://www.drugs.com/mtm/dihydroergotamine-injection.html",
+        "https://www.drugs.com/mtm/methylergonovine-oral-and-injection.html",
+        "https://www.drugs.com/mtm/isocarboxazid.html",
+        "https://www.drugs.com/mtm/tranylcypromine.html"
+    ],
+    "https://www.drugs.com/mtm/nasalcare-rinse-starter-kit-nasal.html": [
+        "https://www.drugs.com/compare/nasalcare-rinse-starter-kit",
+        "https://www.drugs.com/sfx/nasalcare-rinse-starter-kit-side-effects.html",
+        "https://www.drugs.com/dosage/sodium-chloride-nasal.html",
+        "https://www.drugs.com/mtm_esp/nasalcare-rinse-starter-kit-nasal.html"
+    ],
+    "https://www.drugs.com/cons/nasalcrom.html": null,
+    "https://www.drugs.com/mtm/nasalcrom-nasal.html": [
+        "https://www.drugs.com/compare/nasalcrom",
+        "https://www.drugs.com/comments/cromolyn-nasal/nasalcrom-for-allergic-rhinitis.html",
+        "https://www.drugs.com/sfx/nasalcrom-side-effects.html",
+        "https://www.drugs.com/dosage/cromolyn-nasal.html",
+        "https://www.drugs.com/pregnancy/cromolyn-nasal.html",
+        "https://www.drugs.com/drug-class/nasal-antihistamines-and-decongestants.html",
+        "https://www.drugs.com/breastfeeding/cromolyn.html",
+        "https://www.drugs.com/mtm_esp/nasalcrom-nasal.html"
+    ],
+    "https://www.drugs.com/pro/nasarel.html": null,
+    "https://www.drugs.com/cons/nascobal.html": null,
+    "https://www.drugs.com/mtm/nascobal-nasal.html": [],
+    "https://www.drugs.com/cons/nasin.html": null,
+    "https://www.drugs.com/nasonex.html": [],
+    "https://www.drugs.com/mtm/nasopen.html": [],
+    "https://www.drugs.com/pro/natachew.html": null,
+    "https://www.drugs.com/mtm/natacyn.html": [
+        "https://www.drugs.com/compare/natacyn",
+        "https://www.drugs.com/price-guide/natacyn",
+        "https://www.drugs.com/comments/natamycin-ophthalmic/natacyn-for-ocular-infection.html",
+        "https://www.drugs.com/sfx/natacyn-side-effects.html",
+        "https://www.drugs.com/dosage/natacyn.html",
+        "https://www.drugs.com/drug-class/ophthalmic-anti-infectives.html",
+        "https://www.drugs.com/mtm_esp/natacyn.html"
+    ],
+    "https://www.drugs.com/natalizumab.html": [],
+    "https://www.drugs.com/cons/natalizumab-sztn.html": null,
+    "https://www.drugs.com/cons/natamycin.html": null,
+    "https://www.drugs.com/mtm/natamycin-ophthalmic.html": [
+        "https://www.drugs.com/compare/natamycin-ophthalmic",
+        "https://www.drugs.com/comments/natamycin-ophthalmic/for-ocular-infection.html",
+        "https://www.drugs.com/sfx/natamycin-ophthalmic-side-effects.html",
+        "https://www.drugs.com/drug-class/ophthalmic-anti-infectives.html",
+        "https://www.drugs.com/mtm_esp/natamycin-ophthalmic.html"
+    ],
+    "https://www.drugs.com/natazia.html": [],
+    "https://www.drugs.com/mtm/nateglinide.html": [],
+    "https://www.drugs.com/pro/natelle-complete.html": null,
+    "https://www.drugs.com/mtm/natesto.html": [
+        "https://www.drugs.com/warfarin.html",
+        "https://www.drugs.com/coumadin.html",
+        "https://www.drugs.com/mtm/jantoven.html",
+        "https://www.drugs.com/methylprednisolone.html",
+        "https://www.drugs.com/prednisone.html"
+    ],
+    "https://www.drugs.com/pro/natesto-nasal-gel.html": null,
+    "https://www.drugs.com/natpara.html": [
+        "https://www.drugs.com/mtm/alendronate.html",
+        "https://www.drugs.com/fosamax.html",
+        "https://www.drugs.com/digoxin.html"
+    ],
+    "https://www.drugs.com/natrecor.html": [],
+    "https://www.drugs.com/natroba.html": [
+        "https://www.drugs.com/compare/natroba",
+        "https://www.drugs.com/price-guide/natroba",
+        "https://www.drugs.com/comments/spinosad-topical/natroba.html",
+        "https://www.drugs.com/sfx/natroba-side-effects.html",
+        "https://www.drugs.com/dosage/natroba.html",
+        "https://www.drugs.com/pregnancy/spinosad-topical.html",
+        "https://www.drugs.com/history/natroba.html",
+        "https://www.drugs.com/drug-class/topical-anti-infectives.html",
+        "https://www.drugs.com/breastfeeding/spinosad.html",
+        "https://www.drugs.com/mtm_esp/natroba.html"
+    ],
+    "https://www.drugs.com/mtm/natrol-melatonin-5-htp.html": [],
+    "https://www.drugs.com/mtm/natrol-melatonin-advanced-sleep.html": [],
+    "https://www.drugs.com/mtm/natrol-melatonin-sleep-time-release.html": [],
+    "https://www.drugs.com/mtm/natrol-same.html": [
+        "https://www.drugs.com/dextromethorphan.html",
+        "https://www.drugs.com/mtm/robitussin-cough-chest-congestion-dm.html",
+        "https://www.drugs.com/drug-class/antidepressants.html"
+    ],
+    "https://www.drugs.com/npp/nattokinase.html": [],
+    "https://www.drugs.com/mtm/natura-lax.html": [],
+    "https://www.drugs.com/mtm/natural-fiber-therapy.html": [],
+    "https://www.drugs.com/cons/natural-vitamin-blend-e-400iu.html": null,
+    "https://www.drugs.com/cons/nature-s-blend-folic-acid.html": null,
+    "https://www.drugs.com/mtm/nature-s-bounty-probiotic.html": [],
+    "https://www.drugs.com/mtm/nature-s-bounty-red-krill-oil.html": null,
+    "https://www.drugs.com/cons/nature-s-tears.html": null,
+    "https://www.drugs.com/mtm/nature-throid.html": [
+        "https://www.drugs.com/article/birth-control-pill.html",
+        "https://www.drugs.com/drug-class/salicylates.html",
+        "https://www.drugs.com/mtm/nuprin-backache.html",
+        "https://www.drugs.com/mtm/kaopectate.html",
+        "https://www.drugs.com/mtm/pamprin-cramp-formula.html",
+        "https://www.drugs.com/pepto-bismol.html",
+        "https://www.drugs.com/mtm/trilisate.html",
+        "https://www.drugs.com/prednisone.html"
+    ],
+    "https://www.drugs.com/cons/nature-throid-nt-1.html": null,
+    "https://www.drugs.com/cons/nature-throid-nt-1-2.html": null,
+    "https://www.drugs.com/cons/nature-throid-nt-2.html": null,
+    "https://www.drugs.com/cons/nature-throid-nt-3.html": null,
+    "https://www.drugs.com/cons/nature-thyroid.html": null,
+    "https://www.drugs.com/cons/navane.html": null,
+    "https://www.drugs.com/mtm/navelbine.html": [],
+    "https://www.drugs.com/pro/navelbine-injection.html": null,
+    "https://www.drugs.com/navstel.html": [
+        "https://www.drugs.com/compare/navstel",
+        "https://www.drugs.com/sfx/navstel-side-effects.html",
+        "https://www.drugs.com/history/navstel.html",
+        "https://www.drugs.com/drug-class/ophthalmic-lubricants-and-irrigations.html"
+    ],
+    "https://www.drugs.com/mtm/naxitamab.html": [],
+    "https://www.drugs.com/cons/naxitamab-gqgk.html": null,
+    "https://www.drugs.com/nayzilam.html": [],
+    "https://www.drugs.com/pro/nazil-ofteno.html": null,
+    "https://www.drugs.com/cons/nebcin.html": null,
+    "https://www.drugs.com/mtm/nebivolol.html": [],
+    "https://www.drugs.com/mtm/nebivolol-and-valsartan.html": [
+        "https://www.drugs.com/mtm/cyclosporine-ophthalmic.html",
+        "https://www.drugs.com/fluoxetine.html",
+        "https://www.drugs.com/drug-class/nonsteroidal-anti-inflammatory-agents.html",
+        "https://www.drugs.com/celecoxib.html",
+        "https://www.drugs.com/mtm/diclofenac-topical.html",
+        "https://www.drugs.com/mtm/indomethacin.html"
+    ],
+    "https://www.drugs.com/mtm/nebupent.html": [],
+    "https://www.drugs.com/mtm/nebusal-inhalation.html": [
+        "https://www.drugs.com/prednisone.html",
+        "https://www.drugs.com/mtm/fluticasone-nasal.html",
+        "https://www.drugs.com/mtm/mometasone-nasal.html",
+        "https://www.drugs.com/mtm/dexamethasone-intraocular.html",
+        "https://www.drugs.com/omeprazole.html",
+        "https://www.drugs.com/mtm/sodium-bicarbonate.html"
+    ],
+    "https://www.drugs.com/mtm/necitumumab.html": [],
+    "https://www.drugs.com/pro/necon-0-5-35.html": null,
+    "https://www.drugs.com/mtm/necon-0-5-35-birth-control.html": [
+        "https://www.drugs.com/mtm/glecaprevir-and-pibrentasvir.html",
+        "https://www.drugs.com/drug-class/anticonvulsants.html",
+        "https://www.drugs.com/drug-class/anticonvulsants.html"
+    ],
+    "https://www.drugs.com/pro/necon-1-35.html": null,
+    "https://www.drugs.com/pro/necon-7-7-7.html": null,
+    "https://www.drugs.com/cons/nedocromil-inhalation.html": null,
+    "https://www.drugs.com/mtm/nedocromil-ophthalmic.html": [
+        "https://www.drugs.com/compare/nedocromil-ophthalmic",
+        "https://www.drugs.com/comments/nedocromil-ophthalmic/for-allergic-conjunctivitis.html",
+        "https://www.drugs.com/sfx/nedocromil-ophthalmic-side-effects.html",
+        "https://www.drugs.com/dosage/nedocromil-ophthalmic.html",
+        "https://www.drugs.com/pregnancy/nedocromil-ophthalmic.html",
+        "https://www.drugs.com/drug-class/ophthalmic-antihistamines-and-decongestants.html",
+        "https://www.drugs.com/breastfeeding/nedocromil.html",
+        "https://www.drugs.com/mtm_esp/nedocromil-ophthalmic.html"
+    ],
+    "https://www.drugs.com/pro/nedocromil-ophthalmic-solution.html": null,
+    "https://www.drugs.com/mtm/nedosiran.html": [
+        "https://www.drugs.com/compare/nedosiran",
+        "https://www.drugs.com/sfx/nedosiran-side-effects.html",
+        "https://www.drugs.com/dosage/nedosiran.html",
+        "https://www.drugs.com/pregnancy/nedosiran.html",
+        "https://www.drugs.com/drug-class/miscellaneous-metabolic-agents.html"
+    ],
+    "https://www.drugs.com/npp/neem.html": [],
+    "https://www.drugs.com/mtm/nefazodone.html": [
+        "https://www.drugs.com/atorvastatin.html",
+        "https://www.drugs.com/mtm/cyclosporine-ophthalmic.html"
+    ],
+    "https://www.drugs.com/pro/neggram.html": null,
+    "https://www.drugs.com/mtm/neilmed-nasogel-nasal.html": [
+        "https://www.drugs.com/compare/neilmed-nasogel",
+        "https://www.drugs.com/sfx/neilmed-nasogel-side-effects.html",
+        "https://www.drugs.com/dosage/sodium-chloride-nasal.html",
+        "https://www.drugs.com/drug-class/nasal-lubricants-and-irrigations.html",
+        "https://www.drugs.com/mtm_esp/neilmed-nasogel-nasal.html"
+    ],
+    "https://www.drugs.com/mtm/neilmed-sinus-rinse-hypertonic-packets-nasal.html": [
+        "https://www.drugs.com/compare/neilmed-sinus-rinse-hypertonic-packets",
+        "https://www.drugs.com/sfx/neilmed-sinus-rinse-hypertonic-packets-side-effects.html",
+        "https://www.drugs.com/dosage/sodium-chloride-nasal.html",
+        "https://www.drugs.com/drug-class/nasal-lubricants-and-irrigations.html",
+        "https://www.drugs.com/mtm_esp/neilmed-sinus-rinse-hypertonic-packets-nasal.html"
+    ],
+    "https://www.drugs.com/mtm/neilmed-sinus-rinse-kit-nasal.html": [
+        "https://www.drugs.com/compare/neilmed-sinus-rinse-kit",
+        "https://www.drugs.com/comments/sodium-chloride-nasal/neilmed-sinus-rinse-kit-for-nasal-congestion.html",
+        "https://www.drugs.com/sfx/neilmed-sinus-rinse-kit-side-effects.html",
+        "https://www.drugs.com/dosage/sodium-chloride-nasal.html",
+        "https://www.drugs.com/drug-class/nasal-lubricants-and-irrigations.html",
+        "https://www.drugs.com/mtm_esp/neilmed-sinus-rinse-kit-nasal.html"
+    ],
+    "https://www.drugs.com/mtm/neilmed-sinus-rinse-packets-nasal.html": [
+        "https://www.drugs.com/compare/neilmed-sinus-rinse-packets",
+        "https://www.drugs.com/comments/sodium-chloride-nasal/neilmed-sinus-rinse-packets-for-nasal-congestion.html",
+        "https://www.drugs.com/sfx/neilmed-sinus-rinse-packets-side-effects.html",
+        "https://www.drugs.com/dosage/sodium-chloride-nasal.html",
+        "https://www.drugs.com/drug-class/nasal-lubricants-and-irrigations.html",
+        "https://www.drugs.com/mtm_esp/neilmed-sinus-rinse-packets-nasal.html"
+    ],
+    "https://www.drugs.com/mtm/neilmed-sinus-rinse-pediatric-kit-nasal.html": [
+        "https://www.drugs.com/compare/neilmed-sinus-rinse-pediatric-kit",
+        "https://www.drugs.com/sfx/neilmed-sinus-rinse-pediatric-kit-side-effects.html",
+        "https://www.drugs.com/dosage/sodium-chloride-nasal.html",
+        "https://www.drugs.com/drug-class/nasal-lubricants-and-irrigations.html",
+        "https://www.drugs.com/mtm_esp/neilmed-sinus-rinse-pediatric-kit-nasal.html"
+    ],
+    "https://www.drugs.com/mtm/neilmed-sinus-rinse-pediatric-packets-nasal.html": [
+        "https://www.drugs.com/compare/neilmed-sinus-rinse-pediatric-packets",
+        "https://www.drugs.com/sfx/neilmed-sinus-rinse-pediatric-packets-side-effects.html",
+        "https://www.drugs.com/dosage/sodium-chloride-nasal.html",
+        "https://www.drugs.com/drug-class/nasal-lubricants-and-irrigations.html",
+        "https://www.drugs.com/mtm_esp/neilmed-sinus-rinse-pediatric-packets-nasal.html"
+    ],
+    "https://www.drugs.com/mtm/neilmed-sinus-rinse-small-kit-nasal.html": [
+        "https://www.drugs.com/compare/neilmed-sinus-rinse-small-kit",
+        "https://www.drugs.com/sfx/neilmed-sinus-rinse-small-kit-side-effects.html",
+        "https://www.drugs.com/dosage/sodium-chloride-nasal.html",
+        "https://www.drugs.com/drug-class/nasal-lubricants-and-irrigations.html",
+        "https://www.drugs.com/mtm_esp/neilmed-sinus-rinse-small-kit-nasal.html"
+    ],
+    "https://www.drugs.com/mtm/nelarabine.html": [],
+    "https://www.drugs.com/pro/nelarabine-injection.html": null,
+    "https://www.drugs.com/mtm/nelfinavir.html": [],
+    "https://www.drugs.com/pro/nembutal.html": null,
+    "https://www.drugs.com/pro/nemex-2.html": null,
+    "https://www.drugs.com/cons/neo-fradin.html": null,
+    "https://www.drugs.com/pro/neo-poly-bac.html": null,
+    "https://www.drugs.com/pro/neo-poly-dex.html": null,
+    "https://www.drugs.com/pro/neo-poly-dex-eye-drops.html": null,
+    "https://www.drugs.com/mtm/neo-polycin.html": [
+        "https://www.drugs.com/medical-answers/can-buy-antibiotics-over-counter-3121697/"
+    ],
+    "https://www.drugs.com/pro/neo-polycin-hc-ointment.html": null,
+    "https://www.drugs.com/mtm/neo-polycin-hc-ophthalmic.html": [],
+    "https://www.drugs.com/pro/neo-polycin-ointment.html": null,
+    "https://www.drugs.com/mtm/neo-synalar.html": [],
+    "https://www.drugs.com/pro/neo-synalar-cream.html": null,
+    "https://www.drugs.com/cons/neo-synephrine-phenylephrine-nasal.html": null,
+    "https://www.drugs.com/cons/neo-synephrine-phenylephrine-ophthalmic.html": null,
+    "https://www.drugs.com/mtm/neo-synephrine-12-hour.html": [
+        "https://www.drugs.com/amitriptyline.html",
+        "https://www.drugs.com/mtm/clomipramine.html",
+        "https://www.drugs.com/mtm/desipramine.html",
+        "https://www.drugs.com/nortriptyline.html",
+        "https://www.drugs.com/mtm/dihydroergotamine-injection.html",
+        "https://www.drugs.com/mtm/methylergonovine-oral-and-injection.html",
+        "https://www.drugs.com/mtm/isocarboxazid.html",
+        "https://www.drugs.com/mtm/tranylcypromine.html"
+    ],
+    "https://www.drugs.com/mtm/neo-synephrine-extra-strength-nasal.html": [
+        "https://www.drugs.com/drug-class/decongestants.html"
+    ],
+    "https://www.drugs.com/pro/neo-synephrine-injection.html": null,
+    "https://www.drugs.com/mtm/neo-synephrine-mild-nasal.html": [
+        "https://www.drugs.com/drug-class/decongestants.html"
+    ],
+    "https://www.drugs.com/mtm/neo-synephrine-nasal.html": [
+        "https://www.drugs.com/drug-class/decongestants.html"
+    ],
+    "https://www.drugs.com/mtm/neobenz-micro.html": [
+        "https://www.drugs.com/medical-answers/can-buy-antibiotics-over-counter-3121697/"
+    ],
+    "https://www.drugs.com/cons/neocidin.html": null,
+    "https://www.drugs.com/mtm/neofrin.html": [],
+    "https://www.drugs.com/mtm/neomycin.html": [
+        "https://www.drugs.com/mtm/fluorouracil-topical.html",
+        "https://www.drugs.com/methotrexate.html",
+        "https://www.drugs.com/mtm/vitamin-b-12-injection.html",
+        "https://www.drugs.com/mtm/ethacrynic-acid.html"
+    ],
+    "https://www.drugs.com/monograph/neomycin-eent.html": null,
+    "https://www.drugs.com/cons/neomycin-ophthalmic.html": null,
+    "https://www.drugs.com/cons/neomycin-oral.html": null,
+    "https://www.drugs.com/cons/neomycin-topical.html": null,
+    "https://www.drugs.com/cons/neomycin-and-polymyxin-b.html": null,
+    "https://www.drugs.com/pro/neomycin-and-polymyxin-b-irrigation.html": null,
+    "https://www.drugs.com/pro/neomycin-and-polymyxin-b-sulfates.html": null,
+    "https://www.drugs.com/pro/neomycin-sulfate.html": null,
+    "https://www.drugs.com/cons/neomycin-polymyxin-b-and-bacitracin-ophthalmic.html": null,
+    "https://www.drugs.com/cons/neomycin-polymyxin-b-and-bacitracin-topical.html": null,
+    "https://www.drugs.com/cons/neomycin-polymyxin-b-and-dexamethasone.html": null,
+    "https://www.drugs.com/cons/neomycin-polymyxin-b-and-gramicidin.html": null,
+    "https://www.drugs.com/cons/neomycin-polymyxin-b-and-hydrocortisone-ophthalmic.html": null,
+    "https://www.drugs.com/cons/neomycin-polymyxin-b-and-hydrocortisone-otic.html": null,
+    "https://www.drugs.com/pro/neomycin-polymyxin-b-bacitracin-ophthalmic-ointment.html": null,
+    "https://www.drugs.com/pro/neomycin-polymyxin-b-hydrocortisone-ophthalmic-suspension.html": null,
+    "https://www.drugs.com/pro/neomycin-polymyxin-hydrocortisone-ear-drops.html": null,
+    "https://www.drugs.com/pro/neomycin-polymyxin-b-sulfates-and-hydrocortisone.html": null,
+    "https://www.drugs.com/pro/neomycin-polymyxin-b-bacitracin-hydrocortisone.html": null,
+    "https://www.drugs.com/pro/neomycin-polymyxin-b-dexamethasone-ointment.html": null,
+    "https://www.drugs.com/pro/neonatal-complete.html": null,
+    "https://www.drugs.com/pro/neonatal-19.html": null,
+    "https://www.drugs.com/pro/neonatal-dha.html": null,
+    "https://www.drugs.com/pro/neonatal-fe.html": null,
+    "https://www.drugs.com/mtm/neoprofen.html": [
+        "https://www.drugs.com/methotrexate.html",
+        "https://www.drugs.com/coumadin.html",
+        "https://www.drugs.com/mtm/diflunisal.html",
+        "https://www.drugs.com/mtm/salsalate.html",
+        "https://www.drugs.com/prednisone.html"
+    ],
+    "https://www.drugs.com/cons/neoprofen-ibuprofen-intravenous.html": null,
+    "https://www.drugs.com/cons/neoprofen-ibuprofen-lysine-intravenous.html": null,
+    "https://www.drugs.com/cons/neoral.html": null,
+    "https://www.drugs.com/cons/neosporin.html": null,
+    "https://www.drugs.com/cons/neosporin-af.html": null,
+    "https://www.drugs.com/pro/neosporin-g-u.html": null,
+    "https://www.drugs.com/mtm/neosporin-ophthalmic.html": [
+        "https://www.drugs.com/compare/neosporin-ophthalmic",
+        "https://www.drugs.com/sfx/neosporin-ophthalmic-side-effects.html",
+        "https://www.drugs.com/dosage/neosporin-ophthalmic-solution.html",
+        "https://www.drugs.com/drug-class/ophthalmic-anti-infectives.html"
+    ],
+    "https://www.drugs.com/pro/neosporin-ophthalmic-solution.html": null,
+    "https://www.drugs.com/mtm/neosporin-topical.html": [
+        "https://www.drugs.com/medical-answers/can-buy-antibiotics-over-counter-3121697/",
+        "https://www.drugs.com/medical-answers/what-is-the-difference-between-polysporin-and-128943/"
+    ],
+    "https://www.drugs.com/mtm/neostigmine.html": [],
+    "https://www.drugs.com/cons/neostigmine-injection.html": null,
+    "https://www.drugs.com/cons/neostigmine-oral.html": null,
+    "https://www.drugs.com/cons/neostigmine-methylsulfate-and-glycopyrrolate.html": null,
+    "https://www.drugs.com/pro/neostigmine-methylsulfate-injection.html": null,
+    "https://www.drugs.com/nepafenac.html": [],
+    "https://www.drugs.com/pro/nephplex-rx.html": null,
+    "https://www.drugs.com/pro/nephramine-5-4.html": null,
+    "https://www.drugs.com/pro/nephrocaps.html": null,
+    "https://www.drugs.com/pro/nephrocaps-qt.html": null,
+    "https://www.drugs.com/pro/nephron-fa.html": null,
+    "https://www.drugs.com/pro/nephroscan.html": null,
+    "https://www.drugs.com/mtm/neptazane.html": [
+        "https://www.drugs.com/prednisone.html",
+        "https://www.drugs.com/mtm/dexamethasone-intraocular.html"
+    ],
+    "https://www.drugs.com/mtm/neratinib.html": [
+        "https://www.drugs.com/medical-answers/how-take-nerlynx-3323445/"
+    ],
+    "https://www.drugs.com/nerlynx.html": [
+        "https://www.drugs.com/medical-answers/how-take-nerlynx-3323445/"
+    ],
+    "https://www.drugs.com/cons/nesacaine.html": null,
+    "https://www.drugs.com/cons/nesacaine-mpf.html": null,
+    "https://www.drugs.com/nesina.html": [],
+    "https://www.drugs.com/cons/nesiritide.html": null,
+    "https://www.drugs.com/pro/nestabs-dha-prenatal.html": null,
+    "https://www.drugs.com/pro/nestabs-one.html": null,
+    "https://www.drugs.com/pro/nestabs-prenatal.html": null,
+    "https://www.drugs.com/cons/netarsudil.html": null,
+    "https://www.drugs.com/cons/netarsudil-and-latanoprost.html": null,
+    "https://www.drugs.com/monograph/netarsudil-mesylate.html": [],
+    "https://www.drugs.com/mtm/netarsudil-ophthalmic.html": [
+        "https://www.drugs.com/compare/netarsudil-ophthalmic",
+        "https://www.drugs.com/comments/netarsudil-ophthalmic/",
+        "https://www.drugs.com/sfx/netarsudil-ophthalmic-side-effects.html",
+        "https://www.drugs.com/dosage/netarsudil-ophthalmic.html",
+        "https://www.drugs.com/pregnancy/netarsudil-ophthalmic.html",
+        "https://www.drugs.com/drug-class/ophthalmic-glaucoma-agents.html",
+        "https://www.drugs.com/breastfeeding/netarsudil.html",
+        "https://www.drugs.com/mtm_esp/netarsudil-ophthalmic.html"
+    ],
+    "https://www.drugs.com/cons/netspot.html": null,
+    "https://www.drugs.com/mtm/nettle.html": [
+        "https://www.drugs.com/lithium.html",
+        "https://www.drugs.com/drug-class/insulin.html",
+        "https://www.drugs.com/warfarin.html",
+        "https://www.drugs.com/coumadin.html",
+        "https://www.drugs.com/mtm/jantoven.html"
+    ],
+    "https://www.drugs.com/npc/nettles.html": null,
+    "https://www.drugs.com/mtm/netupitant-and-palonosetron.html": [],
+    "https://www.drugs.com/mtm/neuac.html": [],
+    "https://www.drugs.com/pro/neuac-gel.html": null,
+    "https://www.drugs.com/neulasta.html": [
+        "https://www.drugs.com/medical-answers/you-claritin-neulasta-3548526/",
+        "https://www.drugs.com/medical-answers/many-biosimilars-approved-united-states-3463281/",
+        "https://www.drugs.com/medical-answers/long-side-effects-neulasta-pegfilgrastim-shot-3547961/",
+        "https://www.drugs.com/medical-answers/neulasta-bone-pain-3548254/"
+    ],
+    "https://www.drugs.com/mtm/neulasta-onpro-kit.html": [
+        "https://www.drugs.com/medical-answers/you-claritin-neulasta-3548526/",
+        "https://www.drugs.com/medical-answers/many-biosimilars-approved-united-states-3463281/",
+        "https://www.drugs.com/medical-answers/long-side-effects-neulasta-pegfilgrastim-shot-3547961/",
+        "https://www.drugs.com/medical-answers/neulasta-bone-pain-3548254/"
+    ],
+    "https://www.drugs.com/pro/neulumex.html": null,
+    "https://www.drugs.com/cons/neumega.html": null,
+    "https://www.drugs.com/neupogen.html": [
+        "https://www.drugs.com/medical-answers/many-biosimilars-approved-united-states-3463281/",
+        "https://www.drugs.com/medical-answers/difference-between-nivestym-neupogen-3436194/"
+    ],
+    "https://www.drugs.com/neupro.html": [],
+    "https://www.drugs.com/pro/neupro-patch.html": null,
+    "https://www.drugs.com/cons/neuraceq.html": null,
+    "https://www.drugs.com/pro/neuralgo-rheum.html": null,
+    "https://www.drugs.com/pro/neurcaine.html": null,
+    "https://www.drugs.com/cons/neuroforte-r.html": null,
+    "https://www.drugs.com/pro/neurolite.html": null,
+    "https://www.drugs.com/pro/neuromaquel-neuroma.html": null,
+    "https://www.drugs.com/neurontin.html": [
+        "https://www.drugs.com/medical-answers/difference-between-lyrica-gabapentin-3508860/"
+    ],
+    "https://www.drugs.com/mtm/neuroxa-kit-topical.html": [],
+    "https://www.drugs.com/cons/neut.html": null,
+    "https://www.drugs.com/pro/neut-injection.html": null,
+    "https://www.drugs.com/pro/neutra-maxx.html": null,
+    "https://www.drugs.com/mtm/neutragard.html": [
+        "https://www.drugs.com/compare/neutragard",
+        "https://www.drugs.com/sfx/neutragard-side-effects.html",
+        "https://www.drugs.com/dosage/fluoride-topical.html",
+        "https://www.drugs.com/pregnancy/fluoride-topical.html",
+        "https://www.drugs.com/drug-class/mouth-and-throat-products.html",
+        "https://www.drugs.com/mtm_esp/neutragard.html"
+    ],
+    "https://www.drugs.com/pro/neutragard-gel.html": null,
+    "https://www.drugs.com/mtm/neutral-sodium-fluoride-rinse.html": [
+        "https://www.drugs.com/compare/neutral-sodium-fluoride-rinse",
+        "https://www.drugs.com/sfx/neutral-sodium-fluoride-rinse-side-effects.html",
+        "https://www.drugs.com/dosage/fluoride-topical.html",
+        "https://www.drugs.com/pregnancy/fluoride-topical.html",
+        "https://www.drugs.com/drug-class/mouth-and-throat-products.html",
+        "https://www.drugs.com/mtm_esp/neutral-sodium-fluoride-rinse.html"
+    ],
+    "https://www.drugs.com/pro/neutramaxx-5000-plus-turbo.html": null,
+    "https://www.drugs.com/pro/neutramaxx-5000-tcp.html": null,
+    "https://www.drugs.com/mtm/neutrasal.html": [
+        "https://www.drugs.com/compare/neutrasal",
+        "https://www.drugs.com/comments/saliva-substitutes-topical/neutrasal.html",
+        "https://www.drugs.com/sfx/neutrasal-side-effects.html",
+        "https://www.drugs.com/dosage/saliva-substitutes-topical.html",
+        "https://www.drugs.com/pregnancy/saliva-substitutes-topical.html",
+        "https://www.drugs.com/drug-class/mouth-and-throat-products.html",
+        "https://www.drugs.com/mtm_esp/neutrasal.html"
+    ],
+    "https://www.drugs.com/cons/neutrogena.html": null,
+    "https://www.drugs.com/mtm/neutrogena-acne-drying-gel.html": [
+        "https://www.drugs.com/compare/neutrogena-acne-drying-gel",
+        "https://www.drugs.com/sfx/neutrogena-acne-drying-gel-side-effects.html",
+        "https://www.drugs.com/drug-class/topical-astringents.html",
+        "https://www.drugs.com/mtm_esp/neutrogena-acne-drying-gel.html"
+    ],
+    "https://www.drugs.com/mtm/neutrogena-acne-mask.html": [
+        "https://www.drugs.com/medical-answers/can-buy-antibiotics-over-counter-3121697/"
+    ],
+    "https://www.drugs.com/mtm/neutrogena-acne-wash-oil-free.html": [],
+    "https://www.drugs.com/mtm/neutrogena-body-clear-body-wash.html": [],
+    "https://www.drugs.com/mtm/neutrogena-healthy-scalp-dandruff-shampoo.html": [],
+    "https://www.drugs.com/mtm/neutrogena-on-spot-acne-treatment.html": [
+        "https://www.drugs.com/medical-answers/can-buy-antibiotics-over-counter-3121697/"
+    ],
+    "https://www.drugs.com/mtm/neutrogena-t-derm.html": [],
+    "https://www.drugs.com/mtm/neutrogena-t-gel.html": [],
+    "https://www.drugs.com/mtm/neutrogena-t-gel-extra-strength.html": [],
+    "https://www.drugs.com/mtm/neutrogena-t-sal.html": [],
+    "https://www.drugs.com/cons/neutrogena-t-scalp.html": null,
+    "https://www.drugs.com/nevanac.html": [],
+    "https://www.drugs.com/mtm/nevirapine.html": [
+        "https://www.drugs.com/cg/hepatitis-c.html",
+        "https://www.drugs.com/mtm/dihydroergotamine-injection.html",
+        "https://www.drugs.com/cg/liver-transplant-discharge-care.html"
+    ],
+    "https://www.drugs.com/pro/nevirapine-extended-release.html": null,
+    "https://www.drugs.com/pro/nevirapine-suspension.html": null,
+    "https://www.drugs.com/mtm/new-day.html": [
+        "https://www.drugs.com/mtm/efavirenz.html",
+        "https://www.drugs.com/mtm/rifampin.html",
+        "https://www.drugs.com/carbamazepine.html",
+        "https://www.drugs.com/mtm/felbamate.html",
+        "https://www.drugs.com/mtm/fosphenytoin.html",
+        "https://www.drugs.com/mtm/phenobarbital.html",
+        "https://www.drugs.com/phenytoin.html",
+        "https://www.drugs.com/mtm/primidone.html"
+    ],
+    "https://www.drugs.com/mtm/new-skin-bandage.html": [
+        "https://www.drugs.com/compare/new-skin-bandage",
+        "https://www.drugs.com/comments/benzethonium-chloride-topical/new-skin-bandage.html",
+        "https://www.drugs.com/sfx/new-skin-bandage-side-effects.html",
+        "https://www.drugs.com/drug-class/antiseptic-and-germicides.html",
+        "https://www.drugs.com/mtm_esp/new-skin-bandage.html"
+    ],
+    "https://www.drugs.com/npp/new-zealand-green-lipped-mussel.html": [
+        "https://www.drugs.com/comments/new-zealand-green-lipped-mussel/"
+    ],
+    "https://www.drugs.com/mtm/nexafed.html": [],
+    "https://www.drugs.com/mtm/nexafed-sinus-pressure-pain.html": [],
+    "https://www.drugs.com/nexavar.html": [],
+    "https://www.drugs.com/pro/nexavir.html": null,
+    "https://www.drugs.com/pro/nexesta-fe.html": null,
+    "https://www.drugs.com/cons/nexiclon-xr.html": null,
+    "https://www.drugs.com/nexium.html": [
+        "https://www.drugs.com/mtm/cilostazol.html",
+        "https://www.drugs.com/mtm/clopidogrel.html",
+        "https://www.drugs.com/diazepam.html",
+        "https://www.drugs.com/digoxin.html",
+        "https://www.drugs.com/erlotinib.html",
+        "https://www.drugs.com/mtm/ferrous-fumarate.html",
+        "https://www.drugs.com/mtm/ferrous-gluconate.html",
+        "https://www.drugs.com/ferrous_sulfate.html",
+        "https://www.drugs.com/methotrexate.html",
+        "https://www.drugs.com/mtm/mycophenolate-mofetil-oral-injection.html",
+        "https://www.drugs.com/mtm/rifampin.html",
+        "https://www.drugs.com/mtm/st-john-s-wort.html",
+        "https://www.drugs.com/mtm/tacrolimus-oral-and-injection.html",
+        "https://www.drugs.com/warfarin.html",
+        "https://www.drugs.com/coumadin.html",
+        "https://www.drugs.com/mtm/jantoven.html",
+        "https://www.drugs.com/mtm/ketoconazole.html",
+        "https://www.drugs.com/mtm/voriconazole-oral-injection.html",
+        "https://www.drugs.com/mtm/atazanavir.html",
+        "https://www.drugs.com/mtm/nelfinavir.html",
+        "https://www.drugs.com/mtm/saquinavir.html"
+    ],
+    "https://www.drugs.com/mtm/nexium-24hr.html": [
+        "https://www.drugs.com/mtm/ferrous-fumarate.html",
+        "https://www.drugs.com/mtm/ferrous-gluconate.html",
+        "https://www.drugs.com/ferrous_sulfate.html",
+        "https://www.drugs.com/methotrexate.html",
+        "https://www.drugs.com/mtm/mycophenolate-mofetil-oral-injection.html",
+        "https://www.drugs.com/mtm/st-john-s-wort.html",
+        "https://www.drugs.com/mtm/ketoconazole-topical.html",
+        "https://www.drugs.com/mtm/voriconazole-oral-injection.html"
+    ],
+    "https://www.drugs.com/pro/nexium-24hr-capsules.html": null,
+    "https://www.drugs.com/mtm/nexium-24hr-clearminis.html": [
+        "https://www.drugs.com/mtm/ferrous-fumarate.html",
+        "https://www.drugs.com/mtm/ferrous-gluconate.html",
+        "https://www.drugs.com/ferrous_sulfate.html",
+        "https://www.drugs.com/methotrexate.html",
+        "https://www.drugs.com/mtm/mycophenolate-mofetil-oral-injection.html",
+        "https://www.drugs.com/mtm/st-john-s-wort.html",
+        "https://www.drugs.com/mtm/ketoconazole-topical.html",
+        "https://www.drugs.com/mtm/voriconazole-oral-injection.html"
+    ],
+    "https://www.drugs.com/pro/nexium-24hr-tablets.html": null,
+    "https://www.drugs.com/pro/nexium-capsules.html": null,
+    "https://www.drugs.com/cons/nexium-i-v.html": null,
+    "https://www.drugs.com/nexium_iv.html": [
+        "https://www.drugs.com/mtm/cilostazol.html",
+        "https://www.drugs.com/mtm/clopidogrel.html",
+        "https://www.drugs.com/diazepam.html",
+        "https://www.drugs.com/digoxin.html",
+        "https://www.drugs.com/erlotinib.html",
+        "https://www.drugs.com/mtm/ferrous-fumarate.html",
+        "https://www.drugs.com/mtm/ferrous-gluconate.html",
+        "https://www.drugs.com/ferrous_sulfate.html",
+        "https://www.drugs.com/methotrexate.html",
+        "https://www.drugs.com/mtm/mycophenolate-mofetil-oral-injection.html",
+        "https://www.drugs.com/mtm/rifampin.html",
+        "https://www.drugs.com/mtm/st-john-s-wort.html",
+        "https://www.drugs.com/mtm/tacrolimus-oral-and-injection.html",
+        "https://www.drugs.com/warfarin.html",
+        "https://www.drugs.com/coumadin.html",
+        "https://www.drugs.com/mtm/jantoven.html",
+        "https://www.drugs.com/mtm/ketoconazole.html",
+        "https://www.drugs.com/mtm/voriconazole-oral-injection.html",
+        "https://www.drugs.com/mtm/atazanavir.html",
+        "https://www.drugs.com/mtm/nelfinavir.html",
+        "https://www.drugs.com/mtm/saquinavir.html"
+    ],
+    "https://www.drugs.com/nexletol.html": [],
+    "https://www.drugs.com/nexlizet.html": null,
+    "https://www.drugs.com/cons/nexobrid.html": null,
+    "https://www.drugs.com/nexplanon.html": [],
+    "https://www.drugs.com/cons/next-choice.html": null,
+    "https://www.drugs.com/mtm/next-cold-and-flu-daytime.html": [],
+    "https://www.drugs.com/nexterone.html": [
+        "https://www.drugs.com/azithromycin.html",
+        "https://www.drugs.com/ciprofloxacin.html",
+        "https://www.drugs.com/clarithromycin.html",
+        "https://www.drugs.com/erythromycin.html",
+        "https://www.drugs.com/levofloxacin.html",
+        "https://www.drugs.com/mtm/moxifloxacin-oral-injection.html",
+        "https://www.drugs.com/mtm/pentamidine.html",
+        "https://www.drugs.com/mtm/rifampin.html",
+        "https://www.drugs.com/amitriptyline.html",
+        "https://www.drugs.com/citalopram.html",
+        "https://www.drugs.com/mtm/desipramine.html",
+        "https://www.drugs.com/mtm/doxepin-capsules-oral-concentrate.html",
+        "https://www.drugs.com/mtm/imipramine.html",
+        "https://www.drugs.com/nortriptyline.html",
+        "https://www.drugs.com/trazodone.html",
+        "https://www.drugs.com/warfarin.html",
+        "https://www.drugs.com/coumadin.html",
+        "https://www.drugs.com/mtm/jantoven.html",
+        "https://www.drugs.com/atorvastatin.html",
+        "https://www.drugs.com/mtm/lovastatin.html",
+        "https://www.drugs.com/simvastatin.html",
+        "https://www.drugs.com/lipitor.html",
+        "https://www.drugs.com/zocor.html",
+        "https://www.drugs.com/vytorin.html",
+        "https://www.drugs.com/atenolol.html",
+        "https://www.drugs.com/carvedilol.html",
+        "https://www.drugs.com/clonidine.html",
+        "https://www.drugs.com/digoxin.html",
+        "https://www.drugs.com/mtm/disopyramide.html",
+        "https://www.drugs.com/mtm/dofetilide.html",
+        "https://www.drugs.com/mtm/flecainide.html",
+        "https://www.drugs.com/mtm/ivabradine.html",
+        "https://www.drugs.com/metoprolol.html",
+        "https://www.drugs.com/mtm/nebivolol.html",
+        "https://www.drugs.com/mtm/procainamide-injection.html",
+        "https://www.drugs.com/propranolol.html",
+        "https://www.drugs.com/mtm/quinidine.html",
+        "https://www.drugs.com/mtm/sotalol.html",
+        "https://www.drugs.com/verapamil.html",
+        "https://www.drugs.com/harvoni.html",
+        "https://www.drugs.com/sovaldi.html",
+        "https://www.drugs.com/mtm/ritonavir.html",
+        "https://www.drugs.com/mtm/chlorpromazine.html",
+        "https://www.drugs.com/mtm/fluphenazine.html",
+        "https://www.drugs.com/mtm/haloperidol.html",
+        "https://www.drugs.com/lithium.html",
+        "https://www.drugs.com/mtm/pimozide.html",
+        "https://www.drugs.com/promethazine.html",
+        "https://www.drugs.com/mtm/thioridazine.html",
+        "https://www.drugs.com/mtm/ziprasidone.html"
+    ],
+    "https://www.drugs.com/nextstellis.html": [
+        "https://www.drugs.com/mtm/aprepitant.html",
+        "https://www.drugs.com/mtm/bosentan.html",
+        "https://www.drugs.com/mtm/phenobarbital.html",
+        "https://www.drugs.com/drug-class/barbiturates.html",
+        "https://www.drugs.com/mtm/lamotrigine.html",
+        "https://www.drugs.com/mtm/st-john-s-wort.html",
+        "https://www.drugs.com/clarithromycin.html",
+        "https://www.drugs.com/mtm/rifampin.html",
+        "https://www.drugs.com/mtm/fluconazole.html",
+        "https://www.drugs.com/mtm/griseofulvin.html",
+        "https://www.drugs.com/mtm/itraconazole.html",
+        "https://www.drugs.com/mtm/ketoconazole.html",
+        "https://www.drugs.com/mtm/voriconazole-oral-injection.html",
+        "https://www.drugs.com/mtm/efavirenz.html",
+        "https://www.drugs.com/mtm/nevirapine.html",
+        "https://www.drugs.com/enzalutamide.html",
+        "https://www.drugs.com/mtm/amiloride.html",
+        "https://www.drugs.com/mtm/eplerenone.html",
+        "https://www.drugs.com/spironolactone.html",
+        "https://www.drugs.com/carbamazepine.html",
+        "https://www.drugs.com/mtm/felbamate.html",
+        "https://www.drugs.com/mtm/oxcarbazepine.html",
+        "https://www.drugs.com/phenytoin.html",
+        "https://www.drugs.com/mtm/topiramate.html",
+        "https://www.drugs.com/dexamethasone.html",
+        "https://www.drugs.com/prednisone.html"
+    ],
+    "https://www.drugs.com/mtm/nexviazyme.html": [],
+    "https://www.drugs.com/mtm/n-ice-oral-mucous-membrane.html": [
+        "https://www.drugs.com/compare/n-ice",
+        "https://www.drugs.com/sfx/n-ice-side-effects.html",
+        "https://www.drugs.com/dosage/menthol-topical.html",
+        "https://www.drugs.com/pregnancy/menthol-topical.html",
+        "https://www.drugs.com/drug-class/topical-rubefacient.html",
+        "https://www.drugs.com/mtm_esp/n-ice-oral-mucous-membrane.html"
+    ],
+    "https://www.drugs.com/mtm/n-ice-with-vitamin-c.html": [],
+    "https://www.drugs.com/niacin.html": [],
+    "https://www.drugs.com/monograph/niacin-antilipemic.html": [
+        "https://www.drugs.com/medical-answers/how-long-does-niacin-stay-in-the-human-system-419351/"
+    ],
+    "https://www.drugs.com/monograph/niacin-vitamin.html": [
+        "https://www.drugs.com/medical-answers/how-long-does-niacin-stay-in-the-human-system-419351/"
+    ],
+    "https://www.drugs.com/cons/niacin-and-lovastatin.html": null,
+    "https://www.drugs.com/mtm/niacin-sr.html": [
+        "https://www.drugs.com/warfarin.html",
+        "https://www.drugs.com/coumadin.html",
+        "https://www.drugs.com/mtm/jantoven.html"
+    ],
+    "https://www.drugs.com/pro/niacin-tablets.html": null,
+    "https://www.drugs.com/cons/niacinol.html": null,
+    "https://www.drugs.com/mtm/niacor.html": [
+        "https://www.drugs.com/warfarin.html",
+        "https://www.drugs.com/coumadin.html",
+        "https://www.drugs.com/mtm/jantoven.html"
+    ],
+    "https://www.drugs.com/niaspan.html": [],
+    "https://www.drugs.com/mtm/niavasc.html": [
+        "https://www.drugs.com/warfarin.html",
+        "https://www.drugs.com/coumadin.html",
+        "https://www.drugs.com/mtm/jantoven.html"
+    ],
+    "https://www.drugs.com/pro/nicardipine.html": null,
+    "https://www.drugs.com/cons/nicardipine-intravenous.html": null,
+    "https://www.drugs.com/cons/nicardipine-oral.html": null,
+    "https://www.drugs.com/pro/nicardipine-injection.html": null,
+    "https://www.drugs.com/mtm/nicardipine-oral-injection.html": [],
+    "https://www.drugs.com/cons/niclosamide.html": null,
+    "https://www.drugs.com/mtm/nicoderm-c-q-transdermal.html": [
+        "https://www.drugs.com/medical-answers/side-effects-vaping-3454983/"
+    ],
+    "https://www.drugs.com/cons/nicoderm-cq.html": null,
+    "https://www.drugs.com/pro/nicomide.html": null,
+    "https://www.drugs.com/cons/nicorelief.html": null,
+    "https://www.drugs.com/mtm/nicorelief-gum-lozenge.html": [
+        "https://www.drugs.com/bupropion.html",
+        "https://www.drugs.com/mtm/varenicline.html",
+        "https://www.drugs.com/wellbutrin.html"
+    ],
+    "https://www.drugs.com/nicorette.html": [
+        "https://www.drugs.com/medical-answers/side-effects-vaping-3454983/"
+    ],
+    "https://www.drugs.com/mtm/nicorette-cinnamon-surge-gum-lozenge.html": [
+        "https://www.drugs.com/bupropion.html",
+        "https://www.drugs.com/mtm/varenicline.html",
+        "https://www.drugs.com/wellbutrin.html"
+    ],
+    "https://www.drugs.com/pro/nicorette-fruit-chill.html": null,
+    "https://www.drugs.com/mtm/nicorette-fruit-chill-gum-lozenge.html": [
+        "https://www.drugs.com/bupropion.html",
+        "https://www.drugs.com/mtm/varenicline.html",
+        "https://www.drugs.com/wellbutrin.html"
+    ],
+    "https://www.drugs.com/pro/nicorette-lozenge.html": null,
+    "https://www.drugs.com/mtm/nicorette-mini-gum-lozenge.html": [
+        "https://www.drugs.com/bupropion.html",
+        "https://www.drugs.com/mtm/varenicline.html",
+        "https://www.drugs.com/wellbutrin.html"
+    ],
+    "https://www.drugs.com/mtm/nicorette-mint-gum-lozenge.html": [
+        "https://www.drugs.com/bupropion.html",
+        "https://www.drugs.com/mtm/varenicline.html",
+        "https://www.drugs.com/wellbutrin.html"
+    ],
+    "https://www.drugs.com/mtm/nicorette-spearmint-burst-with-a-hint-of-chamomile-gum-lozenge.html": [
+        "https://www.drugs.com/bupropion.html",
+        "https://www.drugs.com/mtm/varenicline.html",
+        "https://www.drugs.com/wellbutrin.html"
+    ],
+    "https://www.drugs.com/pro/nicorette-white-ice.html": null,
+    "https://www.drugs.com/mtm/nicorette-white-ice-mint-gum-lozenge.html": [
+        "https://www.drugs.com/bupropion.html",
+        "https://www.drugs.com/mtm/varenicline.html",
+        "https://www.drugs.com/wellbutrin.html"
+    ],
+    "https://www.drugs.com/monograph/nicotine.html": [],
+    "https://www.drugs.com/cons/nicotine-inhalation.html": null,
+    "https://www.drugs.com/cons/nicotine-nasal.html": null,
+    "https://www.drugs.com/cons/nicotine-oral-oromucosal.html": null,
+    "https://www.drugs.com/nicotine.html": [
+        "https://www.drugs.com/cg/asthma.html",
+        "https://www.drugs.com/bupropion.html",
+        "https://www.drugs.com/mtm/varenicline.html",
+        "https://www.drugs.com/chantix.html",
+        "https://www.drugs.com/zyban.html",
+        "https://www.drugs.com/wellbutrin.html"
+    ],
+    "https://www.drugs.com/mtm/nicotine-nasal-inhalation.html": [
+        "https://www.drugs.com/acetaminophen.html",
+        "https://www.drugs.com/mtm/theophylline.html",
+        "https://www.drugs.com/amitriptyline.html",
+        "https://www.drugs.com/nortriptyline.html",
+        "https://www.drugs.com/mtm/phenylephrine-nasal.html",
+        "https://www.drugs.com/mtm/dihydroergotamine-injection.html",
+        "https://www.drugs.com/mtm/methylergonovine-oral-and-injection.html"
+    ],
+    "https://www.drugs.com/pro/nicotine-patch.html": null,
+    "https://www.drugs.com/mtm/nicotine-transdermal.html": [
+        "https://www.drugs.com/medical-answers/side-effects-vaping-3454983/"
+    ],
+    "https://www.drugs.com/pro/nicotine-transdermal-system.html": null,
+    "https://www.drugs.com/pro/nicotine-transdermal-system-step-1.html": null,
+    "https://www.drugs.com/pro/nicotine-transdermal-system-step-2.html": null,
+    "https://www.drugs.com/pro/nicotine-transdermal-system-step-3.html": null,
+    "https://www.drugs.com/cons/nicotinex.html": null,
+    "https://www.drugs.com/cons/nicotrol-nicotine-inhalation.html": null,
+    "https://www.drugs.com/cons/nicotrol-nicotine-transdermal.html": null,
+    "https://www.drugs.com/pro/nicotrol-inhalant.html": null,
+    "https://www.drugs.com/pro/nicotrol-inhaler.html": null,
+    "https://www.drugs.com/mtm/nicotrol-inhaler-nasal-inhalation.html": [
+        "https://www.drugs.com/acetaminophen.html",
+        "https://www.drugs.com/mtm/theophylline.html",
+        "https://www.drugs.com/amitriptyline.html",
+        "https://www.drugs.com/nortriptyline.html",
+        "https://www.drugs.com/mtm/phenylephrine-nasal.html",
+        "https://www.drugs.com/mtm/dihydroergotamine-injection.html",
+        "https://www.drugs.com/mtm/methylergonovine-oral-and-injection.html"
+    ],
+    "https://www.drugs.com/cons/nicotrol-ns.html": null,
+    "https://www.drugs.com/mtm/nicotrol-ns-nasal-inhalation.html": [
+        "https://www.drugs.com/acetaminophen.html",
+        "https://www.drugs.com/mtm/theophylline.html",
+        "https://www.drugs.com/amitriptyline.html",
+        "https://www.drugs.com/nortriptyline.html",
+        "https://www.drugs.com/mtm/phenylephrine-nasal.html",
+        "https://www.drugs.com/mtm/dihydroergotamine-injection.html",
+        "https://www.drugs.com/mtm/methylergonovine-oral-and-injection.html"
+    ],
+    "https://www.drugs.com/cons/nifediac-cc.html": null,
+    "https://www.drugs.com/cons/nifedical-xl.html": null,
+    "https://www.drugs.com/nifedipine.html": [],
+    "https://www.drugs.com/mtm/nifedipine-eqv-adalat-cc.html": [],
+    "https://www.drugs.com/mtm/nifedipine-eqv-procardia-xl.html": [],
+    "https://www.drugs.com/pro/nifedipine-capsules.html": null,
+    "https://www.drugs.com/pro/nifedipine-extended-release-tablets.html": null,
+    "https://www.drugs.com/niferex.html": [],
+    "https://www.drugs.com/mtm/nifurtimox.html": [],
+    "https://www.drugs.com/mtm/night-time-cold-flu.html": [],
+    "https://www.drugs.com/mtm/nighttime-cold-and-flu-cherry.html": [],
+    "https://www.drugs.com/pro/nighttime-sleepaid.html": null,
+    "https://www.drugs.com/cons/nikita.html": null,
+    "https://www.drugs.com/mtm/nikki.html": [],
+    "https://www.drugs.com/mtm/nilandron.html": [],
+    "https://www.drugs.com/mtm/nilotinib.html": [
+        "https://www.drugs.com/medical-answers/tasigna-nilotinib-hair-loss-3559391/"
+    ],
+    "https://www.drugs.com/mtm/nilutamide.html": [],
+    "https://www.drugs.com/mtm/nimbex.html": [
+        "https://www.drugs.com/lithium.html",
+        "https://www.drugs.com/article/antibiotics.html"
+    ],
+    "https://www.drugs.com/mtm/nimodipine.html": [],
+    "https://www.drugs.com/cons/nimotop.html": null,
+    "https://www.drugs.com/ninlaro.html": [
+        "https://www.drugs.com/medical-answers/ninlaro-velcade-3537835/",
+        "https://www.drugs.com/medical-answers/ninlaro-cost-compared-chemo-drugs-3538258/",
+        "https://www.drugs.com/medical-answers/ninlaro-chemotherapy-drug-work-3537074/",
+        "https://www.drugs.com/medical-answers/does-ninlaro-cause-shingles-3537350/",
+        "https://www.drugs.com/medical-answers/effective-ninlaro-ixazomib-3537220/"
+    ],
+    "https://www.drugs.com/cons/ninoprin.html": null,
+    "https://www.drugs.com/nintedanib.html": [],
+    "https://www.drugs.com/mtm/nipent.html": [
+        "https://www.drugs.com/mtm/carmustine-injection-implant.html",
+        "https://www.drugs.com/mtm/cyclophosphamide-oral-and-injection.html",
+        "https://www.drugs.com/mtm/etoposide.html",
+        "https://www.drugs.com/mtm/fludarabine-injection.html",
+        "https://www.drugs.com/cons/vidarabine.html"
+    ],
+    "https://www.drugs.com/mtm/niphanoid.html": [
+        "https://www.drugs.com/drug-class/sulfonamides.html",
+        "https://www.drugs.com/bactrim.html",
+        "https://www.drugs.com/septra.html",
+        "https://www.drugs.com/cons/sulfatrim.html"
+    ],
+    "https://www.drugs.com/mtm/nipride-rtu.html": [],
+    "https://www.drugs.com/mtm/niraparib.html": [],
+    "https://www.drugs.com/cons/niraparib-and-abiraterone.html": null,
+    "https://www.drugs.com/cons/niravam.html": null,
+    "https://www.drugs.com/mtm/nirmatrelvir-and-ritonavir.html": [],
+    "https://www.drugs.com/mtm/nirogacestat.html": [],
+    "https://www.drugs.com/mtm/nirsevimab.html": [],
+    "https://www.drugs.com/mtm/nirsevimab-cvx-306.html": [],
+    "https://www.drugs.com/cons/nirsevimab-alip.html": null,
+    "https://www.drugs.com/mtm/nisoldipine.html": [],
+    "https://www.drugs.com/mtm/nitazoxanide.html": [],
+    "https://www.drugs.com/mtm/nitetime-cold-and-flu.html": [],
+    "https://www.drugs.com/mtm/nithiodote.html": [
+        "https://www.drugs.com/cg/erectile-dysfunction.html",
+        "https://www.drugs.com/sildenafil.html",
+        "https://www.drugs.com/tadalafil.html",
+        "https://www.drugs.com/viagra.html",
+        "https://www.drugs.com/levitra.html",
+        "https://www.drugs.com/cialis.html",
+        "https://www.drugs.com/stendra.html"
+    ],
+    "https://www.drugs.com/mtm/nitisinone.html": [],
+    "https://www.drugs.com/pro/nitisinone-capsules.html": null,
+    "https://www.drugs.com/cons/nitrek.html": null,
+    "https://www.drugs.com/cons/nitric-oxide.html": null,
+    "https://www.drugs.com/mtm/nitric-oxide-inhalation-gas.html": [],
+    "https://www.drugs.com/mtm/nitro-td-patch-a-transdermal.html": [
+        "https://www.drugs.com/mtm/dihydroergotamine-injection.html",
+        "https://www.drugs.com/ergotamine.html",
+        "https://www.drugs.com/cdi/ergonovine.html",
+        "https://www.drugs.com/mtm/methylergonovine-oral-and-injection.html"
+    ],
+    "https://www.drugs.com/pro/nitro-bid.html": null,
+    "https://www.drugs.com/cons/nitro-bid-nitroglycerin-intravenous.html": null,
+    "https://www.drugs.com/cons/nitro-bid-nitroglycerin-transdermal.html": null,
+    "https://www.drugs.com/mtm/nitro-bid-topical.html": [
+        "https://www.drugs.com/mtm/dihydroergotamine-injection.html",
+        "https://www.drugs.com/ergotamine.html",
+        "https://www.drugs.com/cdi/ergonovine.html",
+        "https://www.drugs.com/mtm/methylergonovine-oral-and-injection.html"
+    ],
+    "https://www.drugs.com/cons/nitro-dur.html": null,
+    "https://www.drugs.com/mtm/nitro-dur-transdermal.html": [
+        "https://www.drugs.com/mtm/dihydroergotamine-injection.html",
+        "https://www.drugs.com/ergotamine.html",
+        "https://www.drugs.com/cdi/ergonovine.html",
+        "https://www.drugs.com/mtm/methylergonovine-oral-and-injection.html"
+    ],
+    "https://www.drugs.com/cons/nitro-time.html": null,
+    "https://www.drugs.com/cons/nitrocot.html": null,
+    "https://www.drugs.com/nitrofurantoin.html": [
+        "https://www.drugs.com/medical-answers/antibiotics-treat-uti-3121639/",
+        "https://www.drugs.com/medical-answers/dual-release-nitrofurantoin-3497464/"
+    ],
+    "https://www.drugs.com/pro/nitrofurantoin-capsules.html": null,
+    "https://www.drugs.com/pro/nitrofurantoin-macrocrystals.html": null,
+    "https://www.drugs.com/pro/nitrofurantoin-oral-suspension.html": null,
+    "https://www.drugs.com/cons/nitrofurazone.html": null,
+    "https://www.drugs.com/pro/nitrogen.html": null,
+    "https://www.drugs.com/pro/nitrogen-liquid.html": null,
+    "https://www.drugs.com/pro/nitrogen-nf.html": null,
+    "https://www.drugs.com/pro/nitrogen-refrigerated.html": null,
+    "https://www.drugs.com/monograph/nitroglycerin.html": [],
+    "https://www.drugs.com/cons/nitroglycerin-intravenous.html": null,
+    "https://www.drugs.com/pro/nitroglycerin-dextrose.html": null,
+    "https://www.drugs.com/pro/nitroglycerin-er.html": null,
+    "https://www.drugs.com/pro/nitroglycerin-in-dextrose.html": null,
+    "https://www.drugs.com/pro/nitroglycerin-injection.html": null,
+    "https://www.drugs.com/pro/nitroglycerin-lingual-spray.html": null,
+    "https://www.drugs.com/mtm/nitroglycerin-oral-sublingual.html": [
+        "https://www.drugs.com/cg/migraine-headache.html",
+        "https://www.drugs.com/mtm/dihydroergotamine-injection.html",
+        "https://www.drugs.com/ergotamine.html",
+        "https://www.drugs.com/cdi/ergonovine.html",
+        "https://www.drugs.com/mtm/methylergonovine-oral-and-injection.html"
+    ],
+    "https://www.drugs.com/mtm/nitroglycerin-rectal.html": [
+        "https://www.drugs.com/mtm/dihydroergotamine-injection.html",
+        "https://www.drugs.com/ergotamine.html",
+        "https://www.drugs.com/cdi/ergonovine.html",
+        "https://www.drugs.com/mtm/methylergonovine-oral-and-injection.html"
+    ],
+    "https://www.drugs.com/pro/nitroglycerin-rectal-ointment.html": null,
+    "https://www.drugs.com/pro/nitroglycerin-sublingual-tablet.html": null,
+    "https://www.drugs.com/mtm/nitroglycerin-topical.html": [
+        "https://www.drugs.com/mtm/dihydroergotamine-injection.html",
+        "https://www.drugs.com/ergotamine.html",
+        "https://www.drugs.com/cdi/ergonovine.html",
+        "https://www.drugs.com/mtm/methylergonovine-oral-and-injection.html"
+    ],
+    "https://www.drugs.com/mtm/nitroglycerin-transdermal.html": [
+        "https://www.drugs.com/mtm/dihydroergotamine-injection.html",
+        "https://www.drugs.com/ergotamine.html",
+        "https://www.drugs.com/cdi/ergonovine.html",
+        "https://www.drugs.com/mtm/methylergonovine-oral-and-injection.html"
+    ],
+    "https://www.drugs.com/mtm/nitrol-appli-kit-topical.html": [
+        "https://www.drugs.com/mtm/dihydroergotamine-injection.html",
+        "https://www.drugs.com/ergotamine.html",
+        "https://www.drugs.com/cdi/ergonovine.html",
+        "https://www.drugs.com/mtm/methylergonovine-oral-and-injection.html"
+    ],
+    "https://www.drugs.com/cons/nitrolingual.html": null,
+    "https://www.drugs.com/nitromist.html": [
+        "https://www.drugs.comhttps://www.drugs.com/aspirin.html",
+        "https://www.drugs.comhttps://www.drugs.com/heparin.html",
+        "https://www.drugs.comhttps://www.drugs.com/cg/depression.html",
+        "https://www.drugs.comhttps://www.drugs.com/cg/migraine-headache.html",
+        "https://www.drugs.comhttps://www.drugs.com/mtm/dihydroergotamine-injection.html",
+        "https://www.drugs.comhttps://www.drugs.com/mtm/ergotamine.html",
+        "https://www.drugs.comhttps://www.drugs.com/mtm/methylergonovine-oral-and-injection.html"
+    ],
+    "https://www.drugs.com/cons/nitronal.html": null,
+    "https://www.drugs.com/mtm/nitropress.html": [],
+    "https://www.drugs.com/mtm/nitroprusside.html": [],
+    "https://www.drugs.com/cons/nitroquick.html": null,
+    "https://www.drugs.com/nitrostat.html": [
+        "https://www.drugs.comhttps://www.drugs.com/aspirin.html",
+        "https://www.drugs.comhttps://www.drugs.com/heparin.html",
+        "https://www.drugs.comhttps://www.drugs.com/cg/depression.html",
+        "https://www.drugs.comhttps://www.drugs.com/cg/migraine-headache.html",
+        "https://www.drugs.comhttps://www.drugs.com/mtm/dihydroergotamine-injection.html",
+        "https://www.drugs.comhttps://www.drugs.com/mtm/ergotamine.html",
+        "https://www.drugs.comhttps://www.drugs.com/mtm/methylergonovine-oral-and-injection.html"
+    ],
+    "https://www.drugs.com/cons/nitrotab.html": null,
+    "https://www.drugs.com/pro/nitrous-oxide.html": null,
+    "https://www.drugs.com/nityr.html": [],
+    "https://www.drugs.com/pro/niva-thyroid.html": null,
+    "https://www.drugs.com/mtm/nivanex-dmx.html": [],
+    "https://www.drugs.com/mtm/nivestym.html": [
+        "https://www.drugs.com/medical-answers/many-biosimilars-approved-united-states-3463281/",
+        "https://www.drugs.com/medical-answers/difference-between-nivestym-neupogen-3436194/"
+    ],
+    "https://www.drugs.com/pro/nivestym-injection.html": null,
+    "https://www.drugs.com/nivolumab.html": [
+        "https://www.drugs.com/medical-answers/what-biologic-drug-3565613/"
+    ],
+    "https://www.drugs.com/mtm/nivolumab-and-relatlimab.html": [],
+    "https://www.drugs.com/cons/nivolumab-relatlimab-rmbw.html": null,
+    "https://www.drugs.com/mtm/nix-complete-lice-treatment.html": [
+        "https://www.drugs.com/medical-answers/can-you-use-nix-permethrin-lice-shampoo-on-your-183740/"
+    ],
+    "https://www.drugs.com/mtm/nix-complete-lice-treatment-system.html": [
+        "https://www.drugs.com/medical-answers/can-you-use-nix-permethrin-lice-shampoo-on-your-183740/"
+    ],
+    "https://www.drugs.com/mtm/nix-cream-rinse.html": [
+        "https://www.drugs.com/medical-answers/can-you-use-nix-permethrin-lice-shampoo-on-your-183740/"
+    ],
+    "https://www.drugs.com/cons/nix-creme-rinse.html": null,
+    "https://www.drugs.com/mtm/nix-lice-control.html": [
+        "https://www.drugs.com/medical-answers/can-you-use-nix-permethrin-lice-shampoo-on-your-183740/"
+    ],
+    "https://www.drugs.com/pro/nix-shampoo.html": null,
+    "https://www.drugs.com/mtm/nizatidine.html": [],
+    "https://www.drugs.com/pro/nizatidine-solution.html": null,
+    "https://www.drugs.com/nizoral.html": [
+        "https://www.drugs.com/medical-answers/ketoconazole-cream-3002120/"
+    ],
+    "https://www.drugs.com/cons/nizoral-ketoconazole-oral.html": null,
+    "https://www.drugs.com/cons/nizoral-ketoconazole-topical.html": null,
+    "https://www.drugs.com/mtm/nizoral-a-d.html": [
+        "https://www.drugs.com/compare/nizoral-a-d",
+        "https://www.drugs.com/comments/ketoconazole-topical/nizoral-a-d.html",
+        "https://www.drugs.com/sfx/nizoral-a-d-side-effects.html",
+        "https://www.drugs.com/dosage/ketoconazole-topical.html",
+        "https://www.drugs.com/pregnancy/ketoconazole-topical.html",
+        "https://www.drugs.com/drug-class/topical-antifungals.html",
+        "https://www.drugs.com/breastfeeding/ketoconazole.html",
+        "https://www.drugs.com/mtm_esp/nizoral-a-d.html"
+    ],
+    "https://www.drugs.com/mtm/nizoral-psoriasis-shampoo-and-conditioner.html": [],
+    "https://www.drugs.com/pro/nizoral-shampoo.html": null,
+    "https://www.drugs.com/mtm/nizoral-topical.html": [
+        "https://www.drugs.com/compare/nizoral-topical",
+        "https://www.drugs.com/comments/ketoconazole-topical/nizoral-topical.html",
+        "https://www.drugs.com/sfx/nizoral-topical-side-effects.html",
+        "https://www.drugs.com/dosage/ketoconazole-topical.html",
+        "https://www.drugs.com/pregnancy/ketoconazole-topical.html",
+        "https://www.drugs.com/drug-class/topical-antifungals.html",
+        "https://www.drugs.com/breastfeeding/ketoconazole.html",
+        "https://www.drugs.com/mtm_esp/nizoral-topical.html"
+    ]
+}

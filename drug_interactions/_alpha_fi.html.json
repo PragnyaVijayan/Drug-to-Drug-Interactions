@@ -1,0 +1,582 @@
+{
+    "https://www.drugs.com/cons/fa-8.html": null,
+    "https://www.drugs.com/pro/fabb-tablets.html": null,
+    "https://www.drugs.com/fabhalta.html": null,
+    "https://www.drugs.com/fabior.html": [
+        "https://www.drugs.com/article/antibiotics.html"
+    ],
+    "https://www.drugs.com/pro/fabior-foam.html": null,
+    "https://www.drugs.com/fabrazyme.html": [],
+    "https://www.drugs.com/cons/factive.html": null,
+    "https://www.drugs.com/cons/factor-ix.html": null,
+    "https://www.drugs.com/monograph/factor-ix-human-factor-ix-complex-human.html": [],
+    "https://www.drugs.com/monograph/factor-ix-recombinant.html": [],
+    "https://www.drugs.com/monograph/factor-ix-recombinant-albumin-fusion-protein.html": null,
+    "https://www.drugs.com/monograph/factor-ix-recombinant-fc-fusion-protein.html": null,
+    "https://www.drugs.com/cons/factor-ix-albumin-fusion-protein-recombinant.html": null,
+    "https://www.drugs.com/mtm/factor-ix-complex.html": [
+        "https://www.drugs.com/mtm/aminocaproic-acid.html",
+        "https://www.drugs.com/mtm/amicar.html",
+        "https://www.drugs.com/mtm/tranexamic-acid.html",
+        "https://www.drugs.com/mtm/cyklokapron.html",
+        "https://www.drugs.com/lysteda.html"
+    ],
+    "https://www.drugs.com/cons/factor-ix-fc-fusion-protein-recombinant.html": null,
+    "https://www.drugs.com/monograph/factor-viia-recombinant.html": [],
+    "https://www.drugs.com/cons/factor-x-human.html": null,
+    "https://www.drugs.com/monograph/factor-xa-recombinant-inactivated-zhzo.html": [],
+    "https://www.drugs.com/mtm/factor-xiii.html": [],
+    "https://www.drugs.com/monograph/factor-xiii-a-subunit-recombinant.html": [],
+    "https://www.drugs.com/cons/factrel.html": null,
+    "https://www.drugs.com/mtm/fallback-solo.html": [
+        "https://www.drugs.com/mtm/efavirenz.html",
+        "https://www.drugs.com/mtm/rifampin.html",
+        "https://www.drugs.com/carbamazepine.html",
+        "https://www.drugs.com/mtm/felbamate.html",
+        "https://www.drugs.com/mtm/fosphenytoin.html",
+        "https://www.drugs.com/mtm/phenobarbital.html",
+        "https://www.drugs.com/phenytoin.html",
+        "https://www.drugs.com/mtm/primidone.html"
+    ],
+    "https://www.drugs.com/mtm/falmina.html": [],
+    "https://www.drugs.com/npp/false-unicorn.html": [],
+    "https://www.drugs.com/mtm/fam-trastuzumab-deruxtecan.html": [],
+    "https://www.drugs.com/cons/fam-trastuzumab-deruxtecan-nxki.html": null,
+    "https://www.drugs.com/mtm/famciclovir.html": [],
+    "https://www.drugs.com/famotidine.html": null,
+    "https://www.drugs.com/mtm/famotidine-and-ibuprofen.html": [],
+    "https://www.drugs.com/pro/famotidine-injection.html": null,
+    "https://www.drugs.com/pro/famotidine-oral-suspension.html": null,
+    "https://www.drugs.com/pro/famotidine-tablets.html": null,
+    "https://www.drugs.com/famvir.html": [],
+    "https://www.drugs.com/fanapt.html": [],
+    "https://www.drugs.com/cons/fanapt-titration-pack.html": null,
+    "https://www.drugs.com/cons/fansidar.html": null,
+    "https://www.drugs.com/mtm/fareston.html": [],
+    "https://www.drugs.com/mtm/faricimab-ophthalmic.html": [
+        "https://www.drugs.com/compare/faricimab",
+        "https://www.drugs.com/comments/faricimab/",
+        "https://www.drugs.com/sfx/faricimab-side-effects.html",
+        "https://www.drugs.com/dosage/faricimab.html",
+        "https://www.drugs.com/pregnancy/faricimab.html",
+        "https://www.drugs.com/drug-class/anti-angiogenic-ophthalmic-agents.html",
+        "https://www.drugs.com/breastfeeding/faricimab.html",
+        "https://www.drugs.com/mtm_esp/faricimab-ophthalmic.html"
+    ],
+    "https://www.drugs.com/cons/faricimab-svoa.html": null,
+    "https://www.drugs.com/monograph/faricimab-svoa-intravitreal.html": [],
+    "https://www.drugs.com/farxiga.html": [],
+    "https://www.drugs.com/farydak.html": [],
+    "https://www.drugs.com/fasenra.html": [
+        "https://www.drugs.com/medical-answers/question--fasenra-3370946/"
+    ],
+    "https://www.drugs.com/mtm/fasenra-pen.html": [
+        "https://www.drugs.com/medical-answers/question--fasenra-3370946/"
+    ],
+    "https://www.drugs.com/mtm/fasenra-prefilled-syringe.html": [
+        "https://www.drugs.com/medical-answers/question--fasenra-3370946/"
+    ],
+    "https://www.drugs.com/faslodex.html": [
+        "https://www.drugs.com/warfarin.html",
+        "https://www.drugs.com/coumadin.html",
+        "https://www.drugs.com/mtm/jantoven.html"
+    ],
+    "https://www.drugs.com/mtm/fast-freeze.html": [
+        "https://www.drugs.com/compare/fast-freeze",
+        "https://www.drugs.com/comments/camphor-menthol-topical/fast-freeze.html",
+        "https://www.drugs.com/sfx/fast-freeze-side-effects.html",
+        "https://www.drugs.com/dosage/camphor-menthol-topical.html",
+        "https://www.drugs.com/drug-class/topical-rubefacient.html"
+    ],
+    "https://www.drugs.com/mtm/fast-freeze-roll-on.html": [
+        "https://www.drugs.com/compare/fast-freeze",
+        "https://www.drugs.com/comments/camphor-menthol-topical/fast-freeze.html",
+        "https://www.drugs.com/sfx/fast-freeze-side-effects.html",
+        "https://www.drugs.com/dosage/camphor-menthol-topical.html",
+        "https://www.drugs.com/drug-class/topical-rubefacient.html"
+    ],
+    "https://www.drugs.com/cons/fastin.html": null,
+    "https://www.drugs.com/pro/faststat-topical-hemostat.html": null,
+    "https://www.drugs.com/cons/fat-emulsion.html": null,
+    "https://www.drugs.com/cons/fat-emulsion-and-soybean-oil.html": null,
+    "https://www.drugs.com/cons/fat-emulsion-fish-oil-and-soybean-oil.html": null,
+    "https://www.drugs.com/mtm/fat-supplement.html": [
+        "https://www.drugs.com/compare/fat-supplement",
+        "https://www.drugs.com/sfx/fat-supplement-side-effects.html",
+        "https://www.drugs.com/drug-class/oral-nutritional-supplements.html",
+        "https://www.drugs.com/mtm_esp/fat-supplement.html"
+    ],
+    "https://www.drugs.com/mtm/father-john-s-medicine.html": [
+        "https://www.drugs.com/medical-answers/dextromethorphan-tusq-dx-kids-4-5yrs-adults-1412316/"
+    ],
+    "https://www.drugs.com/pro/fayosim.html": null,
+    "https://www.drugs.com/mtm/fayosim-extended-cycle.html": [],
+    "https://www.drugs.com/fazaclo.html": [],
+    "https://www.drugs.com/mtm/fe-c.html": [],
+    "https://www.drugs.com/mtm/fe-vite-drops.html": [
+        "https://www.drugs.com/article/antibiotics.html"
+    ],
+    "https://www.drugs.com/cons/febrol.html": null,
+    "https://www.drugs.com/mtm/febuxostat.html": [
+        "https://www.drugs.com/mtm/theophylline.html"
+    ],
+    "https://www.drugs.com/pro/febuxostat-tablets.html": null,
+    "https://www.drugs.com/mtm/fecal-microbiota-spores-live.html": [],
+    "https://www.drugs.com/monograph/fecal-microbiota-live.html": null,
+    "https://www.drugs.com/cons/fecal-microbiota-live-jslm.html": null,
+    "https://www.drugs.com/mtm/fedratinib.html": [],
+    "https://www.drugs.com/mtm/feiba.html": [
+        "https://www.drugs.com/mtm/coagulation-factor-viia-injection.html",
+        "https://www.drugs.com/mtm/aminocaproic-acid.html",
+        "https://www.drugs.com/mtm/tranexamic-acid.html"
+    ],
+    "https://www.drugs.com/cons/feiba-nf.html": null,
+    "https://www.drugs.com/mtm/feiba-vh-immuno.html": [
+        "https://www.drugs.com/mtm/coagulation-factor-viia-injection.html",
+        "https://www.drugs.com/mtm/aminocaproic-acid.html",
+        "https://www.drugs.com/mtm/tranexamic-acid.html"
+    ],
+    "https://www.drugs.com/cons/feiba-vh.html": null,
+    "https://www.drugs.com/mtm/felbamate.html": [],
+    "https://www.drugs.com/pro/felbamate-oral-suspension.html": null,
+    "https://www.drugs.com/mtm/felbatol.html": [],
+    "https://www.drugs.com/mtm/feldene.html": [
+        "https://www.drugs.com/methotrexate.html",
+        "https://www.drugs.com/prednisone.html"
+    ],
+    "https://www.drugs.com/pro/felimazole.html": null,
+    "https://www.drugs.com/mtm/felodipine.html": [],
+    "https://www.drugs.com/pro/felodipine-er-tablets.html": null,
+    "https://www.drugs.com/pro/felodipine-tablets.html": null,
+    "https://www.drugs.com/mtm/fem-ph-vaginal.html": [
+        "https://www.drugs.com/compare/fem-ph",
+        "https://www.drugs.com/price-guide/fem-ph",
+        "https://www.drugs.com/sfx/fem-ph-side-effects.html",
+        "https://www.drugs.com/drug-class/topical-anti-infectives.html",
+        "https://www.drugs.com/mtm_esp/fem-ph-vaginal.html"
+    ],
+    "https://www.drugs.com/pro/fem-ph-vaginal-jelly.html": null,
+    "https://www.drugs.com/femara.html": [
+        "https://www.drugs.com/medical-answers/femara-affect-period-3546500/",
+        "https://www.drugs.com/medical-answers/femara-make-hair-fall-3545268/",
+        "https://www.drugs.com/medical-answers/femara-letrozole-twins-3546148/",
+        "https://www.drugs.com/medical-answers/you-ovulate-femara-3546150/",
+        "https://www.drugs.com/medical-answers/success-rate-femara-breast-cancer-3546039/",
+        "https://www.drugs.com/medical-answers/aromasin-femara-3546712/",
+        "https://www.drugs.com/medical-answers/aromasin-exemestane-femara-letrozole-compare-3545307/",
+        "https://www.drugs.com/medical-answers/you-femara-days-you-3546153/",
+        "https://www.drugs.com/medical-answers/femara-letrozole-3542420/"
+    ],
+    "https://www.drugs.com/pro/femcon-fe.html": null,
+    "https://www.drugs.com/mtm/femcon-fe-birth-control.html": [
+        "https://www.drugs.com/mtm/glecaprevir-and-pibrentasvir.html",
+        "https://www.drugs.com/drug-class/anticonvulsants.html",
+        "https://www.drugs.com/drug-class/anticonvulsants.html"
+    ],
+    "https://www.drugs.com/femhrt.html": [],
+    "https://www.drugs.com/cons/femhrt-1-5.html": null,
+    "https://www.drugs.com/cons/femhrt-lo.html": null,
+    "https://www.drugs.com/mtm/feminique-vaginal.html": [
+        "https://www.drugs.com/compare/feminique",
+        "https://www.drugs.com/sfx/feminique-side-effects.html",
+        "https://www.drugs.com/drug-class/topical-anti-infectives.html",
+        "https://www.drugs.com/mtm_esp/feminique-vaginal.html"
+    ],
+    "https://www.drugs.com/mtm/femring.html": [],
+    "https://www.drugs.com/femtrace.html": [],
+    "https://www.drugs.com/mtm/femynor.html": [],
+    "https://www.drugs.com/pro/fendique-er.html": null,
+    "https://www.drugs.com/mtm/fenesin-dm-ir.html": [],
+    "https://www.drugs.com/mtm/fenesin-ir.html": [
+        "https://www.drugs.com/medical-answers/what-is-the-dose-for-an-adult-for-robitussin-dm-381017/"
+    ],
+    "https://www.drugs.com/mtm/fenfluramine.html": [
+        "https://www.drugs.com/mtm/stiripentol.html"
+    ],
+    "https://www.drugs.com/mtm/fennel.html": [
+        "https://www.drugs.com/mtm/ciprofloxacin-otic.html",
+        "https://www.drugs.com/cipro.html",
+        "https://www.drugs.com/tamoxifen.html"
+    ],
+    "https://www.drugs.com/fenofibrate.html": [
+        "https://www.drugs.com/mtm/cholestyramine.html",
+        "https://www.drugs.com/mtm/colesevelam.html",
+        "https://www.drugs.com/mtm/colestipol.html"
+    ],
+    "https://www.drugs.com/pro/fenofibrate-capsules.html": null,
+    "https://www.drugs.com/pro/fenofibrate-tablets.html": null,
+    "https://www.drugs.com/mtm/fenofibric-acid.html": [
+        "https://www.drugs.com/mtm/cholestyramine.html",
+        "https://www.drugs.com/mtm/colesevelam.html",
+        "https://www.drugs.com/mtm/colestipol.html"
+    ],
+    "https://www.drugs.com/pro/fenofibric-acid-delayed-release-capsules.html": null,
+    "https://www.drugs.com/monograph/fenofibric-acid-fenofibrate.html": [],
+    "https://www.drugs.com/mtm/fenoglide.html": [
+        "https://www.drugs.com/mtm/cholestyramine.html",
+        "https://www.drugs.com/mtm/colesevelam.html",
+        "https://www.drugs.com/mtm/colestipol.html"
+    ],
+    "https://www.drugs.com/mtm/fenoldopam.html": [
+        "https://www.drugs.com/atenolol.html",
+        "https://www.drugs.com/carvedilol.html",
+        "https://www.drugs.com/mtm/labetalol.html",
+        "https://www.drugs.com/metoprolol.html",
+        "https://www.drugs.com/mtm/nadolol.html",
+        "https://www.drugs.com/mtm/nebivolol.html",
+        "https://www.drugs.com/propranolol.html",
+        "https://www.drugs.com/sotalol.html"
+    ],
+    "https://www.drugs.com/mtm/fenoprofen.html": [
+        "https://www.drugs.com/mtm/cyclosporine-ophthalmic.html",
+        "https://www.drugs.com/methotrexate.html",
+        "https://www.drugs.com/mtm/phenobarbital.html",
+        "https://www.drugs.com/prednisone.html"
+    ],
+    "https://www.drugs.com/pro/fenoprofen-capsules.html": null,
+    "https://www.drugs.com/pro/fenortho.html": null,
+    "https://www.drugs.com/pro/fenovar.html": null,
+    "https://www.drugs.com/mtm/fensolvi.html": [],
+    "https://www.drugs.com/fentanyl.html": [
+        "https://www.drugs.com/valium.html",
+        "https://www.drugs.com/diazepam.html",
+        "https://www.drugs.com/alprazolam.html",
+        "https://www.drugs.com/lorazepam.html",
+        "https://www.drugs.com/ativan.html",
+        "https://www.drugs.com/klonopin.html",
+        "https://www.drugs.com/restoril.html",
+        "https://www.drugs.com/cons/tranxene.html",
+        "https://www.drugs.com/mtm/versed.html",
+        "https://www.drugs.com/xanax.html",
+        "https://www.drugs.com/cg/copd-chronic-obstructive-pulmonary-disease.html",
+        "https://www.drugs.com/cg/motion-sickness.html",
+        "https://www.drugs.com/cg/irritable-bowel-syndrome.html",
+        "https://www.drugs.com/cg/overactive-bladder.html",
+        "https://www.drugs.com/health-guide/major-depression.html",
+        "https://www.drugs.com/health-guide/parkinson-s-disease.html"
+    ],
+    "https://www.drugs.com/cons/fentanyl-buccal-mucosa-oromucosal-sublingual.html": null,
+    "https://www.drugs.com/cons/fentanyl-injection.html": null,
+    "https://www.drugs.com/cons/fentanyl-transdermal.html": null,
+    "https://www.drugs.com/pro/fentanyl-buccal-tablets.html": null,
+    "https://www.drugs.com/mtm/fentanyl-buccal-sublingual.html": [
+        "https://www.drugs.com/cg/motion-sickness.html",
+        "https://www.drugs.com/cg/irritable-bowel-syndrome.html",
+        "https://www.drugs.com/cg/overactive-bladder.html",
+        "https://www.drugs.com/alprazolam.html",
+        "https://www.drugs.com/health-guide/parkinson-s-disease.html"
+    ],
+    "https://www.drugs.com/mtm/fentanyl-citrate-oral-transmucosal.html": [
+        "https://www.drugs.com/cg/motion-sickness.html",
+        "https://www.drugs.com/cg/irritable-bowel-syndrome.html",
+        "https://www.drugs.com/cg/overactive-bladder.html",
+        "https://www.drugs.com/health-guide/parkinson-s-disease.html"
+    ],
+    "https://www.drugs.com/pro/fentanyl-lozenge.html": null,
+    "https://www.drugs.com/mtm/fentanyl-nasal.html": [
+        "https://www.drugs.com/alprazolam.html",
+        "https://www.drugs.com/lorazepam.html",
+        "https://www.drugs.com/klonopin.html",
+        "https://www.drugs.com/health-guide/parkinson-s-disease.html"
+    ],
+    "https://www.drugs.com/mtm/fentanyl-transdermal-skin-patch.html": [
+        "https://www.drugs.com/cg/motion-sickness.html",
+        "https://www.drugs.com/cg/irritable-bowel-syndrome.html",
+        "https://www.drugs.com/cg/overactive-bladder.html",
+        "https://www.drugs.com/alprazolam.html",
+        "https://www.drugs.com/health-guide/parkinson-s-disease.html"
+    ],
+    "https://www.drugs.com/fentora.html": [],
+    "https://www.drugs.com/mtm/fenugreek.html": [
+        "https://www.drugs.com/mtm/glynase-prestab.html",
+        "https://www.drugs.com/mtm/pioglitazone.html",
+        "https://www.drugs.com/cons/rosiglitazone.html",
+        "https://www.drugs.com/mtm/chlorpropamide.html"
+    ],
+    "https://www.drugs.com/mtm/feosol.html": [
+        "https://www.drugs.com/article/antibiotics.html"
+    ],
+    "https://www.drugs.com/mtm/feosol-caplet.html": [
+        "https://www.drugs.com/article/antibiotics.html",
+        "https://www.drugs.com/mtm/ciprofloxacin-otic.html",
+        "https://www.drugs.com/mtm/levofloxacin-ophthalmic.html",
+        "https://www.drugs.com/doxycycline.html",
+        "https://www.drugs.com/cdi/tetracycline-topical.html",
+        "https://www.drugs.com/mtm/cimetidine.html",
+        "https://www.drugs.com/famotidine.html",
+        "https://www.drugs.com/ranitidine.html"
+    ],
+    "https://www.drugs.com/mtm/fer-in-sol.html": [
+        "https://www.drugs.com/article/antibiotics.html"
+    ],
+    "https://www.drugs.com/feraheme.html": [],
+    "https://www.drugs.com/mtm/ferate.html": [],
+    "https://www.drugs.com/mtm/fergon.html": [],
+    "https://www.drugs.com/pro/feridex.html": null,
+    "https://www.drugs.com/mtm/ferosul.html": [
+        "https://www.drugs.com/article/antibiotics.html"
+    ],
+    "https://www.drugs.com/pro/ferralet-90.html": null,
+    "https://www.drugs.com/pro/ferraplus-90.html": null,
+    "https://www.drugs.com/mtm/ferretts-ips.html": [],
+    "https://www.drugs.com/mtm/ferretts-iron.html": [
+        "https://www.drugs.com/article/antibiotics.html",
+        "https://www.drugs.com/health-guide/parkinson-s-disease.html",
+        "https://www.drugs.com/cg/osteoporosis.html"
+    ],
+    "https://www.drugs.com/pro/ferrex-150-forte.html": null,
+    "https://www.drugs.com/pro/ferrex-150-forte-plus.html": null,
+    "https://www.drugs.com/pro/ferrex-28.html": null,
+    "https://www.drugs.com/mtm/ferrex-150.html": [
+        "https://www.drugs.com/article/antibiotics.html",
+        "https://www.drugs.com/health-guide/parkinson-s-disease.html"
+    ],
+    "https://www.drugs.com/mtm/ferric-carboxymaltose.html": [
+        "https://www.drugs.com/medical-answers/long-injectafer-work-feel-3558284/"
+    ],
+    "https://www.drugs.com/mtm/ferric-citrate.html": [
+        "https://www.drugs.com/article/antibiotics.html",
+        "https://www.drugs.com/doxycycline.html",
+        "https://www.drugs.com/mtm/ciprofloxacin-otic.html"
+    ],
+    "https://www.drugs.com/mtm/ferric-derisomaltose.html": [],
+    "https://www.drugs.com/mtm/ferric-maltol.html": [],
+    "https://www.drugs.com/mtm/ferric-pyrophosphate.html": [],
+    "https://www.drugs.com/cons/ferric-pyrophosphate-citrate.html": null,
+    "https://www.drugs.com/cons/ferric-pyrophosphate-citrate-intravenous.html": null,
+    "https://www.drugs.com/pro/ferric-subsulfate-aqueous.html": null,
+    "https://www.drugs.com/ferriprox.html": [
+        "https://www.drugs.com/mtm/feosol.html",
+        "https://www.drugs.com/mtm/fergon.html",
+        "https://www.drugs.com/mtm/ferrous-fumarate.html",
+        "https://www.drugs.com/mtm/zinc.html"
+    ],
+    "https://www.drugs.com/pro/ferriprox-oral-solution.html": null,
+    "https://www.drugs.com/mtm/ferrlecit.html": [],
+    "https://www.drugs.com/mtm/ferrous-fumarate.html": [
+        "https://www.drugs.com/article/antibiotics.html",
+        "https://www.drugs.com/health-guide/parkinson-s-disease.html",
+        "https://www.drugs.com/cg/osteoporosis.html"
+    ],
+    "https://www.drugs.com/mtm/ferrous-fumarate-and-folic-acid.html": [
+        "https://www.drugs.com/article/antibiotics.html"
+    ],
+    "https://www.drugs.com/mtm/ferrous-gluconate.html": [],
+    "https://www.drugs.com/ferrous_sulfate.html": [
+        "https://www.drugs.com/article/antibiotics.html"
+    ],
+    "https://www.drugs.com/pro/ferrous-sulfate-tablets.html": null,
+    "https://www.drugs.com/mtm/ferrousal.html": [
+        "https://www.drugs.com/article/antibiotics.html"
+    ],
+    "https://www.drugs.com/cons/fertinex.html": null,
+    "https://www.drugs.com/mtm/ferumoxytol.html": [],
+    "https://www.drugs.com/pro/ferumoxytol-injection.html": null,
+    "https://www.drugs.com/mtm/fesoterodine.html": [
+        "https://www.drugs.com/article/antibiotics.html",
+        "https://www.drugs.com/condition/infection-bacterial-fungal-protozoal-viral.html",
+        "https://www.drugs.com/cg/hepatitis-c.html",
+        "https://www.drugs.com/mtm/benadryl-allergy.html",
+        "https://www.drugs.com/health-guide/parkinson-s-disease.html",
+        "https://www.drugs.com/cg/motion-sickness.html",
+        "https://www.drugs.com/cg/irritable-bowel-syndrome.html"
+    ],
+    "https://www.drugs.com/pro/fesoterodine-tablets.html": null,
+    "https://www.drugs.com/mtm/fetroja.html": [],
+    "https://www.drugs.com/fetzima.html": [
+        "https://www.drugs.com/mtm/st-john-s-wort.html",
+        "https://www.drugs.com/tryptophan.html",
+        "https://www.drugs.com/warfarin.html",
+        "https://www.drugs.com/coumadin.html",
+        "https://www.drugs.com/mtm/jantoven.html",
+        "https://www.drugs.com/health-guide/attention-deficit-hyperactivity-disorder-adhd.html",
+        "https://www.drugs.com/adderall.html",
+        "https://www.drugs.com/ritalin.html",
+        "https://www.drugs.com/fentanyl.html",
+        "https://www.drugs.com/tramadol.html",
+        "https://www.drugs.com/buspirone.html",
+        "https://www.drugs.com/lithium.html",
+        "https://www.drugs.com/mtm/sumatriptan-injection.html",
+        "https://www.drugs.com/mtm/rizatriptan.html",
+        "https://www.drugs.com/mtm/zolmitriptan.html"
+    ],
+    "https://www.drugs.com/cons/fetzima-titration-pack.html": null,
+    "https://www.drugs.com/cons/feverall.html": null,
+    "https://www.drugs.com/mtm/feverall-rectal.html": [
+        "https://www.drugs.com/medical-answers/good-medicine-severe-sore-throat-612310/",
+        "https://www.drugs.com/medical-answers/medications-liver-enzymes-elevated-3566419/"
+    ],
+    "https://www.drugs.com/npc/feverfew.html": null,
+    "https://www.drugs.com/cons/fexinidazole.html": null,
+    "https://www.drugs.com/mtm/fexmid.html": [
+        "https://www.drugs.com/condition/smoking-cessation.html",
+        "https://www.drugs.com/condition/gastric-ulcer.html",
+        "https://www.drugs.com/cg/motion-sickness.html",
+        "https://www.drugs.com/cg/irritable-bowel-syndrome.html",
+        "https://www.drugs.com/cg/overactive-bladder.html"
+    ],
+    "https://www.drugs.com/fexofenadine.html": [
+        "https://www.drugs.com/mtm/ketoconazole.html",
+        "https://www.drugs.com/erythromycin.html"
+    ],
+    "https://www.drugs.com/mtm/fexofenadine-and-pseudoephedrine.html": [],
+    "https://www.drugs.com/mtm/fexofenadine-hcl-pseudoephedrine-12-hour.html": [],
+    "https://www.drugs.com/mtm/fezolinetant.html": [],
+    "https://www.drugs.com/mtm/fiasp.html": [
+        "https://www.drugs.com/medical-answers/difference-between-fiasp-novolog-3342542/",
+        "https://www.drugs.com/medical-answers/humalog-novolog-novalog-difference-3126374/",
+        "https://www.drugs.com/medical-answers/ingredient-drugs-ryzodeg-70-30-3016752/"
+    ],
+    "https://www.drugs.com/pro/fiasp-injection.html": null,
+    "https://www.drugs.com/mtm/fiber-lax.html": [],
+    "https://www.drugs.com/mtm/fiber-laxative.html": [],
+    "https://www.drugs.com/mtm/fiber-tabs.html": [],
+    "https://www.drugs.com/mtm/fibercon.html": [],
+    "https://www.drugs.com/mtm/fibertab.html": [],
+    "https://www.drugs.com/mtm/fibricor.html": [
+        "https://www.drugs.com/mtm/cholestyramine.html",
+        "https://www.drugs.com/mtm/colesevelam.html",
+        "https://www.drugs.com/mtm/colestipol.html"
+    ],
+    "https://www.drugs.com/mtm/fibrin-sealant-topical.html": [
+        "https://www.drugs.com/compare/fibrin-sealant-topical",
+        "https://www.drugs.com/sfx/fibrin-sealant-topical-side-effects.html",
+        "https://www.drugs.com/dosage/fibrin-sealant-topical.html",
+        "https://www.drugs.com/pregnancy/fibrin-sealant-topical.html",
+        "https://www.drugs.com/drug-class/miscellaneous-coagulation-modifiers.html",
+        "https://www.drugs.com/mtm_esp/fibrin-sealant-topical.html"
+    ],
+    "https://www.drugs.com/mtm/fibrinogen.html": [],
+    "https://www.drugs.com/monograph/fibrinogen-human.html": null,
+    "https://www.drugs.com/cons/fibrinogen-and-thrombin-human.html": null,
+    "https://www.drugs.com/cons/fibrinogen-aprotinin-and-thrombin-calcium-chloride.html": null,
+    "https://www.drugs.com/pro/fibryga.html": null,
+    "https://www.drugs.com/mtm/fidaxomicin.html": [],
+    "https://www.drugs.com/mtm/filgrastim.html": [
+        "https://www.drugs.com/medical-answers/many-biosimilars-approved-united-states-3463281/",
+        "https://www.drugs.com/medical-answers/difference-between-nivestym-neupogen-3436194/"
+    ],
+    "https://www.drugs.com/cons/filgrastim-aafi.html": null,
+    "https://www.drugs.com/cons/filgrastim-ayow.html": null,
+    "https://www.drugs.com/cons/filgrastim-sndz.html": null,
+    "https://www.drugs.com/filspari.html": [
+        "https://www.drugs.com/drug-class/angiotensin-ii-inhibitors.html",
+        "https://www.drugs.com/mtm/ambrisentan.html",
+        "https://www.drugs.com/mtm/bosentan.html",
+        "https://www.drugs.com/mtm/macitentan.html",
+        "https://www.drugs.com/mtm/aliskiren.html"
+    ],
+    "https://www.drugs.com/filsuvez.html": [
+        "https://www.drugs.com/compare/filsuvez",
+        "https://www.drugs.com/image/filsuvez-images.html",
+        "https://www.drugs.com/sfx/filsuvez-side-effects.html",
+        "https://www.drugs.com/dosage/filsuvez.html",
+        "https://www.drugs.com/pregnancy/birch-triterpenes-topical.html",
+        "https://www.drugs.com/history/filsuvez.html",
+        "https://www.drugs.com/drug-class/herbal-products.html"
+    ],
+    "https://www.drugs.com/finacea.html": [
+        "https://www.drugs.com/medical-answers/common-skin-conditions-photos-3573649/",
+        "https://www.drugs.com/medical-answers/finacea-wrinkles-acne-aging-3537460/",
+        "https://www.drugs.com/medical-answers/long-finacea-work-3537481/",
+        "https://www.drugs.com/medical-answers/finacea-cost-insurance-3537487/",
+        "https://www.drugs.com/medical-answers/you-finacea-foam-3537845/"
+    ],
+    "https://www.drugs.com/pro/finacea-foam.html": null,
+    "https://www.drugs.com/mtm/finacea-plus.html": [
+        "https://www.drugs.com/medical-answers/common-skin-conditions-photos-3573649/",
+        "https://www.drugs.com/medical-answers/finacea-wrinkles-acne-aging-3537460/",
+        "https://www.drugs.com/medical-answers/long-finacea-work-3537481/",
+        "https://www.drugs.com/medical-answers/finacea-cost-insurance-3537487/",
+        "https://www.drugs.com/medical-answers/you-finacea-foam-3537845/"
+    ],
+    "https://www.drugs.com/cons/finafloxacin.html": null,
+    "https://www.drugs.com/mtm/finasteride.html": [],
+    "https://www.drugs.com/monograph/finasteride-bph.html": null,
+    "https://www.drugs.com/monograph/finasteride-hair-growth.html": null,
+    "https://www.drugs.com/mtm/finasteride-and-tadalafil.html": [
+        "https://www.drugs.com/cg/erectile-dysfunction.html",
+        "https://www.drugs.com/cg/hypertension.html",
+        "https://www.drugs.com/clarithromycin.html",
+        "https://www.drugs.com/cons/telithromycin.html"
+    ],
+    "https://www.drugs.com/mtm/finerenone.html": [],
+    "https://www.drugs.com/mtm/fingolimod.html": [
+        "https://www.drugs.com/cg/liver-transplant-discharge-care.html",
+        "https://www.drugs.com/mtm/ketoconazole-topical.html"
+    ],
+    "https://www.drugs.com/fintepla.html": [],
+    "https://www.drugs.com/pro/finzala.html": null,
+    "https://www.drugs.com/mtm/finzala-birth-control.html": [
+        "https://www.drugs.com/mtm/glecaprevir-and-pibrentasvir.html",
+        "https://www.drugs.com/drug-class/anticonvulsants.html",
+        "https://www.drugs.com/drug-class/anticonvulsants.html"
+    ],
+    "https://www.drugs.com/fioricet.html": [],
+    "https://www.drugs.com/pro/fioricet-capsules.html": null,
+    "https://www.drugs.com/mtm/fioricet-with-codeine.html": [
+        "https://www.drugs.com/cg/motion-sickness.html",
+        "https://www.drugs.com/cg/irritable-bowel-syndrome.html",
+        "https://www.drugs.com/cg/overactive-bladder.html",
+        "https://www.drugs.com/health-guide/parkinson-s-disease.html"
+    ],
+    "https://www.drugs.com/fiorinal.html": [
+        "https://www.drugs.com/mtm/mercaptopurine.html",
+        "https://www.drugs.com/methotrexate.html",
+        "https://www.drugs.com/mtm/probenecid.html",
+        "https://www.drugs.com/warfarin.html",
+        "https://www.drugs.com/coumadin.html",
+        "https://www.drugs.com/mtm/jantoven.html",
+        "https://www.drugs.com/cons/insulin-parenteral.html",
+        "https://www.drugs.com/prednisone.html",
+        "https://www.drugs.com/mtm/isocarboxazid.html",
+        "https://www.drugs.com/mtm/linezolid-oral-injection.html",
+        "https://www.drugs.com/mtm/methylene-blue-injection.html",
+        "https://www.drugs.com/mtm/phenelzine.html",
+        "https://www.drugs.com/mtm/tranylcypromine.html"
+    ],
+    "https://www.drugs.com/cons/fiorinal-w-codeine.html": null,
+    "https://www.drugs.com/mtm/fiorinal-with-codeine.html": [
+        "https://www.drugs.com/cg/motion-sickness.html",
+        "https://www.drugs.com/cg/irritable-bowel-syndrome.html",
+        "https://www.drugs.com/cg/overactive-bladder.html",
+        "https://www.drugs.com/health-guide/parkinson-s-disease.html"
+    ],
+    "https://www.drugs.com/firazyr.html": [
+        "https://www.drugs.com/medical-answers/long-firazyr-work-3540461/",
+        "https://www.drugs.com/medical-answers/you-administer-inject-firazyr-3540459/",
+        "https://www.drugs.com/medical-answers/question--firazyr-3540440/"
+    ],
+    "https://www.drugs.com/firdapse.html": [
+        "https://www.drugs.com/medical-answers/difference-between-ruzurgi-firdapse-3497693/",
+        "https://www.drugs.com/medical-answers/firdapse-amifampridine-treat-3458296/"
+    ],
+    "https://www.drugs.com/firmagon.html": [],
+    "https://www.drugs.com/cons/first-lansoprazole.html": null,
+    "https://www.drugs.com/cons/first-omeprazole.html": null,
+    "https://www.drugs.com/mtm/first-baclofen.html": [],
+    "https://www.drugs.com/pro/first-mouthwash-blm.html": null,
+    "https://www.drugs.com/mtm/first-progesterone-vgs-100.html": [],
+    "https://www.drugs.com/mtm/first-progesterone-vgs-200.html": [],
+    "https://www.drugs.com/mtm/first-testosterone.html": [
+        "https://www.drugs.com/warfarin.html",
+        "https://www.drugs.com/coumadin.html",
+        "https://www.drugs.com/mtm/jantoven.html",
+        "https://www.drugs.com/methylprednisolone.html",
+        "https://www.drugs.com/prednisone.html"
+    ],
+    "https://www.drugs.com/cons/first-testosterone-mc.html": null,
+    "https://www.drugs.com/mtm/firvanq.html": [
+        "https://www.drugs.com/medical-answers/difference-between-firvanq-cutispharma-first-3387141/",
+        "https://www.drugs.com/medical-answers/vancomycin-can-you-have-a-drink-a-night-while-436361/"
+    ],
+    "https://www.drugs.com/fish_oil.html": [],
+    "https://www.drugs.com/mtm/fish-oil-mini.html": [
+        "https://www.drugs.com/mtm/alteplase.html",
+        "https://www.drugs.com/mtm/clopidogrel.html",
+        "https://www.drugs.com/mtm/dipyridamole.html",
+        "https://www.drugs.com/pro/ticlopidine.html",
+        "https://www.drugs.com/mtm/rivaroxaban.html",
+        "https://www.drugs.com/mtm/dabigatran.html"
+    ]
+}

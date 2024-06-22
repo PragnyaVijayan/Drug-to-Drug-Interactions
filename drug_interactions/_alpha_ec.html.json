@@ -1,0 +1,74 @@
+{
+    "https://www.drugs.com/mtm/ec-naprosyn.html": [
+        "https://www.drugs.com/drug-class/salicylates.html",
+        "https://www.drugs.com/mtm/diflunisal.html",
+        "https://www.drugs.com/mtm/cholestyramine.html",
+        "https://www.drugs.com/mtm/cyclosporine-ophthalmic.html",
+        "https://www.drugs.com/methotrexate.html",
+        "https://www.drugs.com/mtm/pemetrexed.html"
+    ],
+    "https://www.drugs.com/mtm/ecallantide.html": [
+        "https://www.drugs.com/medical-answers/kalbitor-3540462/"
+    ],
+    "https://www.drugs.com/mtm/echinacea.html": [
+        "https://www.drugs.com/cg/tuberculosis.html",
+        "https://www.drugs.com/cg/depression.html",
+        "https://www.drugs.com/cg/erectile-dysfunction.html",
+        "https://www.drugs.com/cg/hypertension.html",
+        "https://www.drugs.com/cg/hyperlipidemia.html",
+        "https://www.drugs.com/cg/arthritis.html",
+        "https://www.drugs.com/cg/autoimmune-disease.html"
+    ],
+    "https://www.drugs.com/mtm/echothiophate-iodide-ophthalmic.html": [],
+    "https://www.drugs.com/pro/econasil.html": null,
+    "https://www.drugs.com/cons/econazole.html": null,
+    "https://www.drugs.com/pro/econazole-cream.html": null,
+    "https://www.drugs.com/pro/econazole-foam.html": null,
+    "https://www.drugs.com/mtm/econazole-nitrate.html": [
+        "https://www.drugs.com/warfarin.html",
+        "https://www.drugs.com/coumadin.html",
+        "https://www.drugs.com/mtm/jantoven.html"
+    ],
+    "https://www.drugs.com/mtm/econazole-topical.html": [
+        "https://www.drugs.com/warfarin.html",
+        "https://www.drugs.com/coumadin.html",
+        "https://www.drugs.com/mtm/jantoven.html"
+    ],
+    "https://www.drugs.com/cons/econopred-plus.html": null,
+    "https://www.drugs.com/mtm/econtra-ez.html": [
+        "https://www.drugs.com/mtm/efavirenz.html",
+        "https://www.drugs.com/mtm/rifampin.html",
+        "https://www.drugs.com/carbamazepine.html",
+        "https://www.drugs.com/mtm/felbamate.html",
+        "https://www.drugs.com/mtm/fosphenytoin.html",
+        "https://www.drugs.com/mtm/phenobarbital.html",
+        "https://www.drugs.com/phenytoin.html",
+        "https://www.drugs.com/mtm/primidone.html"
+    ],
+    "https://www.drugs.com/mtm/econtra-one-step.html": [
+        "https://www.drugs.com/mtm/efavirenz.html",
+        "https://www.drugs.com/mtm/rifampin.html",
+        "https://www.drugs.com/carbamazepine.html",
+        "https://www.drugs.com/mtm/felbamate.html",
+        "https://www.drugs.com/mtm/fosphenytoin.html",
+        "https://www.drugs.com/mtm/phenobarbital.html",
+        "https://www.drugs.com/phenytoin.html",
+        "https://www.drugs.com/mtm/primidone.html"
+    ],
+    "https://www.drugs.com/mtm/ecotrin.html": [
+        "https://www.drugs.com/drug-class/salicylates.html",
+        "https://www.drugs.com/mtm/nuprin-backache.html",
+        "https://www.drugs.com/mtm/kaopectate.html",
+        "https://www.drugs.com/mtm/pamprin-cramp-formula.html",
+        "https://www.drugs.com/pepto-bismol.html"
+    ],
+    "https://www.drugs.com/mtm/ecoza.html": [
+        "https://www.drugs.com/warfarin.html",
+        "https://www.drugs.com/coumadin.html",
+        "https://www.drugs.com/mtm/jantoven.html"
+    ],
+    "https://www.drugs.com/pro/ecoza-foam.html": null,
+    "https://www.drugs.com/cons/ecpirin.html": null,
+    "https://www.drugs.com/mtm/eculizumab.html": [],
+    "https://www.drugs.com/pro/eczemol.html": null
+}

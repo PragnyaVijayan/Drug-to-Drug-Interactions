@@ -1,0 +1,638 @@
+{
+    "https://www.drugs.com/cons/a-b-otic.html": null,
+    "https://www.drugs.com/mtm/abacavir.html": [
+        "https://www.drugs.com/mtm/riociguat.html",
+        "https://www.drugs.com/methadone.html"
+    ],
+    "https://www.drugs.com/mtm/abacavir-and-lamivudine.html": [],
+    "https://www.drugs.com/pro/abacavir-and-lamivudine-tablets.html": null,
+    "https://www.drugs.com/pro/abacavir-oral-solution.html": null,
+    "https://www.drugs.com/pro/abacavir-sulfate-tablets.html": null,
+    "https://www.drugs.com/mtm/abacavir-dolutegravir-and-lamivudine.html": [
+        "https://www.drugs.com/mtm/milk-of-magnesia.html",
+        "https://www.drugs.com/mtm/pepcid-complete.html"
+    ],
+    "https://www.drugs.com/pro/abacavir-lamivudine-and-zidovudine-tablets.html": null,
+    "https://www.drugs.com/mtm/abacavir-lamivudine-and-zidovudine.html": [],
+    "https://www.drugs.com/mtm/abaloparatide.html": [],
+    "https://www.drugs.com/cons/abametapir.html": null,
+    "https://www.drugs.com/abatacept.html": [
+        "https://www.drugs.comhttps://www.drugs.com/adalimumab.html",
+        "https://www.drugs.comhttps://www.drugs.com/mtm/anakinra.html",
+        "https://www.drugs.comhttps://www.drugs.com/mtm/certolizumab.html",
+        "https://www.drugs.comhttps://www.drugs.com/mtm/etanercept.html",
+        "https://www.drugs.comhttps://www.drugs.com/mtm/golimumab.html",
+        "https://www.drugs.comhttps://www.drugs.com/infliximab.html",
+        "https://www.drugs.comhttps://www.drugs.com/rituximab.html",
+        "https://www.drugs.comhttps://www.drugs.com/mtm/tocilizumab.html"
+    ],
+    "https://www.drugs.com/mtm/abatuss-dmx.html": [],
+    "https://www.drugs.com/pro/abavite.html": null,
+    "https://www.drugs.com/cons/abbokinase.html": null,
+    "https://www.drugs.com/cons/abciximab.html": null,
+    "https://www.drugs.com/abecma.html": [],
+    "https://www.drugs.com/mtm/abelcet.html": [
+        "https://www.drugs.com/drug-class/corticotropin.html",
+        "https://www.drugs.com/mtm/zidovudine-oral-injection.html",
+        "https://www.drugs.com/mtm/clotrimazole.html",
+        "https://www.drugs.com/mtm/fluconazole.html",
+        "https://www.drugs.com/mtm/ketoconazole-topical.html",
+        "https://www.drugs.com/mtm/miconazole-topical.html",
+        "https://www.drugs.com/mtm/dexamethasone-intraocular.html",
+        "https://www.drugs.com/prednisone.html",
+        "https://www.drugs.com/methylprednisolone.html"
+    ],
+    "https://www.drugs.com/abemaciclib.html": [
+        "https://www.drugs.com/mtm/ketoconazole-topical.html"
+    ],
+    "https://www.drugs.com/abilify.html": [],
+    "https://www.drugs.com/cons/abilify-aripiprazole-intramuscular.html": null,
+    "https://www.drugs.com/cons/abilify-aripiprazole-oral.html": null,
+    "https://www.drugs.com/abilify-asimtufii.html": [],
+    "https://www.drugs.com/mtm/abilify-asimtufii-injection.html": [
+        "https://www.drugs.com/cg/overactive-bladder.html",
+        "https://www.drugs.com/health-guide/parkinson-s-disease.html",
+        "https://www.drugs.com/cg/motion-sickness.html",
+        "https://www.drugs.com/cg/irritable-bowel-syndrome.html"
+    ],
+    "https://www.drugs.com/cons/abilify-discmelt.html": null,
+    "https://www.drugs.com/abilify-maintena.html": [
+        "https://www.drugs.com/valium.html",
+        "https://www.drugs.com/klonopin.html",
+        "https://www.drugs.com/xanax.html",
+        "https://www.drugs.com/cg/asthma.html",
+        "https://www.drugs.com/cdi/benadryl-allergy-diphenhydramine-chewable-tablets-and-orally-disintegrating-tablets.html",
+        "https://www.drugs.com/condition/bladder-muscle-dysfunction-overactive.html",
+        "https://www.drugs.com/cg/parkinson-disease.html",
+        "https://www.drugs.com/cg/motion-sickness.html",
+        "https://www.drugs.com/cg/irritable-bowel-syndrome.html"
+    ],
+    "https://www.drugs.com/mtm/abilify-maintena-prefilled-syringe-injection.html": [
+        "https://www.drugs.com/cg/overactive-bladder.html",
+        "https://www.drugs.com/health-guide/parkinson-s-disease.html",
+        "https://www.drugs.com/cg/motion-sickness.html",
+        "https://www.drugs.com/cg/irritable-bowel-syndrome.html"
+    ],
+    "https://www.drugs.com/cons/abilify-mycite.html": null,
+    "https://www.drugs.com/mtm/abilify-mycite-maintenance-kit-oral-with-sensor.html": [],
+    "https://www.drugs.com/mtm/abilify-mycite-starter-kit-oral-with-sensor.html": [],
+    "https://www.drugs.com/abiraterone.html": [
+        "https://www.drugs.com/cg/hypoglycemia-in-a-person-with-diabetes.html"
+    ],
+    "https://www.drugs.com/pro/abiraterone-acetate.html": null,
+    "https://www.drugs.com/mtm/abiraterone-and-niraparib.html": [
+        "https://www.drugs.com/mtm/pioglitazone.html",
+        "https://www.drugs.com/mtm/repaglinide.html",
+        "https://www.drugs.com/health-guide/hypoglycemia.html"
+    ],
+    "https://www.drugs.com/cons/abiraterone-micronized.html": null,
+    "https://www.drugs.com/cons/ablavar.html": null,
+    "https://www.drugs.com/pro/ablysinol.html": null,
+    "https://www.drugs.com/mtm/abobotulinumtoxina.html": [
+        "https://www.drugs.com/article/antibiotics.html",
+        "https://www.drugs.com/mtm/gentamicin-ophthalmic.html",
+        "https://www.drugs.com/cons/kanamycin.html",
+        "https://www.drugs.com/mtm/paromomycin.html",
+        "https://www.drugs.com/mtm/streptomycin.html",
+        "https://www.drugs.com/mtm/tobramycin-ophthalmic.html"
+    ],
+    "https://www.drugs.com/abraxane.html": [],
+    "https://www.drugs.com/mtm/abreva.html": [
+        "https://www.drugs.com/compare/abreva",
+        "https://www.drugs.com/price-guide/abreva",
+        "https://www.drugs.com/comments/docosanol-topical/abreva-for-herpes-simplex.html",
+        "https://www.drugs.com/sfx/abreva-side-effects.html",
+        "https://www.drugs.com/dosage/abreva.html",
+        "https://www.drugs.com/pregnancy/docosanol-topical.html",
+        "https://www.drugs.com/drug-class/topical-anti-infectives.html",
+        "https://www.drugs.com/mtm_esp/abreva.html"
+    ],
+    "https://www.drugs.com/abrilada.html": [
+        "https://www.drugs.comhttps://www.drugs.com/mtm/abatacept.html",
+        "https://www.drugs.comhttps://www.drugs.com/mtm/etanercept.html",
+        "https://www.drugs.comhttps://www.drugs.com/mtm/anakinra.html",
+        "https://www.drugs.comhttps://www.drugs.com/mtm/azathioprine.html",
+        "https://www.drugs.comhttps://www.drugs.com/mtm/mercaptopurine.html",
+        "https://www.drugs.comhttps://www.drugs.com/mtm/certolizumab.html",
+        "https://www.drugs.comhttps://www.drugs.com/mtm/golimumab.html",
+        "https://www.drugs.comhttps://www.drugs.com/infliximab.html",
+        "https://www.drugs.comhttps://www.drugs.com/rituximab.html"
+    ],
+    "https://www.drugs.com/mtm/abrocitinib.html": [],
+    "https://www.drugs.com/abrysvo.html": null,
+    "https://www.drugs.com/mtm/absorbine-athletes-foot.html": [
+        "https://www.drugs.com/compare/absorbine-athlete-s-foot",
+        "https://www.drugs.com/fda-alerts/2214-5323.html",
+        "https://www.drugs.com/sfx/absorbine-athlete-s-foot-side-effects.html",
+        "https://www.drugs.com/dosage/tolnaftate-topical.html",
+        "https://www.drugs.com/pregnancy/tolnaftate-topical.html",
+        "https://www.drugs.com/drug-class/topical-antifungals.html",
+        "https://www.drugs.com/breastfeeding/tolnaftate.html",
+        "https://www.drugs.com/mtm_esp/absorbine-athletes-foot.html"
+    ],
+    "https://www.drugs.com/mtm/absorbine-jr-antifungal.html": [
+        "https://www.drugs.com/compare/absorbine-jr-antifungal",
+        "https://www.drugs.com/fda-alerts/2214-5333.html",
+        "https://www.drugs.com/sfx/absorbine-jr-antifungal-side-effects.html",
+        "https://www.drugs.com/dosage/tolnaftate-topical.html",
+        "https://www.drugs.com/pregnancy/tolnaftate-topical.html",
+        "https://www.drugs.com/drug-class/topical-antifungals.html",
+        "https://www.drugs.com/breastfeeding/tolnaftate.html",
+        "https://www.drugs.com/mtm_esp/absorbine-jr-antifungal.html"
+    ],
+    "https://www.drugs.com/mtm/absorica.html": [
+        "https://www.drugs.com/mtm/st-john-s-wort.html",
+        "https://www.drugs.com/cdi/tetracycline-topical.html",
+        "https://www.drugs.com/doxycycline.html"
+    ],
+    "https://www.drugs.com/mtm/absorica-ld.html": [
+        "https://www.drugs.com/mtm/st-john-s-wort.html",
+        "https://www.drugs.com/cdi/tetracycline-topical.html",
+        "https://www.drugs.com/doxycycline.html"
+    ],
+    "https://www.drugs.com/abstral.html": [],
+    "https://www.drugs.com/pro/abstral-sublingual-tablet.html": null,
+    "https://www.drugs.com/cons/a-caro-25.html": null,
+    "https://www.drugs.com/npp/acacia-gum.html": [],
+    "https://www.drugs.com/npc/acai.html": null,
+    "https://www.drugs.com/mtm/acalabrutinib.html": [
+        "https://www.drugs.com/mtm/itraconazole.html",
+        "https://www.drugs.com/mtm/fluconazole.html",
+        "https://www.drugs.com/mtm/erythromycin-ophthalmic.html",
+        "https://www.drugs.com/cg/hepatitis-c.html",
+        "https://www.drugs.com/lansoprazole.html",
+        "https://www.drugs.com/mtm/rabeprazole.html"
+    ],
+    "https://www.drugs.com/acam2000.html": null,
+    "https://www.drugs.com/acamprosate.html": [],
+    "https://www.drugs.com/acanya.html": [],
+    "https://www.drugs.com/mtm/acarbose.html": [
+        "https://www.drugs.com/cg/tuberculosis.html",
+        "https://www.drugs.com/article/birth-control-pill.html",
+        "https://www.drugs.com/prednisone.html"
+    ],
+    "https://www.drugs.com/pro/accelerated-covid-19-test-kit.html": null,
+    "https://www.drugs.com/mtm/accesspak-for-hiv-pep-basic.html": [
+        "https://www.drugs.com/carbamazepine.html",
+        "https://www.drugs.com/mtm/oxcarbazepine.html",
+        "https://www.drugs.com/mtm/phenobarbital.html",
+        "https://www.drugs.com/cg/hepatitis-c.html"
+    ],
+    "https://www.drugs.com/mtm/accesspak-for-hiv-pep-expanded-with-kaletra.html": [
+        "https://www.drugs.com/cg/erectile-dysfunction.html",
+        "https://www.drugs.com/cg/migraine-headache.html"
+    ],
+    "https://www.drugs.com/mtm/accesspak-for-hiv-pep-expanded-with-viracept.html": [
+        "https://www.drugs.com/cg/hepatitis-c.html",
+        "https://www.drugs.com/sofosbuvir.html",
+        "https://www.drugs.com/mtm/atazanavir.html"
+    ],
+    "https://www.drugs.com/pro/acclean.html": null,
+    "https://www.drugs.com/pro/acclean-60-second-fluoride-treatment.html": null,
+    "https://www.drugs.com/pro/acclean-plus.html": null,
+    "https://www.drugs.com/mtm/accolate.html": [
+        "https://www.drugs.com/mtm/erythromycin-ophthalmic.html",
+        "https://www.drugs.com/mtm/fluconazole.html",
+        "https://www.drugs.com/mtm/theophylline.html",
+        "https://www.drugs.com/warfarin.html",
+        "https://www.drugs.com/coumadin.html",
+        "https://www.drugs.com/mtm/jantoven.html"
+    ],
+    "https://www.drugs.com/accretropin.html": [],
+    "https://www.drugs.com/mtm/accrufer.html": [],
+    "https://www.drugs.com/pro/accucaine.html": null,
+    "https://www.drugs.com/cons/accuneb.html": null,
+    "https://www.drugs.com/accupril.html": [
+        "https://www.drugs.com/lithium.html",
+        "https://www.drugs.com/mtm/temsirolimus.html",
+        "https://www.drugs.com/mtm/sirolimus-topical.html",
+        "https://www.drugs.com/everolimus.html",
+        "https://www.drugs.com/aspirin.html",
+        "https://www.drugs.com/ibuprofen.html",
+        "https://www.drugs.com/advil.html",
+        "https://www.drugs.com/motrin.html",
+        "https://www.drugs.com/naproxen.html",
+        "https://www.drugs.com/aleve.html",
+        "https://www.drugs.com/celecoxib.html",
+        "https://www.drugs.com/mtm/diclofenac-topical.html",
+        "https://www.drugs.com/mtm/indomethacin.html",
+        "https://www.drugs.com/meloxicam.html"
+    ],
+    "https://www.drugs.com/mtm/accuretic.html": [
+        "https://www.drugs.com/mtm/temsirolimus.html",
+        "https://www.drugs.com/mtm/demeclocycline.html",
+        "https://www.drugs.com/mtm/eravacycline.html",
+        "https://www.drugs.com/mtm/omadacycline-oral-injection.html",
+        "https://www.drugs.com/cdi/tetracycline-topical.html",
+        "https://www.drugs.com/drug-class/nonsteroidal-anti-inflammatory-agents.html",
+        "https://www.drugs.com/mtm/indomethacin.html"
+    ],
+    "https://www.drugs.com/accutane.html": [
+        "https://www.drugs.com/phenytoin.html",
+        "https://www.drugs.com/mtm/st-john-s-wort.html",
+        "https://www.drugs.com/tetracycline.html",
+        "https://www.drugs.com/article/antibiotics.html",
+        "https://www.drugs.com/doxycycline.html",
+        "https://www.drugs.com/minocycline.html"
+    ],
+    "https://www.drugs.com/pro/acd-a.html": null,
+    "https://www.drugs.com/pro/acd-blood-pack-units.html": null,
+    "https://www.drugs.com/mtm/acebutolol.html": [
+        "https://www.drugs.com/drug-class/nonsteroidal-anti-inflammatory-agents.html",
+        "https://www.drugs.com/mtm/diclofenac-topical.html",
+        "https://www.drugs.com/mtm/indomethacin.html",
+        "https://www.drugs.com/carvedilol.html",
+        "https://www.drugs.com/metoprolol.html",
+        "https://www.drugs.com/propranolol.html"
+    ],
+    "https://www.drugs.com/pro/acella-antipyrine-and-benzocaine-otic-solution.html": null,
+    "https://www.drugs.com/aceon.html": [
+        "https://www.drugs.com/lithium.html",
+        "https://www.drugs.com/aspirin.html",
+        "https://www.drugs.com/ibuprofen.html",
+        "https://www.drugs.com/advil.html",
+        "https://www.drugs.com/motrin.html",
+        "https://www.drugs.com/naproxen.html",
+        "https://www.drugs.com/aleve.html",
+        "https://www.drugs.com/celecoxib.html",
+        "https://www.drugs.com/diclofenac.html",
+        "https://www.drugs.com/mtm/indomethacin.html",
+        "https://www.drugs.com/meloxicam.html"
+    ],
+    "https://www.drugs.com/cons/acephen.html": null,
+    "https://www.drugs.com/mtm/acephen-rectal.html": [
+        "https://www.drugs.com/medical-answers/good-medicine-severe-sore-throat-612310/",
+        "https://www.drugs.com/medical-answers/medications-liver-enzymes-elevated-3566419/"
+    ],
+    "https://www.drugs.com/mtm/acerola.html": [],
+    "https://www.drugs.com/acetadote.html": null,
+    "https://www.drugs.com/acetaminophen.html": [
+        "https://www.drugs.com/medical-answers/good-medicine-severe-sore-throat-612310/",
+        "https://www.drugs.com/medical-answers/medications-liver-enzymes-elevated-3566419/"
+    ],
+    "https://www.drugs.com/cons/acetaminophen-intravenous.html": null,
+    "https://www.drugs.com/cons/acetaminophen-oral-rectal.html": null,
+    "https://www.drugs.com/mtm/acetaminophen-and-benzhydrocodone.html": [
+        "https://www.drugs.com/cg/motion-sickness.html",
+        "https://www.drugs.com/cg/irritable-bowel-syndrome.html",
+        "https://www.drugs.com/cg/overactive-bladder.html",
+        "https://www.drugs.com/alprazolam.html",
+        "https://www.drugs.com/cg/depression.html",
+        "https://www.drugs.com/health-guide/parkinson-s-disease.html"
+    ],
+    "https://www.drugs.com/mtm/acetaminophen-and-butalbital.html": [],
+    "https://www.drugs.com/mtm/acetaminophen-and-caffeine.html": [],
+    "https://www.drugs.com/mtm/acetaminophen-and-chlorpheniramine.html": [],
+    "https://www.drugs.com/mtm/acetaminophen-and-codeine.html": [
+        "https://www.drugs.com/cg/motion-sickness.html",
+        "https://www.drugs.com/cg/irritable-bowel-syndrome.html",
+        "https://www.drugs.com/cg/overactive-bladder.html",
+        "https://www.drugs.com/alprazolam.html",
+        "https://www.drugs.com/cg/depression.html",
+        "https://www.drugs.com/health-guide/parkinson-s-disease.html"
+    ],
+    "https://www.drugs.com/pro/acetaminophen-and-codeine-oral-solution.html": null,
+    "https://www.drugs.com/mtm/acetaminophen-and-dextromethorphan.html": [],
+    "https://www.drugs.com/mtm/acetaminophen-and-diphenhydramine.html": [],
+    "https://www.drugs.com/mtm/acetaminophen-and-ibuprofen.html": [],
+    "https://www.drugs.com/acetaminophen-and-oxycodone.html": [
+        "https://www.drugs.comhttps://www.drugs.com/cg/copd-chronic-obstructive-pulmonary-disease.html",
+        "https://www.drugs.comhttps://www.drugs.com/cg/motion-sickness.html",
+        "https://www.drugs.comhttps://www.drugs.com/cg/irritable-bowel-syndrome.html",
+        "https://www.drugs.comhttps://www.drugs.com/cg/overactive-bladder.html",
+        "https://www.drugs.comhttps://www.drugs.com/diazepam.html",
+        "https://www.drugs.comhttps://www.drugs.com/alprazolam.html",
+        "https://www.drugs.comhttps://www.drugs.com/lorazepam.html",
+        "https://www.drugs.comhttps://www.drugs.com/xanax.html",
+        "https://www.drugs.comhttps://www.drugs.com/klonopin.html",
+        "https://www.drugs.comhttps://www.drugs.com/mtm/versed.html",
+        "https://www.drugs.comhttps://www.drugs.com/cg/depression.html",
+        "https://www.drugs.comhttps://www.drugs.com/cg/parkinson-disease.html",
+        "https://www.drugs.comhttps://www.drugs.com/cg/migraine-headache.html",
+        "https://www.drugs.comhttps://www.drugs.com/cg/acute-nausea-and-vomiting.html"
+    ],
+    "https://www.drugs.com/mtm/acetaminophen-and-phenylephrine.html": [],
+    "https://www.drugs.com/mtm/acetaminophen-and-phenyltoloxamine.html": [],
+    "https://www.drugs.com/mtm/acetaminophen-and-pseudoephedrine.html": [],
+    "https://www.drugs.com/mtm/acetaminophen-and-tramadol.html": [
+        "https://www.drugs.com/cg/motion-sickness.html",
+        "https://www.drugs.com/cg/overactive-bladder.html",
+        "https://www.drugs.com/drug-class/antidepressants.html",
+        "https://www.drugs.com/health-guide/parkinson-s-disease.html"
+    ],
+    "https://www.drugs.com/mtm/acetaminophen-congestion-and-pain.html": [],
+    "https://www.drugs.com/mtm/acetaminophen-injection.html": [
+        "https://www.drugs.com/medical-answers/good-medicine-severe-sore-throat-612310/",
+        "https://www.drugs.com/medical-answers/medications-liver-enzymes-elevated-3566419/"
+    ],
+    "https://www.drugs.com/mtm/acetaminophen-rectal.html": [
+        "https://www.drugs.com/medical-answers/good-medicine-severe-sore-throat-612310/",
+        "https://www.drugs.com/medical-answers/medications-liver-enzymes-elevated-3566419/"
+    ],
+    "https://www.drugs.com/mtm/acetaminophen-aspirin-and-caffeine.html": [],
+    "https://www.drugs.com/mtm/acetaminophen-butalbital-and-caffeine.html": [],
+    "https://www.drugs.com/mtm/acetaminophen-butalbital-caffeine-and-codeine.html": [
+        "https://www.drugs.com/cg/motion-sickness.html",
+        "https://www.drugs.com/cg/irritable-bowel-syndrome.html",
+        "https://www.drugs.com/cg/overactive-bladder.html",
+        "https://www.drugs.com/health-guide/parkinson-s-disease.html"
+    ],
+    "https://www.drugs.com/mtm/acetaminophen-caffeine-and-dihydrocodeine.html": [
+        "https://www.drugs.com/alprazolam.html",
+        "https://www.drugs.com/lorazepam.html",
+        "https://www.drugs.com/cg/depression.html",
+        "https://www.drugs.com/health-guide/parkinson-s-disease.html"
+    ],
+    "https://www.drugs.com/mtm/acetaminophen-caffeine-and-magnesium-salicylate.html": [
+        "https://www.drugs.com/cg/arthritis.html",
+        "https://www.drugs.com/drug-class/nonsteroidal-anti-inflammatory-agents.html",
+        "https://www.drugs.com/ibuprofen.html",
+        "https://www.drugs.com/celecoxib.html",
+        "https://www.drugs.com/mtm/diclofenac-topical.html",
+        "https://www.drugs.com/mtm/indomethacin.html",
+        "https://www.drugs.com/meloxicam.html"
+    ],
+    "https://www.drugs.com/mtm/acetaminophen-chlorpheniramine-and-dextromethorphan.html": [],
+    "https://www.drugs.com/mtm/acetaminophen-chlorpheniramine-and-phenylephrine.html": [],
+    "https://www.drugs.com/mtm/acetaminophen-chlorpheniramine-dextromethorphan-and-pseudoephedrine.html": [],
+    "https://www.drugs.com/mtm/acetaminophen-dextromethorphan-and-diphenhydramine.html": [],
+    "https://www.drugs.com/mtm/acetaminophen-dextromethorphan-and-doxylamine.html": [],
+    "https://www.drugs.com/mtm/acetaminophen-dextromethorphan-and-phenylephrine.html": [],
+    "https://www.drugs.com/mtm/acetaminophen-dextromethorphan-and-triprolidine.html": [],
+    "https://www.drugs.com/mtm/acetaminophen-dextromethorphan-doxylamine-and-phenylephrine.html": [],
+    "https://www.drugs.com/mtm/acetaminophen-dextromethorphan-doxylamine-and-pseudoephedrine.html": [],
+    "https://www.drugs.com/mtm/acetaminophen-dextromethorphan-guaifenesin-and-phenylephrine.html": [],
+    "https://www.drugs.com/mtm/acetaminophen-dextromethorphan-guaifenesin-and-pseudoephedrine.html": [],
+    "https://www.drugs.com/mtm/acetaminophen-dextromethorphan-phenylephrine-and-triprolidine.html": [],
+    "https://www.drugs.com/mtm/acetaminophen-diphenhydramine-and-phenylephrine.html": [],
+    "https://www.drugs.com/mtm/acetaminophen-magnesium-salicylate-and-pamabrom.html": [],
+    "https://www.drugs.com/mtm/acetaminophen-pheniramine-and-phenylephrine.html": [],
+    "https://www.drugs.com/cons/acetasol-hc.html": null,
+    "https://www.drugs.com/mtm/acetasol-hc-otic.html": [
+        "https://www.drugs.com/compare/acetasol-hc",
+        "https://www.drugs.com/sfx/acetasol-hc-side-effects.html",
+        "https://www.drugs.com/dosage/acetasol-hc.html",
+        "https://www.drugs.com/drug-class/otic-steroids-with-anti-infectives.html"
+    ],
+    "https://www.drugs.com/mtm/acetazolamide.html": [],
+    "https://www.drugs.com/cons/acetazolamide-intravenous.html": null,
+    "https://www.drugs.com/cons/acetazolamide-oral.html": null,
+    "https://www.drugs.com/pro/acetazolamide-capsules.html": null,
+    "https://www.drugs.com/pro/acetazolamide-tablets.html": null,
+    "https://www.drugs.com/pro/acetic-acid.html": null,
+    "https://www.drugs.com/mtm/acetic-acid-and-hydrocortisone-otic.html": [
+        "https://www.drugs.com/compare/acetic-acid-hydrocortisone-otic",
+        "https://www.drugs.com/price-guide/acetic-acid-hydrocortisone-otic",
+        "https://www.drugs.com/comments/acetic-acid-hydrocortisone-otic/for-otitis-externa.html",
+        "https://www.drugs.com/sfx/acetic-acid-hydrocortisone-otic-side-effects.html",
+        "https://www.drugs.com/drug-class/otic-steroids-with-anti-infectives.html",
+        "https://www.drugs.com/mtm_esp/acetic-acid-y-hydrocortisone-otic.html"
+    ],
+    "https://www.drugs.com/mtm/acetic-acid-irrigant.html": [
+        "https://www.drugs.com/compare/acetic-acid-topical",
+        "https://www.drugs.com/price-guide/acetic-acid-topical",
+        "https://www.drugs.com/comments/acetic-acid-topical/",
+        "https://www.drugs.com/sfx/acetic-acid-topical-side-effects.html",
+        "https://www.drugs.com/drug-class/topical-anti-infectives.html"
+    ],
+    "https://www.drugs.com/pro/acetic-acid-irrigation.html": null,
+    "https://www.drugs.com/mtm/acetic-acid-otic.html": [
+        "https://www.drugs.com/compare/acetic-acid-otic",
+        "https://www.drugs.com/price-guide/acetic-acid-otic",
+        "https://www.drugs.com/sfx/acetic-acid-otic-side-effects.html",
+        "https://www.drugs.com/drug-class/otic-anti-infectives.html",
+        "https://www.drugs.com/mtm_esp/acetic-acid-otic.html"
+    ],
+    "https://www.drugs.com/mtm/acetic-acid-vaginal.html": [
+        "https://www.drugs.com/compare/acetic-acid-topical",
+        "https://www.drugs.com/price-guide/acetic-acid-topical",
+        "https://www.drugs.com/comments/acetic-acid-topical/",
+        "https://www.drugs.com/sfx/acetic-acid-topical-side-effects.html",
+        "https://www.drugs.com/drug-class/topical-anti-infectives.html"
+    ],
+    "https://www.drugs.com/mtm/acetohydroxamic-acid.html": [],
+    "https://www.drugs.com/cons/acetone-isopropyl-alcohol-and-polysorbate.html": null,
+    "https://www.drugs.com/mtm/acetylcysteine.html": [],
+    "https://www.drugs.com/cons/acetylcysteine-intravenous.html": null,
+    "https://www.drugs.com/cons/acetylcysteine-oral.html": null,
+    "https://www.drugs.com/mtm/acetylcysteine-inhalation.html": [],
+    "https://www.drugs.com/pro/acetylcysteine-injection.html": null,
+    "https://www.drugs.com/pro/acetylcysteine-solution.html": null,
+    "https://www.drugs.com/monograph/acetylcysteine-acetylcysteine-lysine-local-systemic.html": [],
+    "https://www.drugs.com/pro/achromycin-v.html": null,
+    "https://www.drugs.com/mtm/aci-jel-vaginal.html": [
+        "https://www.drugs.com/compare/aci-jel",
+        "https://www.drugs.com/sfx/aci-jel-side-effects.html",
+        "https://www.drugs.com/drug-class/topical-anti-infectives.html"
+    ],
+    "https://www.drugs.com/pro/acid-controller-original-strength.html": null,
+    "https://www.drugs.com/mtm/acid-gone.html": [],
+    "https://www.drugs.com/mtm/acid-gone-extra-strength.html": [],
+    "https://www.drugs.com/mtm/acid-jelly-vaginal.html": [
+        "https://www.drugs.com/compare/acid-jelly",
+        "https://www.drugs.com/sfx/acid-jelly-side-effects.html",
+        "https://www.drugs.com/drug-class/topical-anti-infectives.html"
+    ],
+    "https://www.drugs.com/mtm/acidic-vaginal-jelly-vaginal.html": [
+        "https://www.drugs.com/compare/acidic-vaginal-jelly",
+        "https://www.drugs.com/sfx/acidic-vaginal-jelly-side-effects.html",
+        "https://www.drugs.com/drug-class/topical-anti-infectives.html"
+    ],
+    "https://www.drugs.com/acidophilus.html": [],
+    "https://www.drugs.com/mtm/acidophilus-extra-strength.html": [
+        "https://www.drugs.com/cg/liver-transplant-discharge-care.html",
+        "https://www.drugs.com/prednisone.html",
+        "https://www.drugs.com/mtm/dexamethasone-intraocular.html",
+        "https://www.drugs.com/methylprednisolone.html"
+    ],
+    "https://www.drugs.com/mtm/acidophilus-probiotic-blend.html": [
+        "https://www.drugs.com/cg/liver-transplant-discharge-care.html",
+        "https://www.drugs.com/prednisone.html",
+        "https://www.drugs.com/mtm/dexamethasone-intraocular.html",
+        "https://www.drugs.com/methylprednisolone.html"
+    ],
+    "https://www.drugs.com/mtm/acidophilus-with-pectin.html": [
+        "https://www.drugs.com/cg/liver-transplant-discharge-care.html",
+        "https://www.drugs.com/prednisone.html",
+        "https://www.drugs.com/mtm/dexamethasone-intraocular.html",
+        "https://www.drugs.com/methylprednisolone.html"
+    ],
+    "https://www.drugs.com/aciphex.html": [
+        "https://www.drugs.com/clarithromycin.html",
+        "https://www.drugs.com/amoxicillin.html",
+        "https://www.drugs.com/digoxin.html",
+        "https://www.drugs.com/methotrexate.html",
+        "https://www.drugs.com/coumadin.html",
+        "https://www.drugs.com/mtm/jantoven.html"
+    ],
+    "https://www.drugs.com/mtm/aciphex-sprinkle.html": [
+        "https://www.drugs.com/clarithromycin.html",
+        "https://www.drugs.com/amoxicillin.html",
+        "https://www.drugs.com/methotrexate.html"
+    ],
+    "https://www.drugs.com/mtm/acitretin.html": [
+        "https://www.drugs.com/mtm/st-john-s-wort.html"
+    ],
+    "https://www.drugs.com/pro/acitretin-capsules.html": null,
+    "https://www.drugs.com/npp/ackee.html": [
+        "https://www.drugs.com/support/",
+        "https://www.drugs.com/sitemap.html",
+        "https://www.drugs.com/support/contact.html"
+    ],
+    "https://www.drugs.com/aclasta.html": [],
+    "https://www.drugs.com/mtm/aclidinium.html": [
+        "https://www.drugs.com/mtm/darifenacin.html",
+        "https://www.drugs.com/mtm/fesoterodine.html",
+        "https://www.drugs.com/oxybutynin.html",
+        "https://www.drugs.com/mtm/tolterodine.html",
+        "https://www.drugs.com/mtm/solifenacin.html",
+        "https://www.drugs.com/drug-class/bronchodilators.html",
+        "https://www.drugs.com/mtm/ipratropium-nasal.html",
+        "https://www.drugs.com/mtm/tiotropium-inhalation.html",
+        "https://www.drugs.com/health-guide/parkinson-s-disease.html",
+        "https://www.drugs.com/condition/gastric-ulcer.html",
+        "https://www.drugs.com/cg/motion-sickness.html",
+        "https://www.drugs.com/cg/irritable-bowel-syndrome.html"
+    ],
+    "https://www.drugs.com/mtm/aclidinium-and-formoterol.html": [
+        "https://www.drugs.com/drug-class/monoamine-oxidase-inhibitors.html",
+        "https://www.drugs.com/drug-class/tricyclic-antidepressants.html",
+        "https://www.drugs.com/health-guide/parkinson-s-disease.html",
+        "https://www.drugs.com/cg/motion-sickness.html",
+        "https://www.drugs.com/cg/irritable-bowel-syndrome.html",
+        "https://www.drugs.com/cg/overactive-bladder.html"
+    ],
+    "https://www.drugs.com/mtm/aclovate.html": [],
+    "https://www.drugs.com/cons/acne.html": null,
+    "https://www.drugs.com/cons/acne-10-gel.html": null,
+    "https://www.drugs.com/mtm/acne-foaming-cream-face-cleanser.html": [
+        "https://www.drugs.com/medical-answers/can-buy-antibiotics-over-counter-3121697/"
+    ],
+    "https://www.drugs.com/cons/acne-wash.html": null,
+    "https://www.drugs.com/mtm/acne-clear.html": [
+        "https://www.drugs.com/medical-answers/can-buy-antibiotics-over-counter-3121697/"
+    ],
+    "https://www.drugs.com/mtm/acnevir.html": [],
+    "https://www.drugs.com/acomplia.html": null,
+    "https://www.drugs.com/npp/aconite.html": [
+        "https://www.drugs.com/support/",
+        "https://www.drugs.com/sitemap.html",
+        "https://www.drugs.com/support/contact.html"
+    ],
+    "https://www.drugs.com/cons/acrivastine-and-pseudoephedrine.html": null,
+    "https://www.drugs.com/pro/act-covid-19-antibody-test.html": null,
+    "https://www.drugs.com/mtm/act-fluoride-rinse.html": [
+        "https://www.drugs.com/compare/act-fluoride-rinse",
+        "https://www.drugs.com/comments/fluoride-topical/act-fluoride-rinse-for-prevention-of-dental-caries.html",
+        "https://www.drugs.com/sfx/act-fluoride-rinse-side-effects.html",
+        "https://www.drugs.com/dosage/fluoride-topical.html",
+        "https://www.drugs.com/pregnancy/fluoride-topical.html",
+        "https://www.drugs.com/drug-class/mouth-and-throat-products.html",
+        "https://www.drugs.com/mtm_esp/act-fluoride-rinse.html"
+    ],
+    "https://www.drugs.com/mtm/actamin.html": [
+        "https://www.drugs.com/medical-answers/good-medicine-severe-sore-throat-612310/",
+        "https://www.drugs.com/medical-answers/medications-liver-enzymes-elevated-3566419/"
+    ],
+    "https://www.drugs.com/cons/actamin-maximum-strength.html": null,
+    "https://www.drugs.com/actemra.html": [
+        "https://www.drugs.com/mtm/abatacept.html",
+        "https://www.drugs.com/mtm/etanercept.html",
+        "https://www.drugs.com/mtm/adalimumab.html",
+        "https://www.drugs.com/infliximab.html",
+        "https://www.drugs.com/rituximab.html"
+    ],
+    "https://www.drugs.com/mtm/actemra-actpen.html": [
+        "https://www.drugs.com/certolizumab.html"
+    ],
+    "https://www.drugs.com/mtm/acthar-gel-h-p.html": [],
+    "https://www.drugs.com/mtm/acthib.html": [
+        "https://www.drugs.com/cg/psoriasis.html",
+        "https://www.drugs.com/cg/arthritis.html",
+        "https://www.drugs.com/cg/autoimmune-disease.html",
+        "https://www.drugs.com/cg/liver-transplant-discharge-care.html"
+    ],
+    "https://www.drugs.com/cons/acthrel.html": null,
+    "https://www.drugs.com/mtm/acticin.html": [
+        "https://www.drugs.com/medical-answers/can-you-use-nix-permethrin-lice-shampoo-on-your-183740/"
+    ],
+    "https://www.drugs.com/pro/acticlate.html": null,
+    "https://www.drugs.com/pro/actidose.html": null,
+    "https://www.drugs.com/mtm/actidose-aqua.html": [],
+    "https://www.drugs.com/actifed.html": [],
+    "https://www.drugs.com/mtm/actifed-cold-and-allergy.html": [],
+    "https://www.drugs.com/cons/actigall.html": null,
+    "https://www.drugs.com/mtm/actimmune.html": [],
+    "https://www.drugs.com/actiq.html": [
+        "https://www.drugs.com/valium.html",
+        "https://www.drugs.com/diazepam.html",
+        "https://www.drugs.com/alprazolam.html",
+        "https://www.drugs.com/lorazepam.html",
+        "https://www.drugs.com/ativan.html",
+        "https://www.drugs.com/klonopin.html",
+        "https://www.drugs.com/restoril.html",
+        "https://www.drugs.com/cons/tranxene.html",
+        "https://www.drugs.com/mtm/versed.html",
+        "https://www.drugs.com/xanax.html",
+        "https://www.drugs.com/health-guide/major-depression.html",
+        "https://www.drugs.com/health-guide/parkinson-s-disease.html"
+    ],
+    "https://www.drugs.com/cons/actisite.html": null,
+    "https://www.drugs.com/mtm/activase.html": [
+        "https://www.drugs.com/drug-class/nonsteroidal-anti-inflammatory-agents.html",
+        "https://www.drugs.com/ibuprofen.html",
+        "https://www.drugs.com/celecoxib.html",
+        "https://www.drugs.com/mtm/diclofenac-topical.html",
+        "https://www.drugs.com/mtm/indomethacin.html",
+        "https://www.drugs.com/meloxicam.html"
+    ],
+    "https://www.drugs.com/mtm/activated-charcoal.html": [],
+    "https://www.drugs.com/cons/activella.html": null,
+    "https://www.drugs.com/mtm/activice.html": [
+        "https://www.drugs.com/compare/activice",
+        "https://www.drugs.com/sfx/activice-side-effects.html",
+        "https://www.drugs.com/dosage/menthol-topical.html",
+        "https://www.drugs.com/pregnancy/menthol-topical.html",
+        "https://www.drugs.com/drug-class/topical-rubefacient.html",
+        "https://www.drugs.com/mtm_esp/activice.html"
+    ],
+    "https://www.drugs.com/actonel.html": [],
+    "https://www.drugs.com/actonel_calcium.html": [],
+    "https://www.drugs.com/actoplus_met.html": [],
+    "https://www.drugs.com/mtm/actoplus-met-xr.html": [],
+    "https://www.drugs.com/actos.html": [],
+    "https://www.drugs.com/acuflex.html": [],
+    "https://www.drugs.com/mtm/acular.html": [],
+    "https://www.drugs.com/mtm/acular-ls.html": [],
+    "https://www.drugs.com/cons/acular-pf.html": null,
+    "https://www.drugs.com/pro/acunistat-30-injection-system.html": null,
+    "https://www.drugs.com/pro/acunistat-60-injection-system.html": null,
+    "https://www.drugs.com/pro/acunivive-15-injection-system.html": null,
+    "https://www.drugs.com/pro/acunivive-30-injection-system.html": null,
+    "https://www.drugs.com/pro/acunivive-60-injection-system.html": null,
+    "https://www.drugs.com/pro/acunivive-90-injection-system.html": null,
+    "https://www.drugs.com/pro/acunol.html": null,
+    "https://www.drugs.com/acuvail.html": [],
+    "https://www.drugs.com/pro/acuvue-theravision-with-ketotifen.html": null,
+    "https://www.drugs.com/acyclovir.html": [
+        "https://www.drugs.com/medical-answers/you-drink-alcohol-taking-acyclovir-777675/",
+        "https://www.drugs.com/medical-answers/benefit-taking-valacyclovir-acyclovir-760301/"
+    ],
+    "https://www.drugs.com/cons/acyclovir-buccal-mucosa.html": null,
+    "https://www.drugs.com/cons/acyclovir-ophthalmic.html": null,
+    "https://www.drugs.com/cons/acyclovir-oral-intravenous.html": null,
+    "https://www.drugs.com/cons/acyclovir-and-hydrocortisone.html": null,
+    "https://www.drugs.com/mtm/acyclovir-and-hydrocortisone-topical.html": [],
+    "https://www.drugs.com/pro/acyclovir-capsules.html": null,
+    "https://www.drugs.com/pro/acyclovir-cream.html": null,
+    "https://www.drugs.com/mtm/acyclovir-injection.html": [
+        "https://www.drugs.com/mtm/probenecid.html"
+    ],
+    "https://www.drugs.com/pro/acyclovir-iv-infusion.html": null,
+    "https://www.drugs.com/pro/acyclovir-ointment.html": null,
+    "https://www.drugs.com/pro/acyclovir-oral-suspension.html": null,
+    "https://www.drugs.com/pro/acyclovir-tablets.html": null,
+    "https://www.drugs.com/mtm/acyclovir-topical.html": [],
+    "https://www.drugs.com/cons/acys-5.html": null,
+    "https://www.drugs.com/aczone.html": []
+}

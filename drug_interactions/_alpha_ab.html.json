@@ -1,0 +1,155 @@
+{
+    "https://www.drugs.com/cons/a-b-otic.html": null,
+    "https://www.drugs.com/mtm/abacavir.html": [
+        "https://www.drugs.com/mtm/riociguat.html",
+        "https://www.drugs.com/methadone.html"
+    ],
+    "https://www.drugs.com/mtm/abacavir-and-lamivudine.html": [],
+    "https://www.drugs.com/pro/abacavir-and-lamivudine-tablets.html": null,
+    "https://www.drugs.com/pro/abacavir-oral-solution.html": null,
+    "https://www.drugs.com/pro/abacavir-sulfate-tablets.html": null,
+    "https://www.drugs.com/mtm/abacavir-dolutegravir-and-lamivudine.html": [
+        "https://www.drugs.com/mtm/milk-of-magnesia.html",
+        "https://www.drugs.com/mtm/pepcid-complete.html"
+    ],
+    "https://www.drugs.com/pro/abacavir-lamivudine-and-zidovudine-tablets.html": null,
+    "https://www.drugs.com/mtm/abacavir-lamivudine-and-zidovudine.html": [],
+    "https://www.drugs.com/mtm/abaloparatide.html": [],
+    "https://www.drugs.com/cons/abametapir.html": null,
+    "https://www.drugs.com/abatacept.html": [
+        "https://www.drugs.comhttps://www.drugs.com/adalimumab.html",
+        "https://www.drugs.comhttps://www.drugs.com/mtm/anakinra.html",
+        "https://www.drugs.comhttps://www.drugs.com/mtm/certolizumab.html",
+        "https://www.drugs.comhttps://www.drugs.com/mtm/etanercept.html",
+        "https://www.drugs.comhttps://www.drugs.com/mtm/golimumab.html",
+        "https://www.drugs.comhttps://www.drugs.com/infliximab.html",
+        "https://www.drugs.comhttps://www.drugs.com/rituximab.html",
+        "https://www.drugs.comhttps://www.drugs.com/mtm/tocilizumab.html"
+    ],
+    "https://www.drugs.com/mtm/abatuss-dmx.html": [],
+    "https://www.drugs.com/pro/abavite.html": null,
+    "https://www.drugs.com/cons/abbokinase.html": null,
+    "https://www.drugs.com/cons/abciximab.html": null,
+    "https://www.drugs.com/abecma.html": [],
+    "https://www.drugs.com/mtm/abelcet.html": [
+        "https://www.drugs.com/drug-class/corticotropin.html",
+        "https://www.drugs.com/mtm/zidovudine-oral-injection.html",
+        "https://www.drugs.com/mtm/clotrimazole.html",
+        "https://www.drugs.com/mtm/fluconazole.html",
+        "https://www.drugs.com/mtm/ketoconazole-topical.html",
+        "https://www.drugs.com/mtm/miconazole-topical.html",
+        "https://www.drugs.com/mtm/dexamethasone-intraocular.html",
+        "https://www.drugs.com/prednisone.html",
+        "https://www.drugs.com/methylprednisolone.html"
+    ],
+    "https://www.drugs.com/abemaciclib.html": [
+        "https://www.drugs.com/mtm/ketoconazole-topical.html"
+    ],
+    "https://www.drugs.com/abilify.html": [],
+    "https://www.drugs.com/cons/abilify-aripiprazole-intramuscular.html": null,
+    "https://www.drugs.com/cons/abilify-aripiprazole-oral.html": null,
+    "https://www.drugs.com/abilify-asimtufii.html": [],
+    "https://www.drugs.com/mtm/abilify-asimtufii-injection.html": [
+        "https://www.drugs.com/cg/overactive-bladder.html",
+        "https://www.drugs.com/health-guide/parkinson-s-disease.html",
+        "https://www.drugs.com/cg/motion-sickness.html",
+        "https://www.drugs.com/cg/irritable-bowel-syndrome.html"
+    ],
+    "https://www.drugs.com/cons/abilify-discmelt.html": null,
+    "https://www.drugs.com/abilify-maintena.html": [
+        "https://www.drugs.com/valium.html",
+        "https://www.drugs.com/klonopin.html",
+        "https://www.drugs.com/xanax.html",
+        "https://www.drugs.com/cg/asthma.html",
+        "https://www.drugs.com/cdi/benadryl-allergy-diphenhydramine-chewable-tablets-and-orally-disintegrating-tablets.html",
+        "https://www.drugs.com/condition/bladder-muscle-dysfunction-overactive.html",
+        "https://www.drugs.com/cg/parkinson-disease.html",
+        "https://www.drugs.com/cg/motion-sickness.html",
+        "https://www.drugs.com/cg/irritable-bowel-syndrome.html"
+    ],
+    "https://www.drugs.com/mtm/abilify-maintena-prefilled-syringe-injection.html": [
+        "https://www.drugs.com/cg/overactive-bladder.html",
+        "https://www.drugs.com/health-guide/parkinson-s-disease.html",
+        "https://www.drugs.com/cg/motion-sickness.html",
+        "https://www.drugs.com/cg/irritable-bowel-syndrome.html"
+    ],
+    "https://www.drugs.com/cons/abilify-mycite.html": null,
+    "https://www.drugs.com/mtm/abilify-mycite-maintenance-kit-oral-with-sensor.html": [],
+    "https://www.drugs.com/mtm/abilify-mycite-starter-kit-oral-with-sensor.html": [],
+    "https://www.drugs.com/abiraterone.html": [
+        "https://www.drugs.com/cg/hypoglycemia-in-a-person-with-diabetes.html"
+    ],
+    "https://www.drugs.com/pro/abiraterone-acetate.html": null,
+    "https://www.drugs.com/mtm/abiraterone-and-niraparib.html": [
+        "https://www.drugs.com/mtm/pioglitazone.html",
+        "https://www.drugs.com/mtm/repaglinide.html",
+        "https://www.drugs.com/health-guide/hypoglycemia.html"
+    ],
+    "https://www.drugs.com/cons/abiraterone-micronized.html": null,
+    "https://www.drugs.com/cons/ablavar.html": null,
+    "https://www.drugs.com/pro/ablysinol.html": null,
+    "https://www.drugs.com/mtm/abobotulinumtoxina.html": [
+        "https://www.drugs.com/article/antibiotics.html",
+        "https://www.drugs.com/mtm/gentamicin-ophthalmic.html",
+        "https://www.drugs.com/cons/kanamycin.html",
+        "https://www.drugs.com/mtm/paromomycin.html",
+        "https://www.drugs.com/mtm/streptomycin.html",
+        "https://www.drugs.com/mtm/tobramycin-ophthalmic.html"
+    ],
+    "https://www.drugs.com/abraxane.html": [],
+    "https://www.drugs.com/mtm/abreva.html": [
+        "https://www.drugs.com/compare/abreva",
+        "https://www.drugs.com/price-guide/abreva",
+        "https://www.drugs.com/comments/docosanol-topical/abreva-for-herpes-simplex.html",
+        "https://www.drugs.com/sfx/abreva-side-effects.html",
+        "https://www.drugs.com/dosage/abreva.html",
+        "https://www.drugs.com/pregnancy/docosanol-topical.html",
+        "https://www.drugs.com/drug-class/topical-anti-infectives.html",
+        "https://www.drugs.com/mtm_esp/abreva.html"
+    ],
+    "https://www.drugs.com/abrilada.html": [
+        "https://www.drugs.comhttps://www.drugs.com/mtm/abatacept.html",
+        "https://www.drugs.comhttps://www.drugs.com/mtm/etanercept.html",
+        "https://www.drugs.comhttps://www.drugs.com/mtm/anakinra.html",
+        "https://www.drugs.comhttps://www.drugs.com/mtm/azathioprine.html",
+        "https://www.drugs.comhttps://www.drugs.com/mtm/mercaptopurine.html",
+        "https://www.drugs.comhttps://www.drugs.com/mtm/certolizumab.html",
+        "https://www.drugs.comhttps://www.drugs.com/mtm/golimumab.html",
+        "https://www.drugs.comhttps://www.drugs.com/infliximab.html",
+        "https://www.drugs.comhttps://www.drugs.com/rituximab.html"
+    ],
+    "https://www.drugs.com/mtm/abrocitinib.html": [],
+    "https://www.drugs.com/abrysvo.html": null,
+    "https://www.drugs.com/mtm/absorbine-athletes-foot.html": [
+        "https://www.drugs.com/compare/absorbine-athlete-s-foot",
+        "https://www.drugs.com/fda-alerts/2214-5323.html",
+        "https://www.drugs.com/sfx/absorbine-athlete-s-foot-side-effects.html",
+        "https://www.drugs.com/dosage/tolnaftate-topical.html",
+        "https://www.drugs.com/pregnancy/tolnaftate-topical.html",
+        "https://www.drugs.com/drug-class/topical-antifungals.html",
+        "https://www.drugs.com/breastfeeding/tolnaftate.html",
+        "https://www.drugs.com/mtm_esp/absorbine-athletes-foot.html"
+    ],
+    "https://www.drugs.com/mtm/absorbine-jr-antifungal.html": [
+        "https://www.drugs.com/compare/absorbine-jr-antifungal",
+        "https://www.drugs.com/fda-alerts/2214-5333.html",
+        "https://www.drugs.com/sfx/absorbine-jr-antifungal-side-effects.html",
+        "https://www.drugs.com/dosage/tolnaftate-topical.html",
+        "https://www.drugs.com/pregnancy/tolnaftate-topical.html",
+        "https://www.drugs.com/drug-class/topical-antifungals.html",
+        "https://www.drugs.com/breastfeeding/tolnaftate.html",
+        "https://www.drugs.com/mtm_esp/absorbine-jr-antifungal.html"
+    ],
+    "https://www.drugs.com/mtm/absorica.html": [
+        "https://www.drugs.com/mtm/st-john-s-wort.html",
+        "https://www.drugs.com/cdi/tetracycline-topical.html",
+        "https://www.drugs.com/doxycycline.html"
+    ],
+    "https://www.drugs.com/mtm/absorica-ld.html": [
+        "https://www.drugs.com/mtm/st-john-s-wort.html",
+        "https://www.drugs.com/cdi/tetracycline-topical.html",
+        "https://www.drugs.com/doxycycline.html"
+    ],
+    "https://www.drugs.com/abstral.html": [],
+    "https://www.drugs.com/pro/abstral-sublingual-tablet.html": null
+}

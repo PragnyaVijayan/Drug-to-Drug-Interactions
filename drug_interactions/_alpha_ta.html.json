@@ -1,0 +1,391 @@
+{
+    "https://www.drugs.com/mtm/tabloid.html": [],
+    "https://www.drugs.com/pro/tabradol.html": null,
+    "https://www.drugs.com/tabrecta.html": null,
+    "https://www.drugs.com/mtm/tabtussin-dm.html": [],
+    "https://www.drugs.com/cons/tachosil.html": null,
+    "https://www.drugs.com/pro/tachosil-patch.html": null,
+    "https://www.drugs.com/taclonex.html": [
+        "https://www.drugs.com/dexamethasone.html",
+        "https://www.drugs.com/mtm/fludrocortisone.html",
+        "https://www.drugs.com/mtm/hydrocortisone-rectal-cream-suppository.html",
+        "https://www.drugs.com/prednisone.html",
+        "https://www.drugs.com/triamcinolone.html"
+    ],
+    "https://www.drugs.com/cons/taclonex-scalp.html": null,
+    "https://www.drugs.com/pro/taclonex-topical-suspension.html": null,
+    "https://www.drugs.com/cons/tacrine.html": null,
+    "https://www.drugs.com/monograph/tacrolimus.html": [],
+    "https://www.drugs.com/cons/tacrolimus-intravenous.html": null,
+    "https://www.drugs.com/cons/tacrolimus-oral.html": null,
+    "https://www.drugs.com/pro/tacrolimus-er-capsules.html": null,
+    "https://www.drugs.com/pro/tacrolimus-ointment.html": null,
+    "https://www.drugs.com/mtm/tacrolimus-oral-and-injection.html": [
+        "https://www.drugs.com/amiodarone.html"
+    ],
+    "https://www.drugs.com/mtm/tacrolimus-topical.html": [
+        "https://www.drugs.com/compare/tacrolimus-topical",
+        "https://www.drugs.com/price-guide/tacrolimus-topical",
+        "https://www.drugs.com/comments/tacrolimus-topical/",
+        "https://www.drugs.com/sfx/tacrolimus-topical-side-effects.html",
+        "https://www.drugs.com/dosage/tacrolimus-topical.html",
+        "https://www.drugs.com/pregnancy/tacrolimus-topical.html",
+        "https://www.drugs.com/drug-class/miscellaneous-topical-agents.html",
+        "https://www.drugs.com/breastfeeding/tacrolimus.html",
+        "https://www.drugs.com/mtm_esp/tacrolimus-topical.html"
+    ],
+    "https://www.drugs.com/pro/tacrus-ointment.html": null,
+    "https://www.drugs.com/mtm/tactinal.html": [
+        "https://www.drugs.com/medical-answers/good-medicine-severe-sore-throat-612310/",
+        "https://www.drugs.com/medical-answers/medications-liver-enzymes-elevated-3566419/"
+    ],
+    "https://www.drugs.com/tadalafil.html": [],
+    "https://www.drugs.com/mtm/tadalafil-eqv-adcirca.html": [
+        "https://www.drugs.com/cg/hypertension.html",
+        "https://www.drugs.com/clarithromycin.html",
+        "https://www.drugs.com/carbamazepine.html",
+        "https://www.drugs.com/mtm/phenobarbital.html"
+    ],
+    "https://www.drugs.com/mtm/tadalafil-eqv-cialis.html": [
+        "https://www.drugs.com/cg/hypertension.html",
+        "https://www.drugs.com/clarithromycin.html",
+        "https://www.drugs.com/carbamazepine.html",
+        "https://www.drugs.com/mtm/phenobarbital.html"
+    ],
+    "https://www.drugs.com/monograph/tadalafil-erectile-dysfunction-benign-prostatic-hyperplasia.html": [],
+    "https://www.drugs.com/monograph/tadalafil-pulmonary-hypertension.html": [],
+    "https://www.drugs.com/mtm/tadliq.html": [
+        "https://www.drugs.com/cg/hypertension.html",
+        "https://www.drugs.com/clarithromycin.html",
+        "https://www.drugs.com/carbamazepine.html",
+        "https://www.drugs.com/mtm/phenobarbital.html"
+    ],
+    "https://www.drugs.com/tafamidis.html": [],
+    "https://www.drugs.com/mtm/tafasitamab.html": [],
+    "https://www.drugs.com/cons/tafasitamab-cxix.html": null,
+    "https://www.drugs.com/mtm/tafenoquine.html": [
+        "https://www.drugs.com/medical-answers/difference-between-arakoda-krintafel-3439492/",
+        "https://www.drugs.com/medical-answers/you-arakoda-prevention-malaria-3439489/",
+        "https://www.drugs.com/medical-answers/you-krintafel-3436192/"
+    ],
+    "https://www.drugs.com/monograph/tafenoquine-arakoda.html": [
+        "https://www.drugs.com/medical-answers/difference-between-arakoda-krintafel-3439492/",
+        "https://www.drugs.com/medical-answers/you-arakoda-prevention-malaria-3439489/",
+        "https://www.drugs.com/medical-answers/you-krintafel-3436192/"
+    ],
+    "https://www.drugs.com/monograph/tafenoquine-krintafel.html": [
+        "https://www.drugs.com/medical-answers/difference-between-arakoda-krintafel-3439492/",
+        "https://www.drugs.com/medical-answers/you-arakoda-prevention-malaria-3439489/",
+        "https://www.drugs.com/medical-answers/you-krintafel-3436192/"
+    ],
+    "https://www.drugs.com/tafinlar.html": [],
+    "https://www.drugs.com/cons/tafluprost.html": null,
+    "https://www.drugs.com/pro/tafluprost-eye-drops.html": null,
+    "https://www.drugs.com/mtm/tafluprost-ophthalmic.html": [],
+    "https://www.drugs.com/mtm/tagamet-hb.html": [
+        "https://www.drugs.com/mtm/ketoconazole-topical.html",
+        "https://www.drugs.com/phenytoin.html",
+        "https://www.drugs.com/mtm/theophylline.html",
+        "https://www.drugs.com/coumadin.html",
+        "https://www.drugs.com/mtm/jantoven.html",
+        "https://www.drugs.com/nifedipine.html",
+        "https://www.drugs.com/propranolol.html",
+        "https://www.drugs.com/mtm/chlordiazepoxide.html",
+        "https://www.drugs.com/diazepam.html"
+    ],
+    "https://www.drugs.com/cons/tagitol-v.html": null,
+    "https://www.drugs.com/pro/tagitol-v-suspension.html": null,
+    "https://www.drugs.com/mtm/tagraxofusp.html": [
+        "https://www.drugs.com/medical-answers/disease-elzonris-tagraxofusp-erzs-treat-3463050/"
+    ],
+    "https://www.drugs.com/cons/tagraxofusp-erzs.html": null,
+    "https://www.drugs.com/tagrisso.html": [
+        "https://www.drugs.com/medical-answers/what-is-tagrisso-used-for-3016731/"
+    ],
+    "https://www.drugs.com/npp/taheebo.html": [],
+    "https://www.drugs.com/mtm/take-action.html": [
+        "https://www.drugs.com/mtm/efavirenz.html",
+        "https://www.drugs.com/mtm/rifampin.html",
+        "https://www.drugs.com/carbamazepine.html",
+        "https://www.drugs.com/mtm/felbamate.html",
+        "https://www.drugs.com/mtm/fosphenytoin.html",
+        "https://www.drugs.com/mtm/phenobarbital.html",
+        "https://www.drugs.com/phenytoin.html",
+        "https://www.drugs.com/mtm/primidone.html"
+    ],
+    "https://www.drugs.com/takhzyro.html": [],
+    "https://www.drugs.com/mtm/talazoparib.html": [
+        "https://www.drugs.com/amiodarone.html",
+        "https://www.drugs.com/carvedilol.html",
+        "https://www.drugs.com/clarithromycin.html",
+        "https://www.drugs.com/mtm/itraconazole.html",
+        "https://www.drugs.com/verapamil.html"
+    ],
+    "https://www.drugs.com/cons/talc.html": null,
+    "https://www.drugs.com/monograph/talc-local.html": [],
+    "https://www.drugs.com/mtm/talicia.html": [
+        "https://www.drugs.com/allopurinol.html",
+        "https://www.drugs.com/mtm/clopidogrel.html",
+        "https://www.drugs.com/methotrexate.html",
+        "https://www.drugs.com/mtm/st-john-s-wort.html",
+        "https://www.drugs.com/clarithromycin.html",
+        "https://www.drugs.com/cons/telithromycin.html",
+        "https://www.drugs.com/mtm/itraconazole.html",
+        "https://www.drugs.com/mtm/ketoconazole-topical.html",
+        "https://www.drugs.com/mtm/posaconazole-oral-injection.html",
+        "https://www.drugs.com/mtm/fosamprenavir.html"
+    ],
+    "https://www.drugs.com/mtm/taliglucerase-alfa.html": [
+        "https://www.drugs.com/compare/taliglucerase-alfa",
+        "https://www.drugs.com/sfx/taliglucerase-alfa-side-effects.html",
+        "https://www.drugs.com/dosage/taliglucerase-alfa.html",
+        "https://www.drugs.com/pregnancy/taliglucerase-alfa.html",
+        "https://www.drugs.com/drug-class/lysosomal-enzymes.html",
+        "https://www.drugs.com/breastfeeding/taliglucerase-alfa.html",
+        "https://www.drugs.com/mtm_esp/taliglucerase-alfa.html"
+    ],
+    "https://www.drugs.com/mtm/talimogene-laherparepvec.html": [
+        "https://www.drugs.com/cons/acyclovir-ophthalmic.html",
+        "https://www.drugs.com/valacyclovir.html",
+        "https://www.drugs.com/cg/liver-transplant-discharge-care.html"
+    ],
+    "https://www.drugs.com/mtm/talquetamab.html": [],
+    "https://www.drugs.com/cons/talquetamab-tgvs.html": null,
+    "https://www.drugs.com/taltz.html": [],
+    "https://www.drugs.com/talvey.html": null,
+    "https://www.drugs.com/pro/talvey-injection.html": null,
+    "https://www.drugs.com/cons/talwin.html": null,
+    "https://www.drugs.com/pro/talwin-injection.html": null,
+    "https://www.drugs.com/cons/talwin-nx.html": null,
+    "https://www.drugs.com/talzenna.html": [
+        "https://www.drugs.comhttps://www.drugs.com/amiodarone.html",
+        "https://www.drugs.comhttps://www.drugs.com/carvedilol.html",
+        "https://www.drugs.comhttps://www.drugs.com/clarithromycin.html",
+        "https://www.drugs.comhttps://www.drugs.com/mtm/itraconazole.html",
+        "https://www.drugs.comhttps://www.drugs.com/verapamil.html"
+    ],
+    "https://www.drugs.com/npp/tamanu.html": [
+        "https://www.drugs.com/comments/tamanu-oil-topical/"
+    ],
+    "https://www.drugs.com/mtm/tambocor.html": [
+        "https://www.drugs.com/atenolol.html",
+        "https://www.drugs.com/metoprolol.html",
+        "https://www.drugs.com/propranolol.html",
+        "https://www.drugs.com/amiodarone.html",
+        "https://www.drugs.com/diltiazem.html",
+        "https://www.drugs.com/mtm/disopyramide.html",
+        "https://www.drugs.com/nifedipine.html",
+        "https://www.drugs.com/mtm/quinidine.html",
+        "https://www.drugs.com/verapamil.html"
+    ],
+    "https://www.drugs.com/tamiflu.html": [
+        "https://www.drugs.com/medical-answers/tamiflu-work-covid-19-3537049/",
+        "https://www.drugs.com/medical-answers/can-i-drink-alcohol-if-i-m-taking-tamiflu-55627/",
+        "https://www.drugs.com/medical-answers/difference-between-xofluza-tamiflu-3452786/"
+    ],
+    "https://www.drugs.com/tamoxifen.html": [],
+    "https://www.drugs.com/tamsulosin.html": [
+        "https://www.drugs.com/mtm/cimetidine.html",
+        "https://www.drugs.com/cg/erectile-dysfunction.html",
+        "https://www.drugs.com/mtm/avanafil.html",
+        "https://www.drugs.com/stendra.html",
+        "https://www.drugs.com/sildenafil.html",
+        "https://www.drugs.com/viagra.html",
+        "https://www.drugs.com/revatio.html",
+        "https://www.drugs.com/tadalafil.html",
+        "https://www.drugs.com/adcirca.html",
+        "https://www.drugs.com/cialis.html",
+        "https://www.drugs.com/mtm/vardenafil.html",
+        "https://www.drugs.com/levitra.html",
+        "https://www.drugs.com/staxyn.html",
+        "https://www.drugs.com/cg/hypertension.html",
+        "https://www.drugs.com/mtm/alfuzosin.html",
+        "https://www.drugs.com/doxazosin.html",
+        "https://www.drugs.com/mtm/prazosin.html",
+        "https://www.drugs.com/terazosin.html",
+        "https://www.drugs.com/mtm/silodosin.html"
+    ],
+    "https://www.drugs.com/pro/tandem-capsules.html": null,
+    "https://www.drugs.com/mtm/tannic-12-s.html": [],
+    "https://www.drugs.com/npp/tanning-tablets.html": [
+        "https://www.drugs.com/support/",
+        "https://www.drugs.com/sitemap.html",
+        "https://www.drugs.com/support/contact.html"
+    ],
+    "https://www.drugs.com/npp/tansy.html": [],
+    "https://www.drugs.com/tanzeum.html": [],
+    "https://www.drugs.com/mtm/tapazole.html": [
+        "https://www.drugs.com/mtm/theophylline.html",
+        "https://www.drugs.com/coumadin.html",
+        "https://www.drugs.com/mtm/jantoven.html",
+        "https://www.drugs.com/atenolol.html",
+        "https://www.drugs.com/carvedilol.html",
+        "https://www.drugs.com/mtm/labetalol.html",
+        "https://www.drugs.com/metoprolol.html",
+        "https://www.drugs.com/propranolol.html"
+    ],
+    "https://www.drugs.com/tapentadol.html": [
+        "https://www.drugs.com/cg/allergies.html",
+        "https://www.drugs.com/cg/motion-sickness.html",
+        "https://www.drugs.com/cg/overactive-bladder.html",
+        "https://www.drugs.com/valium.html",
+        "https://www.drugs.com/klonopin.html",
+        "https://www.drugs.com/xanax.html",
+        "https://www.drugs.com/drug-class/antidepressants.html",
+        "https://www.drugs.com/cg/parkinson-disease.html"
+    ],
+    "https://www.drugs.com/mtm/taperdex-12-day.html": [
+        "https://www.drugs.com/article/birth-control-pill.html",
+        "https://www.drugs.com/health-guide/parkinson-s-disease.html",
+        "https://www.drugs.com/drug-class/nonsteroidal-anti-inflammatory-agents.html"
+    ],
+    "https://www.drugs.com/mtm/taperdex-6-day.html": [
+        "https://www.drugs.com/article/birth-control-pill.html",
+        "https://www.drugs.com/health-guide/parkinson-s-disease.html",
+        "https://www.drugs.com/drug-class/nonsteroidal-anti-inflammatory-agents.html"
+    ],
+    "https://www.drugs.com/mtm/taperdex-7-day.html": [
+        "https://www.drugs.com/article/birth-control-pill.html",
+        "https://www.drugs.com/health-guide/parkinson-s-disease.html",
+        "https://www.drugs.com/drug-class/nonsteroidal-anti-inflammatory-agents.html"
+    ],
+    "https://www.drugs.com/cons/tapinarof.html": null,
+    "https://www.drugs.com/mtm/tapinarof-topical.html": [
+        "https://www.drugs.com/compare/tapinarof-topical",
+        "https://www.drugs.com/comments/tapinarof-topical/for-plaque-psoriasis.html",
+        "https://www.drugs.com/sfx/tapinarof-topical-side-effects.html",
+        "https://www.drugs.com/dosage/tapinarof-topical.html",
+        "https://www.drugs.com/pregnancy/tapinarof-topical.html",
+        "https://www.drugs.com/drug-class/topical-antipsoriatics.html",
+        "https://www.drugs.com/breastfeeding/tapinarof.html",
+        "https://www.drugs.com/mtm_esp/tapinarof-topical.html"
+    ],
+    "https://www.drugs.com/pro/tarazosin-capsules.html": null,
+    "https://www.drugs.com/tarceva.html": [],
+    "https://www.drugs.com/pro/targadox.html": null,
+    "https://www.drugs.com/targiniq-er.html": [],
+    "https://www.drugs.com/mtm/targretin.html": [
+        "https://www.drugs.com/gemfibrozil.html",
+        "https://www.drugs.com/article/antibiotics.html"
+    ],
+    "https://www.drugs.com/cons/targretin-bexarotene-oral.html": null,
+    "https://www.drugs.com/cons/targretin-bexarotene-topical.html": null,
+    "https://www.drugs.com/pro/targretin-gel.html": null,
+    "https://www.drugs.com/mtm/targretin-topical.html": [
+        "https://www.drugs.com/gemfibrozil.html",
+        "https://www.drugs.com/article/antibiotics.html"
+    ],
+    "https://www.drugs.com/pro/tarina-24-fe.html": null,
+    "https://www.drugs.com/mtm/tarina-24-fe-birth-control.html": [
+        "https://www.drugs.com/mtm/glecaprevir-and-pibrentasvir.html",
+        "https://www.drugs.com/drug-class/anticonvulsants.html",
+        "https://www.drugs.com/drug-class/anticonvulsants.html"
+    ],
+    "https://www.drugs.com/pro/tarina-fe-1-20.html": null,
+    "https://www.drugs.com/mtm/tarina-fe-1-20-birth-control.html": [
+        "https://www.drugs.com/mtm/glecaprevir-and-pibrentasvir.html",
+        "https://www.drugs.com/drug-class/anticonvulsants.html",
+        "https://www.drugs.com/drug-class/anticonvulsants.html"
+    ],
+    "https://www.drugs.com/mtm/tarina-fe-1-20-eq-birth-control.html": [
+        "https://www.drugs.com/mtm/glecaprevir-and-pibrentasvir.html",
+        "https://www.drugs.com/drug-class/anticonvulsants.html"
+    ],
+    "https://www.drugs.com/cons/tarka.html": null,
+    "https://www.drugs.com/pro/taron-prex-prenatal.html": null,
+    "https://www.drugs.com/tarpeyo.html": [],
+    "https://www.drugs.com/mtm/tarsum.html": [],
+    "https://www.drugs.com/tascenso.html": [],
+    "https://www.drugs.com/tasigna.html": [
+        "https://www.drugs.com/medical-answers/tasigna-nilotinib-hair-loss-3559391/"
+    ],
+    "https://www.drugs.com/mtm/tasimelteon.html": [],
+    "https://www.drugs.com/mtm/tasmar.html": [],
+    "https://www.drugs.com/pro/tasoprol.html": null,
+    "https://www.drugs.com/npc/taurine.html": null,
+    "https://www.drugs.com/monograph/taurolidine-and-heparin-local.html": [
+        "https://www.drugs.com/condition/prevention-of-catheter-related-bloodstream-infections.html"
+    ],
+    "https://www.drugs.com/cons/tauvid.html": null,
+    "https://www.drugs.com/cons/tavaborole.html": null,
+    "https://www.drugs.com/mtm/tavaborole-topical.html": [
+        "https://www.drugs.com/compare/tavaborole-topical",
+        "https://www.drugs.com/comments/tavaborole-topical/for-onychomycosis-toenail.html",
+        "https://www.drugs.com/sfx/tavaborole-topical-side-effects.html",
+        "https://www.drugs.com/dosage/tavaborole-topical.html",
+        "https://www.drugs.com/pregnancy/tavaborole-topical.html",
+        "https://www.drugs.com/drug-class/topical-antifungals.html",
+        "https://www.drugs.com/breastfeeding/tavaborole.html",
+        "https://www.drugs.com/mtm_esp/tavaborole-topical.html"
+    ],
+    "https://www.drugs.com/pro/tavaborole-topical-solution.html": null,
+    "https://www.drugs.com/tavalisse.html": [],
+    "https://www.drugs.com/tavist.html": [],
+    "https://www.drugs.com/mtm/tavist-nd.html": [
+        "https://www.drugs.com/medical-answers/common-skin-conditions-photos-3573649/",
+        "https://www.drugs.com/medical-answers/you-claritin-neulasta-3548526/",
+        "https://www.drugs.com/medical-answers/can-you-take-10-mg-of-loratadine-twice-a-day-like-153165/",
+        "https://www.drugs.com/medical-answers/you-antihistamines-pregnant-3562255/"
+    ],
+    "https://www.drugs.com/mtm/tavist-sinus.html": [],
+    "https://www.drugs.com/tavneos.html": [],
+    "https://www.drugs.com/taxol.html": [
+        "https://www.drugs.com/mtm/bosentan.html",
+        "https://www.drugs.com/mtm/cyclosporine-ophthalmic.html",
+        "https://www.drugs.com/imatinib.html",
+        "https://www.drugs.com/mtm/nefazodone.html",
+        "https://www.drugs.com/mtm/st-john-s-wort.html",
+        "https://www.drugs.com/clarithromycin.html",
+        "https://www.drugs.com/mtm/nafcillin-injection.html",
+        "https://www.drugs.com/mtm/rifabutin.html",
+        "https://www.drugs.com/mtm/rifampin.html",
+        "https://www.drugs.com/mtm/rifapentine.html",
+        "https://www.drugs.com/mtm/itraconazole.html",
+        "https://www.drugs.com/mtm/ketoconazole.html",
+        "https://www.drugs.com/mtm/posaconazole-oral-injection.html",
+        "https://www.drugs.com/mtm/voriconazole-oral-injection.html",
+        "https://www.drugs.com/mtm/nicardipine-oral-injection.html",
+        "https://www.drugs.com/mtm/quinidine.html",
+        "https://www.drugs.com/mtm/atazanavir.html",
+        "https://www.drugs.com/mtm/efavirenz.html",
+        "https://www.drugs.com/mtm/fosamprenavir.html",
+        "https://www.drugs.com/mtm/nelfinavir.html",
+        "https://www.drugs.com/mtm/nevirapine.html",
+        "https://www.drugs.com/mtm/ritonavir.html",
+        "https://www.drugs.com/mtm/saquinavir.html",
+        "https://www.drugs.com/carbamazepine.html",
+        "https://www.drugs.com/mtm/fosphenytoin.html",
+        "https://www.drugs.com/mtm/oxcarbazepine.html",
+        "https://www.drugs.com/mtm/phenobarbital.html",
+        "https://www.drugs.com/phenytoin.html",
+        "https://www.drugs.com/mtm/primidone.html"
+    ],
+    "https://www.drugs.com/taxotere.html": [],
+    "https://www.drugs.com/pro/taysofy.html": null,
+    "https://www.drugs.com/mtm/taysofy-birth-control.html": [
+        "https://www.drugs.com/mtm/glecaprevir-and-pibrentasvir.html",
+        "https://www.drugs.com/drug-class/anticonvulsants.html",
+        "https://www.drugs.com/drug-class/anticonvulsants.html"
+    ],
+    "https://www.drugs.com/pro/taytulla.html": null,
+    "https://www.drugs.com/mtm/taytulla-birth-control.html": [
+        "https://www.drugs.com/mtm/glecaprevir-and-pibrentasvir.html",
+        "https://www.drugs.com/drug-class/anticonvulsants.html",
+        "https://www.drugs.com/drug-class/anticonvulsants.html"
+    ],
+    "https://www.drugs.com/tazarotene-topical.html": [],
+    "https://www.drugs.com/pro/tazarotene-cream.html": null,
+    "https://www.drugs.com/pro/tazarotene-foam.html": null,
+    "https://www.drugs.com/pro/tazarotene-gel.html": null,
+    "https://www.drugs.com/mtm/tazemetostat.html": [],
+    "https://www.drugs.com/monograph/tazemetostat-hydrobromide.html": [],
+    "https://www.drugs.com/mtm/tazicef.html": [],
+    "https://www.drugs.com/mtm/tazicef-add-vantage.html": [],
+    "https://www.drugs.com/tazorac.html": [
+        "https://www.drugs.com/article/antibiotics.html"
+    ],
+    "https://www.drugs.com/pro/tazorac-cream.html": null,
+    "https://www.drugs.com/pro/tazorac-gel.html": null,
+    "https://www.drugs.com/cons/taztia-xt.html": null,
+    "https://www.drugs.com/tazverik.html": []
+}

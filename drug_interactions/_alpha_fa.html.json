@@ -1,0 +1,115 @@
+{
+    "https://www.drugs.com/cons/fa-8.html": null,
+    "https://www.drugs.com/pro/fabb-tablets.html": null,
+    "https://www.drugs.com/fabhalta.html": null,
+    "https://www.drugs.com/fabior.html": [
+        "https://www.drugs.com/article/antibiotics.html"
+    ],
+    "https://www.drugs.com/pro/fabior-foam.html": null,
+    "https://www.drugs.com/fabrazyme.html": [],
+    "https://www.drugs.com/cons/factive.html": null,
+    "https://www.drugs.com/cons/factor-ix.html": null,
+    "https://www.drugs.com/monograph/factor-ix-human-factor-ix-complex-human.html": [],
+    "https://www.drugs.com/monograph/factor-ix-recombinant.html": [],
+    "https://www.drugs.com/monograph/factor-ix-recombinant-albumin-fusion-protein.html": null,
+    "https://www.drugs.com/monograph/factor-ix-recombinant-fc-fusion-protein.html": null,
+    "https://www.drugs.com/cons/factor-ix-albumin-fusion-protein-recombinant.html": null,
+    "https://www.drugs.com/mtm/factor-ix-complex.html": [
+        "https://www.drugs.com/mtm/aminocaproic-acid.html",
+        "https://www.drugs.com/mtm/amicar.html",
+        "https://www.drugs.com/mtm/tranexamic-acid.html",
+        "https://www.drugs.com/mtm/cyklokapron.html",
+        "https://www.drugs.com/lysteda.html"
+    ],
+    "https://www.drugs.com/cons/factor-ix-fc-fusion-protein-recombinant.html": null,
+    "https://www.drugs.com/monograph/factor-viia-recombinant.html": [],
+    "https://www.drugs.com/cons/factor-x-human.html": null,
+    "https://www.drugs.com/monograph/factor-xa-recombinant-inactivated-zhzo.html": [],
+    "https://www.drugs.com/mtm/factor-xiii.html": [],
+    "https://www.drugs.com/monograph/factor-xiii-a-subunit-recombinant.html": [],
+    "https://www.drugs.com/cons/factrel.html": null,
+    "https://www.drugs.com/mtm/fallback-solo.html": [
+        "https://www.drugs.com/mtm/efavirenz.html",
+        "https://www.drugs.com/mtm/rifampin.html",
+        "https://www.drugs.com/carbamazepine.html",
+        "https://www.drugs.com/mtm/felbamate.html",
+        "https://www.drugs.com/mtm/fosphenytoin.html",
+        "https://www.drugs.com/mtm/phenobarbital.html",
+        "https://www.drugs.com/phenytoin.html",
+        "https://www.drugs.com/mtm/primidone.html"
+    ],
+    "https://www.drugs.com/mtm/falmina.html": [],
+    "https://www.drugs.com/npp/false-unicorn.html": [],
+    "https://www.drugs.com/mtm/fam-trastuzumab-deruxtecan.html": [],
+    "https://www.drugs.com/cons/fam-trastuzumab-deruxtecan-nxki.html": null,
+    "https://www.drugs.com/mtm/famciclovir.html": [],
+    "https://www.drugs.com/famotidine.html": null,
+    "https://www.drugs.com/mtm/famotidine-and-ibuprofen.html": [],
+    "https://www.drugs.com/pro/famotidine-injection.html": null,
+    "https://www.drugs.com/pro/famotidine-oral-suspension.html": null,
+    "https://www.drugs.com/pro/famotidine-tablets.html": null,
+    "https://www.drugs.com/famvir.html": [],
+    "https://www.drugs.com/fanapt.html": [],
+    "https://www.drugs.com/cons/fanapt-titration-pack.html": null,
+    "https://www.drugs.com/cons/fansidar.html": null,
+    "https://www.drugs.com/mtm/fareston.html": [],
+    "https://www.drugs.com/mtm/faricimab-ophthalmic.html": [
+        "https://www.drugs.com/compare/faricimab",
+        "https://www.drugs.com/comments/faricimab/",
+        "https://www.drugs.com/sfx/faricimab-side-effects.html",
+        "https://www.drugs.com/dosage/faricimab.html",
+        "https://www.drugs.com/pregnancy/faricimab.html",
+        "https://www.drugs.com/drug-class/anti-angiogenic-ophthalmic-agents.html",
+        "https://www.drugs.com/breastfeeding/faricimab.html",
+        "https://www.drugs.com/mtm_esp/faricimab-ophthalmic.html"
+    ],
+    "https://www.drugs.com/cons/faricimab-svoa.html": null,
+    "https://www.drugs.com/monograph/faricimab-svoa-intravitreal.html": [],
+    "https://www.drugs.com/farxiga.html": [],
+    "https://www.drugs.com/farydak.html": [],
+    "https://www.drugs.com/fasenra.html": [
+        "https://www.drugs.com/medical-answers/question--fasenra-3370946/"
+    ],
+    "https://www.drugs.com/mtm/fasenra-pen.html": [
+        "https://www.drugs.com/medical-answers/question--fasenra-3370946/"
+    ],
+    "https://www.drugs.com/mtm/fasenra-prefilled-syringe.html": [
+        "https://www.drugs.com/medical-answers/question--fasenra-3370946/"
+    ],
+    "https://www.drugs.com/faslodex.html": [
+        "https://www.drugs.com/warfarin.html",
+        "https://www.drugs.com/coumadin.html",
+        "https://www.drugs.com/mtm/jantoven.html"
+    ],
+    "https://www.drugs.com/mtm/fast-freeze.html": [
+        "https://www.drugs.com/compare/fast-freeze",
+        "https://www.drugs.com/comments/camphor-menthol-topical/fast-freeze.html",
+        "https://www.drugs.com/sfx/fast-freeze-side-effects.html",
+        "https://www.drugs.com/dosage/camphor-menthol-topical.html",
+        "https://www.drugs.com/drug-class/topical-rubefacient.html"
+    ],
+    "https://www.drugs.com/mtm/fast-freeze-roll-on.html": [
+        "https://www.drugs.com/compare/fast-freeze",
+        "https://www.drugs.com/comments/camphor-menthol-topical/fast-freeze.html",
+        "https://www.drugs.com/sfx/fast-freeze-side-effects.html",
+        "https://www.drugs.com/dosage/camphor-menthol-topical.html",
+        "https://www.drugs.com/drug-class/topical-rubefacient.html"
+    ],
+    "https://www.drugs.com/cons/fastin.html": null,
+    "https://www.drugs.com/pro/faststat-topical-hemostat.html": null,
+    "https://www.drugs.com/cons/fat-emulsion.html": null,
+    "https://www.drugs.com/cons/fat-emulsion-and-soybean-oil.html": null,
+    "https://www.drugs.com/cons/fat-emulsion-fish-oil-and-soybean-oil.html": null,
+    "https://www.drugs.com/mtm/fat-supplement.html": [
+        "https://www.drugs.com/compare/fat-supplement",
+        "https://www.drugs.com/sfx/fat-supplement-side-effects.html",
+        "https://www.drugs.com/drug-class/oral-nutritional-supplements.html",
+        "https://www.drugs.com/mtm_esp/fat-supplement.html"
+    ],
+    "https://www.drugs.com/mtm/father-john-s-medicine.html": [
+        "https://www.drugs.com/medical-answers/dextromethorphan-tusq-dx-kids-4-5yrs-adults-1412316/"
+    ],
+    "https://www.drugs.com/pro/fayosim.html": null,
+    "https://www.drugs.com/mtm/fayosim-extended-cycle.html": [],
+    "https://www.drugs.com/fazaclo.html": []
+}

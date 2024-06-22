@@ -1,0 +1,950 @@
+{
+    "https://www.drugs.com/mtm/ec-naprosyn.html": [
+        "https://www.drugs.com/drug-class/salicylates.html",
+        "https://www.drugs.com/mtm/diflunisal.html",
+        "https://www.drugs.com/mtm/cholestyramine.html",
+        "https://www.drugs.com/mtm/cyclosporine-ophthalmic.html",
+        "https://www.drugs.com/methotrexate.html",
+        "https://www.drugs.com/mtm/pemetrexed.html"
+    ],
+    "https://www.drugs.com/mtm/ecallantide.html": [
+        "https://www.drugs.com/medical-answers/kalbitor-3540462/"
+    ],
+    "https://www.drugs.com/mtm/echinacea.html": [
+        "https://www.drugs.com/cg/tuberculosis.html",
+        "https://www.drugs.com/cg/depression.html",
+        "https://www.drugs.com/cg/erectile-dysfunction.html",
+        "https://www.drugs.com/cg/hypertension.html",
+        "https://www.drugs.com/cg/hyperlipidemia.html",
+        "https://www.drugs.com/cg/arthritis.html",
+        "https://www.drugs.com/cg/autoimmune-disease.html"
+    ],
+    "https://www.drugs.com/mtm/echothiophate-iodide-ophthalmic.html": [],
+    "https://www.drugs.com/pro/econasil.html": null,
+    "https://www.drugs.com/cons/econazole.html": null,
+    "https://www.drugs.com/pro/econazole-cream.html": null,
+    "https://www.drugs.com/pro/econazole-foam.html": null,
+    "https://www.drugs.com/mtm/econazole-nitrate.html": [
+        "https://www.drugs.com/warfarin.html",
+        "https://www.drugs.com/coumadin.html",
+        "https://www.drugs.com/mtm/jantoven.html"
+    ],
+    "https://www.drugs.com/mtm/econazole-topical.html": [
+        "https://www.drugs.com/warfarin.html",
+        "https://www.drugs.com/coumadin.html",
+        "https://www.drugs.com/mtm/jantoven.html"
+    ],
+    "https://www.drugs.com/cons/econopred-plus.html": null,
+    "https://www.drugs.com/mtm/econtra-ez.html": [
+        "https://www.drugs.com/mtm/efavirenz.html",
+        "https://www.drugs.com/mtm/rifampin.html",
+        "https://www.drugs.com/carbamazepine.html",
+        "https://www.drugs.com/mtm/felbamate.html",
+        "https://www.drugs.com/mtm/fosphenytoin.html",
+        "https://www.drugs.com/mtm/phenobarbital.html",
+        "https://www.drugs.com/phenytoin.html",
+        "https://www.drugs.com/mtm/primidone.html"
+    ],
+    "https://www.drugs.com/mtm/econtra-one-step.html": [
+        "https://www.drugs.com/mtm/efavirenz.html",
+        "https://www.drugs.com/mtm/rifampin.html",
+        "https://www.drugs.com/carbamazepine.html",
+        "https://www.drugs.com/mtm/felbamate.html",
+        "https://www.drugs.com/mtm/fosphenytoin.html",
+        "https://www.drugs.com/mtm/phenobarbital.html",
+        "https://www.drugs.com/phenytoin.html",
+        "https://www.drugs.com/mtm/primidone.html"
+    ],
+    "https://www.drugs.com/mtm/ecotrin.html": [
+        "https://www.drugs.com/drug-class/salicylates.html",
+        "https://www.drugs.com/mtm/nuprin-backache.html",
+        "https://www.drugs.com/mtm/kaopectate.html",
+        "https://www.drugs.com/mtm/pamprin-cramp-formula.html",
+        "https://www.drugs.com/pepto-bismol.html"
+    ],
+    "https://www.drugs.com/mtm/ecoza.html": [
+        "https://www.drugs.com/warfarin.html",
+        "https://www.drugs.com/coumadin.html",
+        "https://www.drugs.com/mtm/jantoven.html"
+    ],
+    "https://www.drugs.com/pro/ecoza-foam.html": null,
+    "https://www.drugs.com/cons/ecpirin.html": null,
+    "https://www.drugs.com/mtm/eculizumab.html": [],
+    "https://www.drugs.com/pro/eczemol.html": null,
+    "https://www.drugs.com/mtm/ed-a-hist.html": [],
+    "https://www.drugs.com/mtm/ed-a-hist-dm.html": [],
+    "https://www.drugs.com/mtm/ed-bron-gp.html": [],
+    "https://www.drugs.com/mtm/ed-chlorped.html": [
+        "https://www.drugs.com/medical-answers/you-antihistamines-pregnant-3562255/"
+    ],
+    "https://www.drugs.com/mtm/ed-chlorped-d.html": [],
+    "https://www.drugs.com/mtm/ed-cyte-f.html": [
+        "https://www.drugs.com/article/antibiotics.html"
+    ],
+    "https://www.drugs.com/mtm/ed-chlor-ped-jr.html": [
+        "https://www.drugs.com/medical-answers/you-antihistamines-pregnant-3562255/"
+    ],
+    "https://www.drugs.com/mtm/ed-chlortan.html": [
+        "https://www.drugs.com/medical-answers/you-antihistamines-pregnant-3562255/"
+    ],
+    "https://www.drugs.com/pro/ed-spaz.html": null,
+    "https://www.drugs.com/pro/edaravone.html": null,
+    "https://www.drugs.com/cons/edaravone-intravenous.html": null,
+    "https://www.drugs.com/cons/edaravone-oral.html": null,
+    "https://www.drugs.com/mtm/edaravone-oral-injection.html": [],
+    "https://www.drugs.com/edarbi.html": [
+        "https://www.drugs.com/aspirin.html",
+        "https://www.drugs.com/ibuprofen.html",
+        "https://www.drugs.com/advil.html",
+        "https://www.drugs.com/motrin.html",
+        "https://www.drugs.com/naproxen.html",
+        "https://www.drugs.com/aleve.html",
+        "https://www.drugs.com/celecoxib.html",
+        "https://www.drugs.com/diclofenac.html",
+        "https://www.drugs.com/mtm/indomethacin.html",
+        "https://www.drugs.com/meloxicam.html"
+    ],
+    "https://www.drugs.com/edarbyclor.html": [
+        "https://www.drugs.com/digoxin.html",
+        "https://www.drugs.com/lithium.html"
+    ],
+    "https://www.drugs.com/mtm/edecrin.html": [
+        "https://www.drugs.com/article/antibiotics.html",
+        "https://www.drugs.com/drug-class/nonsteroidal-anti-inflammatory-agents.html",
+        "https://www.drugs.com/celecoxib.html",
+        "https://www.drugs.com/mtm/diclofenac-topical.html",
+        "https://www.drugs.com/mtm/indomethacin.html",
+        "https://www.drugs.com/prednisone.html",
+        "https://www.drugs.com/mtm/dexamethasone-intraocular.html"
+    ],
+    "https://www.drugs.com/cons/edecrin-sodium.html": null,
+    "https://www.drugs.com/mtm/edetate-calcium-disodium.html": [],
+    "https://www.drugs.com/pro/edetate-calcium-disodium-injection.html": null,
+    "https://www.drugs.com/cons/edex.html": null,
+    "https://www.drugs.com/pro/edex-injection.html": null,
+    "https://www.drugs.com/edluar.html": [
+        "https://www.drugs.com/medical-answers/what-is-this-pill-with-10-mg-oliptical-small-240659/",
+        "https://www.drugs.com/medical-answers/ambien-half-life-333276/"
+    ],
+    "https://www.drugs.com/mtm/edoxaban.html": [
+        "https://www.drugs.com/drug-class/nonsteroidal-anti-inflammatory-agents.html",
+        "https://www.drugs.com/mtm/indomethacin.html",
+        "https://www.drugs.com/citalopram.html",
+        "https://www.drugs.com/duloxetine.html",
+        "https://www.drugs.com/fluoxetine.html",
+        "https://www.drugs.com/sertraline.html",
+        "https://www.drugs.com/paroxetine.html",
+        "https://www.drugs.com/venlafaxine.html"
+    ],
+    "https://www.drugs.com/cons/edrophonium.html": null,
+    "https://www.drugs.com/pro/edurant.html": null,
+    "https://www.drugs.com/edurant.html": [],
+    "https://www.drugs.com/mtm/efavirenz.html": [
+        "https://www.drugs.com/medical-answers/difference-between-symfi-symfi-lo-3418895/",
+        "https://www.drugs.com/medical-answers/drugs-contained-symfi-lo-3418867/"
+    ],
+    "https://www.drugs.com/pro/efavirenz-tablets.html": null,
+    "https://www.drugs.com/pro/efavirenz-emtricitabine-and-tenofovir-tablets.html": null,
+    "https://www.drugs.com/mtm/efavirenz-emtricitabine-and-tenofovir.html": [
+        "https://www.drugs.com/mtm/st-john-s-wort.html",
+        "https://www.drugs.com/cg/tuberculosis.html"
+    ],
+    "https://www.drugs.com/mtm/efavirenz-lamivudine-and-tenofovir.html": [
+        "https://www.drugs.com/medical-answers/difference-between-symfi-symfi-lo-3418895/",
+        "https://www.drugs.com/medical-answers/drugs-contained-symfi-lo-3418867/"
+    ],
+    "https://www.drugs.com/monograph/efbemalenograstim-alfa-vuxw.html": [],
+    "https://www.drugs.com/mtm/effer-k.html": [
+        "https://www.drugs.com/drug-class/nonsteroidal-anti-inflammatory-agents.html",
+        "https://www.drugs.com/ibuprofen.html",
+        "https://www.drugs.com/naproxen.html",
+        "https://www.drugs.com/celecoxib.html",
+        "https://www.drugs.com/mtm/diclofenac-topical.html",
+        "https://www.drugs.com/mtm/indomethacin.html",
+        "https://www.drugs.com/meloxicam.html"
+    ],
+    "https://www.drugs.com/pro/effer-k-10-meq-tablets.html": null,
+    "https://www.drugs.com/pro/effer-k-tablets.html": null,
+    "https://www.drugs.com/pro/effexor.html": null,
+    "https://www.drugs.com/effexor.html": [
+        "https://www.drugs.com/fentanyl.html",
+        "https://www.drugs.com/mtm/cimetidine.html",
+        "https://www.drugs.com/tramadol.html",
+        "https://www.drugs.com/mtm/st-john-s-wort.html",
+        "https://www.drugs.com/tryptophan.html",
+        "https://www.drugs.com/cg/weight-management.html",
+        "https://www.drugs.com/phentermine.html",
+        "https://www.drugs.com/warfarin.html",
+        "https://www.drugs.com/coumadin.html",
+        "https://www.drugs.com/mtm/jantoven.html",
+        "https://www.drugs.com/buspirone.html",
+        "https://www.drugs.com/lithium.html",
+        "https://www.drugs.com/mtm/sumatriptan-injection.html",
+        "https://www.drugs.com/mtm/zolmitriptan.html"
+    ],
+    "https://www.drugs.com/effient.html": [
+        "https://www.drugs.com/heparin.html",
+        "https://www.drugs.com/warfarin.html",
+        "https://www.drugs.com/coumadin.html",
+        "https://www.drugs.com/mtm/jantoven.html"
+    ],
+    "https://www.drugs.com/mtm/efgartigimod-alfa.html": [],
+    "https://www.drugs.com/cons/efgartigimod-alfa-and-hyaluronidase-qvfc.html": null,
+    "https://www.drugs.com/cons/efgartigimod-alfa-fcab.html": null,
+    "https://www.drugs.com/mtm/efgartigimod-alfa-hyaluronidase.html": [],
+    "https://www.drugs.com/cons/efidac-24-pseudoephedrine.html": null,
+    "https://www.drugs.com/cons/efinaconazole.html": null,
+    "https://www.drugs.com/mtm/efinaconazole-topical.html": [
+        "https://www.drugs.com/compare/efinaconazole-topical",
+        "https://www.drugs.com/comments/efinaconazole-topical/for-onychomycosis-toenail.html",
+        "https://www.drugs.com/sfx/efinaconazole-topical-side-effects.html",
+        "https://www.drugs.com/dosage/efinaconazole-topical.html",
+        "https://www.drugs.com/pregnancy/efinaconazole-topical.html",
+        "https://www.drugs.com/drug-class/topical-antifungals.html",
+        "https://www.drugs.com/breastfeeding/efinaconazole.html",
+        "https://www.drugs.com/mtm_esp/efinaconazole-topical.html"
+    ],
+    "https://www.drugs.com/mtm/eflapegrastim.html": [],
+    "https://www.drugs.com/cons/eflapegrastim-xnst.html": null,
+    "https://www.drugs.com/mtm/eflornithine.html": [],
+    "https://www.drugs.com/cons/eflornithine-injection.html": null,
+    "https://www.drugs.com/cons/eflornithine-topical.html": null,
+    "https://www.drugs.com/mtm/efodine.html": [],
+    "https://www.drugs.com/mtm/efudex.html": [
+        "https://www.drugs.com/compare/efudex",
+        "https://www.drugs.com/price-guide/efudex",
+        "https://www.drugs.com/comments/fluorouracil-topical/efudex.html",
+        "https://www.drugs.com/sfx/efudex-side-effects.html",
+        "https://www.drugs.com/dosage/fluorouracil-topical.html",
+        "https://www.drugs.com/pregnancy/fluorouracil-topical.html",
+        "https://www.drugs.com/availability/generic-efudex.html",
+        "https://www.drugs.com/answers/support-group/efudex/",
+        "https://www.drugs.com/drug-class/topical-antineoplastics.html",
+        "https://www.drugs.com/breastfeeding/fluorouracil.html",
+        "https://www.drugs.com/mtm_esp/efudex.html"
+    ],
+    "https://www.drugs.com/mtm/elacestrant.html": [],
+    "https://www.drugs.com/elagolix.html": [],
+    "https://www.drugs.com/mtm/elagolix-estradiol-and-norethindrone.html": [],
+    "https://www.drugs.com/elahere.html": [
+        "https://www.drugs.com/mtm/nefazodone.html",
+        "https://www.drugs.com/mtm/ceritinib.html",
+        "https://www.drugs.com/mtm/idelalisib.html",
+        "https://www.drugs.com/mtm/ribociclib.html",
+        "https://www.drugs.com/tucatinib.html",
+        "https://www.drugs.com/clarithromycin.html",
+        "https://www.drugs.com/cons/telithromycin.html",
+        "https://www.drugs.com/mtm/itraconazole.html",
+        "https://www.drugs.com/mtm/ketoconazole-topical.html",
+        "https://www.drugs.com/mtm/posaconazole-oral-injection.html",
+        "https://www.drugs.com/mtm/voriconazole-oral-injection.html",
+        "https://www.drugs.com/cons/boceprevir.html",
+        "https://www.drugs.com/mtm/cobicistat.html",
+        "https://www.drugs.com/cons/elvitegravir.html",
+        "https://www.drugs.com/cons/indinavir.html",
+        "https://www.drugs.com/mtm/lopinavir-and-ritonavir.html",
+        "https://www.drugs.com/mtm/nelfinavir.html",
+        "https://www.drugs.com/mtm/saquinavir.html",
+        "https://www.drugs.com/cons/telaprevir.html",
+        "https://www.drugs.com/mtm/tipranavir.html"
+    ],
+    "https://www.drugs.com/pro/elahere-injection.html": null,
+    "https://www.drugs.com/mtm/elapegademase.html": [
+        "https://www.drugs.com/medical-answers/condition-revcovi-3451462/"
+    ],
+    "https://www.drugs.com/cons/elapegademase-lvlr.html": null,
+    "https://www.drugs.com/elaprase.html": [
+        "https://www.drugs.com/compare/elaprase",
+        "https://www.drugs.com/price-guide/elaprase",
+        "https://www.drugs.com/sfx/elaprase-side-effects.html",
+        "https://www.drugs.com/dosage/elaprase.html",
+        "https://www.drugs.com/pregnancy/idursulfase.html",
+        "https://www.drugs.com/history/elaprase.html",
+        "https://www.drugs.com/drug-class/lysosomal-enzymes.html",
+        "https://www.drugs.com/breastfeeding/idursulfase.html",
+        "https://www.drugs.com/mtm_esp/elaprase.html"
+    ],
+    "https://www.drugs.com/elavil.html": [
+        "https://www.drugs.com/drug-class/antidepressants.html",
+        "https://www.drugs.com/cg/parkinson-disease.html",
+        "https://www.drugs.com/cg/motion-sickness.html",
+        "https://www.drugs.com/cg/irritable-bowel-syndrome.html",
+        "https://www.drugs.com/cg/overactive-bladder.html",
+        "https://www.drugs.com/cg/asthma.html"
+    ],
+    "https://www.drugs.com/mtm/elbasvir-and-grazoprevir.html": [],
+    "https://www.drugs.com/pro/elcys-injection.html": null,
+    "https://www.drugs.com/eldepryl.html": [],
+    "https://www.drugs.com/mtm/elderberry.html": [
+        "https://www.drugs.com/cg/liver-transplant-discharge-care.html",
+        "https://www.drugs.com/cg/psoriasis.html",
+        "https://www.drugs.com/cg/arthritis.html",
+        "https://www.drugs.com/cg/autoimmune-disease.html",
+        "https://www.drugs.com/cg/ulcerative-colitis.html",
+        "https://www.drugs.com/health-guide/crohn-s-disease.html"
+    ],
+    "https://www.drugs.com/npp/elecampane.html": [],
+    "https://www.drugs.com/elelyso.html": [
+        "https://www.drugs.com/compare/elelyso",
+        "https://www.drugs.com/price-guide/elelyso",
+        "https://www.drugs.com/sfx/elelyso-side-effects.html",
+        "https://www.drugs.com/dosage/taliglucerase-alfa.html",
+        "https://www.drugs.com/pregnancy/taliglucerase-alfa.html",
+        "https://www.drugs.com/history/elelyso.html",
+        "https://www.drugs.com/drug-class/lysosomal-enzymes.html",
+        "https://www.drugs.com/breastfeeding/taliglucerase-alfa.html",
+        "https://www.drugs.com/mtm_esp/elelyso.html"
+    ],
+    "https://www.drugs.com/pro/elelyso-injection.html": null,
+    "https://www.drugs.com/pro/elemar-patch.html": null,
+    "https://www.drugs.com/cons/elepsia-xr.html": null,
+    "https://www.drugs.com/elestat.html": [
+        "https://www.drugs.com/compare/elestat",
+        "https://www.drugs.com/comments/epinastine-ophthalmic/elestat-for-allergic-conjunctivitis.html",
+        "https://www.drugs.com/sfx/elestat-side-effects.html",
+        "https://www.drugs.com/dosage/epinastine-ophthalmic.html",
+        "https://www.drugs.com/pregnancy/epinastine-ophthalmic.html",
+        "https://www.drugs.com/drug-class/ophthalmic-antihistamines-and-decongestants.html",
+        "https://www.drugs.com/breastfeeding/epinastine.html"
+    ],
+    "https://www.drugs.com/elestrin.html": [],
+    "https://www.drugs.com/mtm/eletriptan.html": [],
+    "https://www.drugs.com/npp/eleutherococcus.html": [],
+    "https://www.drugs.com/elevidys.html": [],
+    "https://www.drugs.com/mtm/elevidys-10-5-11-4-kg.html": [],
+    "https://www.drugs.com/mtm/elevidys-11-5-12-4-kg.html": [],
+    "https://www.drugs.com/mtm/elevidys-14-5-15-4-kg.html": [],
+    "https://www.drugs.com/mtm/elevidys-17-5-18-4-kg.html": [],
+    "https://www.drugs.com/mtm/elevidys-20-5-21-4-kg.html": [],
+    "https://www.drugs.com/mtm/elevidys-22-5-23-4-kg.html": [],
+    "https://www.drugs.com/mtm/elevidys-25-5-26-4-kg.html": [],
+    "https://www.drugs.com/mtm/elevidys-30-5-31-4-kg.html": [],
+    "https://www.drugs.com/mtm/elevidys-33-5-34-4-kg.html": [],
+    "https://www.drugs.com/mtm/elevidys-38-5-39-4-kg.html": [],
+    "https://www.drugs.com/mtm/elevidys-40-5-41-4-kg.html": [],
+    "https://www.drugs.com/mtm/elevidys-43-5-44-4-kg.html": [],
+    "https://www.drugs.com/mtm/elevidys-45-5-46-4-kg.html": [],
+    "https://www.drugs.com/mtm/elevidys-47-5-48-4-kg.html": [],
+    "https://www.drugs.com/mtm/elevidys-53-5-54-4-kg.html": [],
+    "https://www.drugs.com/mtm/elevidys-59-5-60-4-kg.html": [],
+    "https://www.drugs.com/mtm/elevidys-64-5-65-4-kg.html": [],
+    "https://www.drugs.com/mtm/elevidys-68-5-69-4-kg.html": [],
+    "https://www.drugs.com/mtm/elexacaftor-ivacaftor-and-tezacaftor.html": [
+        "https://www.drugs.com/article/antibiotics.html",
+        "https://www.drugs.com/clarithromycin.html",
+        "https://www.drugs.com/mtm/erythromycin-ophthalmic.html",
+        "https://www.drugs.com/cons/telithromycin.html",
+        "https://www.drugs.com/mtm/fluconazole.html",
+        "https://www.drugs.com/mtm/ketoconazole-topical.html",
+        "https://www.drugs.com/mtm/itraconazole.html",
+        "https://www.drugs.com/mtm/posaconazole-oral-injection.html",
+        "https://www.drugs.com/mtm/voriconazole-oral-injection.html"
+    ],
+    "https://www.drugs.com/monograph/elexacaftor-tezacaftor-and-ivacaftor.html": [],
+    "https://www.drugs.com/cons/elexacaftor-tezacaftor-ivacaftor-and-ivacaftor.html": null,
+    "https://www.drugs.com/elfabrio.html": [],
+    "https://www.drugs.com/mtm/elfolate.html": [
+        "https://www.drugs.com/methotrexate.html",
+        "https://www.drugs.com/methylprednisolone.html",
+        "https://www.drugs.com/mtm/pyrimethamine.html",
+        "https://www.drugs.com/article/birth-control-pill.html",
+        "https://www.drugs.com/drug-class/nonsteroidal-anti-inflammatory-agents.html",
+        "https://www.drugs.com/carbamazepine.html",
+        "https://www.drugs.com/mtm/phenobarbital.html",
+        "https://www.drugs.com/mtm/valproic-acid.html"
+    ],
+    "https://www.drugs.com/elidel.html": [],
+    "https://www.drugs.com/eligard.html": [],
+    "https://www.drugs.com/mtm/eliglustat.html": [],
+    "https://www.drugs.com/mtm/elimite.html": [
+        "https://www.drugs.com/medical-answers/can-you-use-nix-permethrin-lice-shampoo-on-your-183740/"
+    ],
+    "https://www.drugs.com/mtm/elinest.html": [
+        "https://www.drugs.com/mtm/st-john-s-wort.html",
+        "https://www.drugs.com/mtm/colesevelam.html",
+        "https://www.drugs.com/atorvastatin.html",
+        "https://www.drugs.com/rosuvastatin.html"
+    ],
+    "https://www.drugs.com/cons/eliphos.html": null,
+    "https://www.drugs.com/eliquis.html": [
+        "https://www.drugs.com/heparin.html",
+        "https://www.drugs.com/warfarin.html",
+        "https://www.drugs.com/coumadin.html",
+        "https://www.drugs.com/mtm/jantoven.html"
+    ],
+    "https://www.drugs.com/mtm/elitek.html": [],
+    "https://www.drugs.com/mtm/elivaldogene-autotemcel.html": [
+        "https://www.drugs.com/cg/aids.html"
+    ],
+    "https://www.drugs.com/mtm/elixophyllin.html": [],
+    "https://www.drugs.com/cons/elixsure-congestion-children-s.html": null,
+    "https://www.drugs.com/mtm/elixsure-cough.html": [
+        "https://www.drugs.com/medical-answers/dextromethorphan-tusq-dx-kids-4-5yrs-adults-1412316/"
+    ],
+    "https://www.drugs.com/cons/elixsure-cough-children-s.html": null,
+    "https://www.drugs.com/ella.html": [],
+    "https://www.drugs.com/ellence.html": [
+        "https://www.drugs.com/mtm/cimetidine.html",
+        "https://www.drugs.comhttps://www.drugs.com/monograph/cimetidine.html"
+    ],
+    "https://www.drugs.com/pro/elliotts-b-solution.html": null,
+    "https://www.drugs.com/mtm/ellura.html": [
+        "https://www.drugs.com/warfarin.html",
+        "https://www.drugs.com/coumadin.html",
+        "https://www.drugs.com/mtm/jantoven.html",
+        "https://www.drugs.com/cg/hypertension.html",
+        "https://www.drugs.com/nifedipine.html",
+        "https://www.drugs.com/cg/hyperlipidemia.html",
+        "https://www.drugs.com/atorvastatin.html"
+    ],
+    "https://www.drugs.com/pro/ellzia-pak.html": null,
+    "https://www.drugs.com/mtm/elmiron.html": [
+        "https://www.drugs.com/warfarin.html",
+        "https://www.drugs.com/coumadin.html",
+        "https://www.drugs.com/mtm/jantoven.html",
+        "https://www.drugs.com/mtm/apixaban.html",
+        "https://www.drugs.com/mtm/rivaroxaban.html",
+        "https://www.drugs.com/drug-class/nonsteroidal-anti-inflammatory-agents.html",
+        "https://www.drugs.com/naproxen.html",
+        "https://www.drugs.com/celecoxib.html",
+        "https://www.drugs.com/mtm/diclofenac-topical.html",
+        "https://www.drugs.com/mtm/indomethacin.html",
+        "https://www.drugs.com/meloxicam.html"
+    ],
+    "https://www.drugs.com/elocon.html": [],
+    "https://www.drugs.com/pro/elocon-cream.html": null,
+    "https://www.drugs.com/pro/elocon-lotion.html": null,
+    "https://www.drugs.com/cons/eloctate.html": null,
+    "https://www.drugs.com/mtm/eloctate-with-fc-fusion-protein-recombinant.html": [],
+    "https://www.drugs.com/mtm/elon-dual-defense-anti-fungal-formula.html": [
+        "https://www.drugs.com/compare/elon-dual-defense-anti-fungal-formula",
+        "https://www.drugs.com/sfx/elon-dual-defense-anti-fungal-formula-side-effects.html",
+        "https://www.drugs.com/drug-class/topical-antifungals.html",
+        "https://www.drugs.com/mtm_esp/elon-dual-defense-anti-fungal-formula.html"
+    ],
+    "https://www.drugs.com/mtm/elosulfase-alfa.html": [
+        "https://www.drugs.com/compare/elosulfase-alfa",
+        "https://www.drugs.com/sfx/elosulfase-alfa-side-effects.html",
+        "https://www.drugs.com/dosage/elosulfase-alfa.html",
+        "https://www.drugs.com/pregnancy/elosulfase-alfa.html",
+        "https://www.drugs.com/drug-class/lysosomal-enzymes.html",
+        "https://www.drugs.com/mtm_esp/elosulfase-alfa.html"
+    ],
+    "https://www.drugs.com/mtm/elotuzumab.html": [
+        "https://www.drugs.com/medical-answers/empliciti-elotuzumab-empliciti-work-3549401/"
+    ],
+    "https://www.drugs.com/eloxatin.html": [],
+    "https://www.drugs.com/mtm/elppa-coq10-coenzyme-q-10.html": [
+        "https://www.drugs.com/coumadin.html"
+    ],
+    "https://www.drugs.com/mtm/elranatamab.html": [],
+    "https://www.drugs.com/cons/elranatamab-bcmm.html": null,
+    "https://www.drugs.com/elrexfio.html": [],
+    "https://www.drugs.com/mtm/elta-tar.html": [],
+    "https://www.drugs.com/mtm/eltrombopag.html": [
+        "https://www.drugs.com/mtm/clopidogrel.html",
+        "https://www.drugs.com/mtm/dipyridamole.html",
+        "https://www.drugs.com/pro/ticlopidine.html",
+        "https://www.drugs.com/mtm/rivaroxaban.html",
+        "https://www.drugs.com/atorvastatin.html",
+        "https://www.drugs.com/mtm/fluvastatin.html",
+        "https://www.drugs.com/mtm/pitavastatin.html",
+        "https://www.drugs.com/pravastatin.html",
+        "https://www.drugs.com/rosuvastatin.html",
+        "https://www.drugs.com/simvastatin.html"
+    ],
+    "https://www.drugs.com/cons/elucirem.html": null,
+    "https://www.drugs.com/pro/eluryng-vaginal-ring.html": null,
+    "https://www.drugs.com/mtm/eluxadoline.html": [
+        "https://www.drugs.com/mtm/alosetron.html",
+        "https://www.drugs.com/cg/depression.html",
+        "https://www.drugs.com/cg/anxiety.html",
+        "https://www.drugs.com/mtm/benadryl-allergy.html",
+        "https://www.drugs.com/health-guide/parkinson-s-disease.html",
+        "https://www.drugs.com/cg/motion-sickness.html",
+        "https://www.drugs.com/cg/overactive-bladder.html"
+    ],
+    "https://www.drugs.com/cons/elvitegravir.html": null,
+    "https://www.drugs.com/cons/elvitegravir-cobicistat-emtricitabine-and-tenofovir.html": null,
+    "https://www.drugs.com/cons/elvitegravir-cobicistat-emtricitabine-and-tenofovir-alafenamide.html": null,
+    "https://www.drugs.com/monograph/elvitegravir-cobicistat-emtricitabine-and-tenofovir-disoproxil-fumarate.html": [],
+    "https://www.drugs.com/elyxyb.html": [],
+    "https://www.drugs.com/mtm/elzonris.html": [
+        "https://www.drugs.com/medical-answers/disease-elzonris-tagraxofusp-erzs-treat-3463050/"
+    ],
+    "https://www.drugs.com/cons/emadine.html": null,
+    "https://www.drugs.com/mtm/emapalumab.html": [],
+    "https://www.drugs.com/cons/emapalumab-lzsg.html": null,
+    "https://www.drugs.com/embeda.html": [],
+    "https://www.drugs.com/cons/embeline.html": null,
+    "https://www.drugs.com/cons/embeline-e.html": null,
+    "https://www.drugs.com/cons/embeline-scalp-application.html": null,
+    "https://www.drugs.com/npp/emblica.html": [],
+    "https://www.drugs.com/cons/emcin.html": null,
+    "https://www.drugs.com/mtm/emcin-clear.html": [
+        "https://www.drugs.com/compare/emcin-clear",
+        "https://www.drugs.com/sfx/emcin-clear-side-effects.html",
+        "https://www.drugs.com/dosage/erythromycin-topical.html",
+        "https://www.drugs.com/pregnancy/erythromycin-topical.html",
+        "https://www.drugs.com/drug-class/topical-acne-agents.html",
+        "https://www.drugs.com/breastfeeding/erythromycin.html",
+        "https://www.drugs.com/mtm_esp/emcin-clear.html"
+    ],
+    "https://www.drugs.com/mtm/emcyt.html": [],
+    "https://www.drugs.com/cons/emedastine.html": null,
+    "https://www.drugs.com/emend.html": [
+        "https://www.drugs.com/medical-answers/difference-between-cinvanti-emend-3370956/"
+    ],
+    "https://www.drugs.com/cons/emend-aprepitant-oral.html": null,
+    "https://www.drugs.com/cons/emend-fosaprepitant-intravenous.html": null,
+    "https://www.drugs.com/mtm/emend-for-injection.html": [
+        "https://www.drugs.com/medical-answers/difference-between-cinvanti-emend-3370956/"
+    ],
+    "https://www.drugs.com/pro/emerphed.html": null,
+    "https://www.drugs.com/emflaza.html": [],
+    "https://www.drugs.com/emgality.html": [],
+    "https://www.drugs.com/cons/emgel.html": null,
+    "https://www.drugs.com/mtm/emicizumab.html": [],
+    "https://www.drugs.com/cons/emicizumab-kxwh.html": null,
+    "https://www.drugs.com/emla.html": [],
+    "https://www.drugs.com/npp/emodin.html": [
+        "https://www.drugs.com/condition/herbal-supplementation.html"
+    ],
+    "https://www.drugs.com/mtm/emoquette.html": [
+        "https://www.drugs.com/cdi/phenylbutazone.html",
+        "https://www.drugs.com/mtm/st-john-s-wort.html",
+        "https://www.drugs.com/mtm/glecaprevir-and-pibrentasvir.html",
+        "https://www.drugs.com/drug-class/anticonvulsants.html",
+        "https://www.drugs.com/drug-class/anticonvulsants.html",
+        "https://www.drugs.com/carbamazepine.html"
+    ],
+    "https://www.drugs.com/mtm/empagliflozin.html": [],
+    "https://www.drugs.com/mtm/empagliflozin-and-linagliptin.html": [
+        "https://www.drugs.com/cg/tuberculosis.html"
+    ],
+    "https://www.drugs.com/mtm/empagliflozin-and-metformin.html": [],
+    "https://www.drugs.com/mtm/empagliflozin-linagliptin-and-metformin.html": [],
+    "https://www.drugs.com/empaveli.html": [],
+    "https://www.drugs.com/empliciti.html": [
+        "https://www.drugs.com/medical-answers/empliciti-elotuzumab-empliciti-work-3549401/"
+    ],
+    "https://www.drugs.com/pro/emreal.html": null,
+    "https://www.drugs.com/emsam.html": [
+        "https://www.drugs.com/buspirone.html",
+        "https://www.drugs.com/buspar.html",
+        "https://www.drugs.com/mtm/phenylephrine-rectal.html",
+        "https://www.drugs.com/pseudoephedrine.html",
+        "https://www.drugs.com/adderall.html",
+        "https://www.drugs.com/health-guide/attention-deficit-hyperactivity-disorder-adhd.html"
+    ],
+    "https://www.drugs.com/mtm/emtricitabine.html": [
+        "https://www.drugs.com/medical-answers/difference-between-truvada-descovy-treatment-hiv-3514028/",
+        "https://www.drugs.com/medical-answers/odefsey-complera-difference-between-3052071/",
+        "https://www.drugs.com/medical-answers/genvoya-dosing-compare-stribild-3016734/",
+        "https://www.drugs.com/medical-answers/drugs-contained-symtuza-3436191/"
+    ],
+    "https://www.drugs.com/mtm/emtricitabine-and-tenofovir.html": [
+        "https://www.drugs.com/carbamazepine.html",
+        "https://www.drugs.com/mtm/oxcarbazepine.html",
+        "https://www.drugs.com/mtm/phenobarbital.html",
+        "https://www.drugs.com/cg/hepatitis-c.html"
+    ],
+    "https://www.drugs.com/monograph/emtricitabine-and-tenofovir-alafenamide-fumarate.html": [],
+    "https://www.drugs.com/monograph/emtricitabine-and-tenofovir-disoproxil-fumarate.html": [],
+    "https://www.drugs.com/pro/emtricitabine-and-tenofovir-tablets.html": null,
+    "https://www.drugs.com/pro/emtricitabine-capsules.html": null,
+    "https://www.drugs.com/mtm/emtricitabine-lopinavir-ritonavir-and-tenofovir.html": [
+        "https://www.drugs.com/cg/erectile-dysfunction.html",
+        "https://www.drugs.com/cg/migraine-headache.html"
+    ],
+    "https://www.drugs.com/mtm/emtricitabine-nelfinavir-and-tenofovir.html": [
+        "https://www.drugs.com/cg/hepatitis-c.html",
+        "https://www.drugs.com/sofosbuvir.html",
+        "https://www.drugs.com/mtm/atazanavir.html"
+    ],
+    "https://www.drugs.com/mtm/emtricitabine-rilpivirine-and-tenofovir.html": [],
+    "https://www.drugs.com/cons/emtricitabine-rilpivirine-and-tenofovir-alafenamide.html": null,
+    "https://www.drugs.com/emtricitabine-tenofovir-alafenamide.html": null,
+    "https://www.drugs.com/emtriva.html": [
+        "https://www.drugs.com/medical-answers/difference-between-truvada-descovy-treatment-hiv-3514028/",
+        "https://www.drugs.com/medical-answers/odefsey-complera-difference-between-3052071/",
+        "https://www.drugs.com/medical-answers/genvoya-dosing-compare-stribild-3016734/",
+        "https://www.drugs.com/medical-answers/drugs-contained-symtuza-3436191/"
+    ],
+    "https://www.drugs.com/npp/emu-oil.html": [
+        "https://www.drugs.com/comments/emu-oil-topical/for-minor-skin-conditions.html",
+        "https://www.drugs.com/breastfeeding/emu-oil.html"
+    ],
+    "https://www.drugs.com/mtm/emverm.html": [],
+    "https://www.drugs.com/pro/emvita-20.html": null,
+    "https://www.drugs.com/pro/emzahh.html": null,
+    "https://www.drugs.com/enablex.html": [],
+    "https://www.drugs.com/enalapril.html": [
+        "https://www.drugs.com/spironolactone.html",
+        "https://www.drugs.com/triamterene.html",
+        "https://www.drugs.com/mtm/amiloride.html",
+        "https://www.drugs.com/aspirin.html",
+        "https://www.drugs.com/ibuprofen.html",
+        "https://www.drugs.com/advil.html",
+        "https://www.drugs.com/motrin.html",
+        "https://www.drugs.com/naproxen.html",
+        "https://www.drugs.com/aleve.html",
+        "https://www.drugs.com/celecoxib.html",
+        "https://www.drugs.com/mtm/diclofenac-topical.html",
+        "https://www.drugs.com/mtm/indomethacin.html",
+        "https://www.drugs.com/meloxicam.html",
+        "https://www.drugs.com/condition/organ-transplant.html",
+        "https://www.drugs.com/mtm/temsirolimus.html",
+        "https://www.drugs.com/mtm/sirolimus-topical.html",
+        "https://www.drugs.com/everolimus.html"
+    ],
+    "https://www.drugs.com/cons/enalapril-and-hydrochlorothiazide.html": null,
+    "https://www.drugs.com/pro/enalapril-oral-solution.html": null,
+    "https://www.drugs.com/pro/enalapril-tablets.html": null,
+    "https://www.drugs.com/cons/enalaprilat.html": null,
+    "https://www.drugs.com/mtm/enasidenib.html": [],
+    "https://www.drugs.com/pro/enbrace-hr.html": null,
+    "https://www.drugs.com/enbrel.html": [],
+    "https://www.drugs.com/mtm/enbrel-mini-prefilled-cartridge.html": [
+        "https://www.drugs.com/mtm/cyclophosphamide-oral-and-injection.html"
+    ],
+    "https://www.drugs.com/mtm/enbrel-sureclick.html": [
+        "https://www.drugs.com/mtm/cyclophosphamide-oral-and-injection.html"
+    ],
+    "https://www.drugs.com/mtm/encorafenib.html": [],
+    "https://www.drugs.com/mtm/endacof-dm.html": [],
+    "https://www.drugs.com/mtm/endal-liquid.html": [],
+    "https://www.drugs.com/mtm/endari.html": [
+        "https://www.drugs.com/medical-answers/endari-work-treat-sickle-cell-disease-3323440/"
+    ],
+    "https://www.drugs.com/endocet.html": [],
+    "https://www.drugs.com/mtm/endocet-10-325.html": [
+        "https://www.drugs.com/cg/motion-sickness.html",
+        "https://www.drugs.com/cg/irritable-bowel-syndrome.html",
+        "https://www.drugs.com/cg/overactive-bladder.html",
+        "https://www.drugs.com/alprazolam.html",
+        "https://www.drugs.com/cg/depression.html",
+        "https://www.drugs.com/health-guide/parkinson-s-disease.html"
+    ],
+    "https://www.drugs.com/mtm/endocet-2-5-325.html": [
+        "https://www.drugs.com/cg/motion-sickness.html",
+        "https://www.drugs.com/cg/irritable-bowel-syndrome.html",
+        "https://www.drugs.com/cg/overactive-bladder.html",
+        "https://www.drugs.com/alprazolam.html",
+        "https://www.drugs.com/cg/depression.html",
+        "https://www.drugs.com/health-guide/parkinson-s-disease.html"
+    ],
+    "https://www.drugs.com/mtm/endocet-5-325.html": [
+        "https://www.drugs.com/cg/motion-sickness.html",
+        "https://www.drugs.com/cg/irritable-bowel-syndrome.html",
+        "https://www.drugs.com/cg/overactive-bladder.html",
+        "https://www.drugs.com/alprazolam.html",
+        "https://www.drugs.com/cg/depression.html",
+        "https://www.drugs.com/health-guide/parkinson-s-disease.html"
+    ],
+    "https://www.drugs.com/mtm/endocet-7-5-325.html": [
+        "https://www.drugs.com/cg/motion-sickness.html",
+        "https://www.drugs.com/cg/irritable-bowel-syndrome.html",
+        "https://www.drugs.com/cg/overactive-bladder.html",
+        "https://www.drugs.com/alprazolam.html",
+        "https://www.drugs.com/cg/depression.html",
+        "https://www.drugs.com/health-guide/parkinson-s-disease.html"
+    ],
+    "https://www.drugs.com/cons/endodan.html": null,
+    "https://www.drugs.com/endometrin.html": [],
+    "https://www.drugs.com/mtm/endosol-extra-intraocular.html": [
+        "https://www.drugs.com/compare/endosol-extra",
+        "https://www.drugs.com/sfx/endosol-extra-side-effects.html",
+        "https://www.drugs.com/drug-class/ophthalmic-lubricants-and-irrigations.html"
+    ],
+    "https://www.drugs.com/mtm/endur-acin.html": [
+        "https://www.drugs.com/warfarin.html",
+        "https://www.drugs.com/coumadin.html",
+        "https://www.drugs.com/mtm/jantoven.html"
+    ],
+    "https://www.drugs.com/cons/enduron.html": null,
+    "https://www.drugs.com/pro/energise-rxs.html": null,
+    "https://www.drugs.com/mtm/enfamil-d-vi-sol.html": [],
+    "https://www.drugs.com/cons/enfamil-glucose.html": null,
+    "https://www.drugs.com/mtm/enfortumab-vedotin.html": [],
+    "https://www.drugs.com/cons/enfortumab-vedotin-ejfv.html": null,
+    "https://www.drugs.com/mtm/enfuvirtide.html": [
+        "https://www.drugs.com/warfarin.html",
+        "https://www.drugs.com/coumadin.html",
+        "https://www.drugs.com/mtm/jantoven.html"
+    ],
+    "https://www.drugs.com/engerix-b.html": [],
+    "https://www.drugs.com/mtm/engerix-b-hepb.html": [],
+    "https://www.drugs.com/mtm/engerix-b-pediatric.html": [],
+    "https://www.drugs.com/pro/engystol.html": null,
+    "https://www.drugs.com/pro/enhancer-barium-sulfate.html": null,
+    "https://www.drugs.com/enhertu.html": [],
+    "https://www.drugs.com/pro/enilloring.html": null,
+    "https://www.drugs.com/enjaymo.html": [],
+    "https://www.drugs.com/enjuvia.html": [],
+    "https://www.drugs.com/pro/enl.html": null,
+    "https://www.drugs.com/cons/enlon.html": null,
+    "https://www.drugs.com/pro/enlyte.html": null,
+    "https://www.drugs.com/mtm/enoxaparin.html": [
+        "https://www.drugs.com/mtm/dipyridamole.html",
+        "https://www.drugs.com/mtm/eptifibatide.html",
+        "https://www.drugs.com/mtm/tenecteplase.html",
+        "https://www.drugs.com/mtm/bivalirudin.html",
+        "https://www.drugs.com/mtm/fondaparinux.html"
+    ],
+    "https://www.drugs.com/pro/enoxaparin-sodium-injection.html": null,
+    "https://www.drugs.com/pro/enoxiluv.html": null,
+    "https://www.drugs.com/mtm/enpresse.html": [],
+    "https://www.drugs.com/mtm/enskyce.html": [
+        "https://www.drugs.com/cdi/phenylbutazone.html",
+        "https://www.drugs.com/mtm/st-john-s-wort.html",
+        "https://www.drugs.com/mtm/glecaprevir-and-pibrentasvir.html",
+        "https://www.drugs.com/drug-class/anticonvulsants.html",
+        "https://www.drugs.com/drug-class/anticonvulsants.html",
+        "https://www.drugs.com/carbamazepine.html"
+    ],
+    "https://www.drugs.com/enspryng.html": [],
+    "https://www.drugs.com/enstilar.html": null,
+    "https://www.drugs.com/mtm/entacapone.html": [
+        "https://www.drugs.com/mtm/isocarboxazid.html",
+        "https://www.drugs.com/mtm/linezolid-oral-injection.html",
+        "https://www.drugs.com/mtm/methylene-blue-injection.html",
+        "https://www.drugs.com/mtm/phenelzine.html",
+        "https://www.drugs.com/mtm/tranylcypromine.html"
+    ],
+    "https://www.drugs.com/entadfi.html": [],
+    "https://www.drugs.com/mtm/entecavir.html": [],
+    "https://www.drugs.com/enteragam.html": [
+        "https://www.drugs.com/comments/immune-globulin-oral/enteragam-for-irritable-bowel-syndrome-with-diarrhea.html"
+    ],
+    "https://www.drugs.com/cons/entercote.html": null,
+    "https://www.drugs.com/entereg.html": [],
+    "https://www.drugs.com/cons/enterex-glutapak-10.html": null,
+    "https://www.drugs.com/cons/entero-vu.html": null,
+    "https://www.drugs.com/mtm/entex-hc.html": [
+        "https://www.drugs.com/cg/motion-sickness.html",
+        "https://www.drugs.com/cg/irritable-bowel-syndrome.html",
+        "https://www.drugs.com/cg/overactive-bladder.html"
+    ],
+    "https://www.drugs.com/entex.html": [],
+    "https://www.drugs.com/mtm/entocort-ec.html": [
+        "https://www.drugs.com/medical-answers/enteric-coated-tablets-3566580/"
+    ],
+    "https://www.drugs.com/mtm/entre-cough.html": [],
+    "https://www.drugs.com/mtm/entrectinib.html": [],
+    "https://www.drugs.com/entresto.html": [],
+    "https://www.drugs.com/mtm/entsol-nasal.html": [
+        "https://www.drugs.com/compare/entsol",
+        "https://www.drugs.com/sfx/entsol-side-effects.html",
+        "https://www.drugs.com/dosage/sodium-chloride-nasal.html",
+        "https://www.drugs.com/drug-class/nasal-lubricants-and-irrigations.html"
+    ],
+    "https://www.drugs.com/entyvio.html": [
+        "https://www.drugs.com/natalizumab.html",
+        "https://www.drugs.com/cg/psoriasis.html",
+        "https://www.drugs.com/cg/rheumatoid-arthritis.html",
+        "https://www.drugs.com/mtm/etanercept.html",
+        "https://www.drugs.com/cg/colitis-aftercare-instructions.html",
+        "https://www.drugs.com/mtm/adalimumab.html",
+        "https://www.drugs.com/infliximab.html"
+    ],
+    "https://www.drugs.com/mtm/entyvio-pen.html": [
+        "https://www.drugs.com/natalizumab.html",
+        "https://www.drugs.com/cg/psoriasis.html",
+        "https://www.drugs.com/cg/arthritis.html",
+        "https://www.drugs.com/cg/autoimmune-disease.html",
+        "https://www.drugs.com/cg/liver-transplant-discharge-care.html"
+    ],
+    "https://www.drugs.com/cons/enulose.html": null,
+    "https://www.drugs.com/cons/envarsus-xr.html": null,
+    "https://www.drugs.com/enzalutamide.html": [],
+    "https://www.drugs.com/pro/enzoclear-foam.html": null,
+    "https://www.drugs.com/mtm/epa-fish-oil.html": [
+        "https://www.drugs.com/mtm/alteplase.html",
+        "https://www.drugs.com/mtm/clopidogrel.html",
+        "https://www.drugs.com/mtm/dipyridamole.html",
+        "https://www.drugs.com/pro/ticlopidine.html",
+        "https://www.drugs.com/mtm/rivaroxaban.html",
+        "https://www.drugs.com/mtm/dabigatran.html"
+    ],
+    "https://www.drugs.com/cons/epaned.html": null,
+    "https://www.drugs.com/epanova.html": null,
+    "https://www.drugs.com/epclusa.html": [],
+    "https://www.drugs.com/mtm/epcoritamab.html": [],
+    "https://www.drugs.com/cons/epcoritamab-bysp.html": null,
+    "https://www.drugs.com/npc/ephedra.html": null,
+    "https://www.drugs.com/ephedrine.html": null,
+    "https://www.drugs.com/pro/ephedrine-sulfate-injection.html": null,
+    "https://www.drugs.com/pro/ephedrine-sulphate-injection.html": null,
+    "https://www.drugs.com/epidiolex.html": [],
+    "https://www.drugs.com/pro/epidiolex-oral-solution.html": null,
+    "https://www.drugs.com/epiduo.html": [],
+    "https://www.drugs.com/cons/epiduo-forte.html": null,
+    "https://www.drugs.com/mtm/epiduo-pump-topical.html": [],
+    "https://www.drugs.com/pro/epifoam.html": null,
+    "https://www.drugs.com/mtm/epimide-50.html": [
+        "https://www.drugs.com/compare/epimide-50",
+        "https://www.drugs.com/sfx/epimide-50-side-effects.html",
+        "https://www.drugs.com/dosage/urea-topical.html",
+        "https://www.drugs.com/drug-class/topical-emollients.html",
+        "https://www.drugs.com/mtm_esp/epimide-50.html"
+    ],
+    "https://www.drugs.com/cons/epinastine.html": null,
+    "https://www.drugs.com/pro/epinastine-hcl-ophthalmic-solution.html": null,
+    "https://www.drugs.com/mtm/epinastine-ophthalmic.html": [
+        "https://www.drugs.com/compare/epinastine-ophthalmic",
+        "https://www.drugs.com/price-guide/epinastine-ophthalmic",
+        "https://www.drugs.com/comments/epinastine-ophthalmic/for-allergic-conjunctivitis.html",
+        "https://www.drugs.com/sfx/epinastine-ophthalmic-side-effects.html",
+        "https://www.drugs.com/dosage/epinastine-ophthalmic.html",
+        "https://www.drugs.com/pregnancy/epinastine-ophthalmic.html",
+        "https://www.drugs.com/drug-class/ophthalmic-antihistamines-and-decongestants.html",
+        "https://www.drugs.com/breastfeeding/epinastine.html",
+        "https://www.drugs.com/mtm_esp/epinastine-ophthalmic.html"
+    ],
+    "https://www.drugs.com/monograph/epinephrine.html": [],
+    "https://www.drugs.com/monograph/epinephrine-mydriatic-eent.html": [
+        "https://www.drugs.com/support/",
+        "https://www.drugs.com/sitemap.html",
+        "https://www.drugs.com/support/contact.html"
+    ],
+    "https://www.drugs.com/cons/epinephrine-ophthalmic.html": null,
+    "https://www.drugs.com/monograph/epinephrine-vasoconstrictor-eent.html": [
+        "https://www.drugs.com/medical-answers/you-expired-epipen-emergency-3573072/",
+        "https://www.drugs.com/medical-answers/norepinephrine-epinephrine-difference-3132946/",
+        "https://www.drugs.com/medical-answers/you-bring-epipen-plane-3573523/",
+        "https://www.drugs.com/medical-answers/mechanism-action-epinephrine-3573625/",
+        "https://www.drugs.com/medical-answers/question--neffy-3573771/"
+    ],
+    "https://www.drugs.com/pro/epinephrine-concentrate-injection.html": null,
+    "https://www.drugs.com/mtm/epinephrine-inhalation.html": [
+        "https://www.drugs.com/cg/depression.html",
+        "https://www.drugs.com/cg/schizophrenia.html"
+    ],
+    "https://www.drugs.com/epinephrine-injection.html": [
+        "https://www.drugs.comhttps://www.drugs.com/cdi/benadryl-allergy-diphenhydramine-chewable-tablets-and-orally-disintegrating-tablets.html",
+        "https://www.drugs.comhttps://www.drugs.com/mtm/dihydroergotamine-injection.html",
+        "https://www.drugs.comhttps://www.drugs.com/mtm/ergotamine.html",
+        "https://www.drugs.comhttps://www.drugs.com/cdi/ergonovine.html",
+        "https://www.drugs.comhttps://www.drugs.com/mtm/methylergonovine-oral-and-injection.html"
+    ],
+    "https://www.drugs.com/pro/epinephrine-nasal-solution.html": null,
+    "https://www.drugs.com/mtm/epinephrinesnap-ems.html": [
+        "https://www.drugs.com/mtm/benadryl-allergy.html",
+        "https://www.drugs.com/mtm/dihydroergotamine-injection.html",
+        "https://www.drugs.com/ergotamine.html",
+        "https://www.drugs.com/cdi/ergonovine.html",
+        "https://www.drugs.com/mtm/methylergonovine-oral-and-injection.html"
+    ],
+    "https://www.drugs.com/mtm/epinephrinesnap-v.html": [
+        "https://www.drugs.com/mtm/benadryl-allergy.html",
+        "https://www.drugs.com/mtm/dihydroergotamine-injection.html",
+        "https://www.drugs.com/ergotamine.html",
+        "https://www.drugs.com/cdi/ergonovine.html",
+        "https://www.drugs.com/mtm/methylergonovine-oral-and-injection.html"
+    ],
+    "https://www.drugs.com/epipen-auto-injector.html": [
+        "https://www.drugs.comhttps://www.drugs.com/benadryl.html",
+        "https://www.drugs.comhttps://www.drugs.com/mtm/dihydroergotamine-injection.html",
+        "https://www.drugs.comhttps://www.drugs.com/mtm/ergotamine.html",
+        "https://www.drugs.comhttps://www.drugs.com/mtm/methylergonovine-oral-and-injection.html"
+    ],
+    "https://www.drugs.com/cons/epipen-jr.html": null,
+    "https://www.drugs.com/mtm/epiquin-micro.html": [
+        "https://www.drugs.com/compare/epiquin-micro",
+        "https://www.drugs.com/fda-alerts/1295-5534.html",
+        "https://www.drugs.com/sfx/epiquin-micro-side-effects.html",
+        "https://www.drugs.com/dosage/hydroquinone-topical.html",
+        "https://www.drugs.com/pregnancy/hydroquinone-topical.html",
+        "https://www.drugs.com/drug-class/topical-depigmenting-agents.html",
+        "https://www.drugs.com/breastfeeding/hydroquinone.html",
+        "https://www.drugs.com/mtm_esp/epiquin-micro.html"
+    ],
+    "https://www.drugs.com/mtm/epirubicin.html": [
+        "https://www.drugs.com/mtm/cimetidine.html"
+    ],
+    "https://www.drugs.com/mtm/episnap.html": [
+        "https://www.drugs.com/mtm/benadryl-allergy.html",
+        "https://www.drugs.com/mtm/dihydroergotamine-injection.html",
+        "https://www.drugs.com/ergotamine.html",
+        "https://www.drugs.com/cdi/ergonovine.html",
+        "https://www.drugs.com/mtm/methylergonovine-oral-and-injection.html"
+    ],
+    "https://www.drugs.com/mtm/epitol.html": [],
+    "https://www.drugs.com/epivir.html": [
+        "https://www.drugs.com/medical-answers/drugs-contained-delstrigo-3445552/",
+        "https://www.drugs.com/medical-answers/difference-between-symfi-symfi-lo-3418895/",
+        "https://www.drugs.com/medical-answers/cimduo-cost-3418871/",
+        "https://www.drugs.com/medical-answers/drugs-contained-cimduo-3418879/",
+        "https://www.drugs.com/medical-answers/drugs-contained-symfi-lo-3418867/"
+    ],
+    "https://www.drugs.com/cons/epivir-a-f.html": null,
+    "https://www.drugs.com/mtm/epivir-hbv.html": [
+        "https://www.drugs.com/medical-answers/difference-between-symfi-symfi-lo-3418895/",
+        "https://www.drugs.com/medical-answers/cimduo-cost-3418871/",
+        "https://www.drugs.com/medical-answers/drugs-contained-delstrigo-3445552/",
+        "https://www.drugs.com/medical-answers/drugs-contained-cimduo-3418879/",
+        "https://www.drugs.com/medical-answers/drugs-contained-symfi-lo-3418867/"
+    ],
+    "https://www.drugs.com/epkinly.html": [],
+    "https://www.drugs.com/mtm/eplerenone.html": [
+        "https://www.drugs.com/amiodarone.html",
+        "https://www.drugs.com/mtm/dronedarone.html",
+        "https://www.drugs.com/drug-class/nonsteroidal-anti-inflammatory-agents.html",
+        "https://www.drugs.com/mtm/indomethacin.html"
+    ],
+    "https://www.drugs.com/eplontersen.html": [],
+    "https://www.drugs.com/monograph/eplontersen-sodium.html": [],
+    "https://www.drugs.com/mtm/epoetin-alfa.html": [
+        "https://www.drugs.com/medical-answers/many-biosimilars-approved-united-states-3463281/"
+    ],
+    "https://www.drugs.com/cons/epoetin-alfa-epbx.html": null,
+    "https://www.drugs.com/mtm/epoetin-beta-and-methoxy-polyethylene-glycol.html": [],
+    "https://www.drugs.com/epogen.html": [
+        "https://www.drugs.com/medical-answers/many-biosimilars-approved-united-states-3463281/",
+        "https://www.drugs.com/medical-answers/difference-between-retacrit-epogen-3418910/"
+    ],
+    "https://www.drugs.com/mtm/epoprostenol.html": [
+        "https://www.drugs.com/warfarin.html",
+        "https://www.drugs.com/coumadin.html",
+        "https://www.drugs.com/mtm/jantoven.html"
+    ],
+    "https://www.drugs.com/eprontia.html": [],
+    "https://www.drugs.com/cons/eprosartan.html": null,
+    "https://www.drugs.com/cons/eprosartan-and-hydrochlorothiazide.html": null,
+    "https://www.drugs.com/cons/epsal.html": null,
+    "https://www.drugs.com/epsolay.html": [],
+    "https://www.drugs.com/mtm/epsom-salt.html": [],
+    "https://www.drugs.com/mtm/eptifibatide.html": [
+        "https://www.drugs.com/drug-class/nonsteroidal-anti-inflammatory-agents.html",
+        "https://www.drugs.com/celecoxib.html",
+        "https://www.drugs.com/mtm/diclofenac-topical.html",
+        "https://www.drugs.com/mtm/indomethacin.html",
+        "https://www.drugs.com/meloxicam.html",
+        "https://www.drugs.com/coumadin.html",
+        "https://www.drugs.com/mtm/jantoven.html"
+    ],
+    "https://www.drugs.com/pro/eptifibatide-injection.html": null,
+    "https://www.drugs.com/mtm/eptinezumab.html": [
+        "https://www.drugs.com/medical-answers/new-drugs-treatment-prevention-migraine-3515053/",
+        "https://www.drugs.com/medical-answers/vyepti-different-aimovig-3566755/"
+    ],
+    "https://www.drugs.com/cons/eptinezumab-jjmr.html": null,
+    "https://www.drugs.com/pro/epuris.html": null,
+    "https://www.drugs.com/pro/epy-kit.html": null,
+    "https://www.drugs.com/epzicom.html": [],
+    "https://www.drugs.com/cons/equagesic.html": null,
+    "https://www.drugs.com/mtm/equalactin.html": [],
+    "https://www.drugs.com/pro/equaline-all-day-allergy.html": null,
+    "https://www.drugs.com/pro/equaline-allergy-relief.html": null,
+    "https://www.drugs.com/pro/equaline-hair-regrowth-treatment-for-men.html": null,
+    "https://www.drugs.com/pro/equaline-nicotine-lozenge.html": null,
+    "https://www.drugs.com/pro/equaline-sleep-aid.html": null,
+    "https://www.drugs.com/pro/equate-acid-controller-maximum-strength.html": null,
+    "https://www.drugs.com/pro/equate-dual-action-complete.html": null,
+    "https://www.drugs.com/pro/equate-nicotine-lozenge.html": null,
+    "https://www.drugs.com/pro/equate-sleep-aid.html": null,
+    "https://www.drugs.com/equetro.html": [],
+    "https://www.drugs.com/cons/equilizer-gas-relief.html": null,
+    "https://www.drugs.com/pro/equioxx.html": null
+}

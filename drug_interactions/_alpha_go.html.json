@@ -1,0 +1,929 @@
+{
+    "https://www.drugs.com/pro/ga-68-dotatoc.html": null,
+    "https://www.drugs.com/pro/gaba-300-ezs.html": null,
+    "https://www.drugs.com/pro/gabacaine.html": null,
+    "https://www.drugs.com/pro/gabapal.html": null,
+    "https://www.drugs.com/gabapentin.html": [
+        "https://www.drugs.com/naproxen.html",
+        "https://www.drugs.com/hydrocodone.html",
+        "https://www.drugs.com/oxycodone.html",
+        "https://www.drugs.com/morphine.html",
+        "https://www.drugs.com/buprenorphine.html",
+        "https://www.drugs.com/zolpidem.html",
+        "https://www.drugs.com/lorazepam.html",
+        "https://www.drugs.com/mtm/cimetidine.html"
+    ],
+    "https://www.drugs.com/pro/gabapentin-capsules.html": null,
+    "https://www.drugs.com/cons/gabapentin-enacarbil.html": null,
+    "https://www.drugs.com/pro/gabapentin-oral-solution.html": null,
+    "https://www.drugs.com/pro/gabapentin-tablets.html": null,
+    "https://www.drugs.com/cons/gabarone.html": null,
+    "https://www.drugs.com/cons/gabazolamine-0-5.html": null,
+    "https://www.drugs.com/mtm/gabitril.html": [
+        "https://www.drugs.com/carbamazepine.html",
+        "https://www.drugs.com/phenytoin.html",
+        "https://www.drugs.com/mtm/phenobarbital.html",
+        "https://www.drugs.com/mtm/primidone.html"
+    ],
+    "https://www.drugs.com/gablofen.html": [],
+    "https://www.drugs.com/gadavist.html": [],
+    "https://www.drugs.com/cons/gadobenate.html": null,
+    "https://www.drugs.com/mtm/gadobenate-dimeglumine.html": [
+        "https://www.drugs.com/mtm/cisplatin.html",
+        "https://www.drugs.com/mtm/daunorubicin.html",
+        "https://www.drugs.com/mtm/doxorubicin.html",
+        "https://www.drugs.com/mtm/etoposide.html",
+        "https://www.drugs.com/methotrexate.html",
+        "https://www.drugs.com/mtm/paclitaxel.html",
+        "https://www.drugs.com/tamoxifen.html",
+        "https://www.drugs.com/mtm/vinblastine.html",
+        "https://www.drugs.com/mtm/vincristine.html"
+    ],
+    "https://www.drugs.com/mtm/gadobutrol.html": [],
+    "https://www.drugs.com/pro/gadobutrol-injection.html": null,
+    "https://www.drugs.com/mtm/gadodiamide.html": [],
+    "https://www.drugs.com/cons/gadofosveset.html": null,
+    "https://www.drugs.com/cons/gadopentetate.html": null,
+    "https://www.drugs.com/cons/gadopiclenol.html": null,
+    "https://www.drugs.com/cons/gadoterate.html": null,
+    "https://www.drugs.com/pro/gadoterate-injection.html": null,
+    "https://www.drugs.com/mtm/gadoterate-meglumine.html": [],
+    "https://www.drugs.com/mtm/gadoteridol.html": [],
+    "https://www.drugs.com/cons/gadoversetamide.html": null,
+    "https://www.drugs.com/mtm/gadoxetate.html": [],
+    "https://www.drugs.com/mtm/gainextra.html": [],
+    "https://www.drugs.com/galafold.html": [
+        "https://www.drugs.com/medical-answers/galafold-cost-3439499/"
+    ],
+    "https://www.drugs.com/npp/galangal.html": [],
+    "https://www.drugs.com/mtm/galantamine.html": [
+        "https://www.drugs.com/health-guide/parkinson-s-disease.html",
+        "https://www.drugs.com/cg/motion-sickness.html",
+        "https://www.drugs.com/cg/irritable-bowel-syndrome.html",
+        "https://www.drugs.com/mtm/darifenacin.html",
+        "https://www.drugs.com/mtm/fesoterodine.html",
+        "https://www.drugs.com/mtm/tolterodine.html",
+        "https://www.drugs.com/mtm/solifenacin.html",
+        "https://www.drugs.com/drug-class/bronchodilators.html",
+        "https://www.drugs.com/mtm/ipratropium-nasal.html"
+    ],
+    "https://www.drugs.com/pro/galantamine-capsules.html": null,
+    "https://www.drugs.com/pro/galantamine-oral-solution.html": null,
+    "https://www.drugs.com/mtm/galcanezumab.html": [
+        "https://www.drugs.com/medical-answers/new-drugs-treatment-prevention-migraine-3515053/",
+        "https://www.drugs.com/medical-answers/emgality-aimovig-compare-3546072/",
+        "https://www.drugs.com/medical-answers/ubrelvy-emgality-compare-migraines-3545207/",
+        "https://www.drugs.com/medical-answers/type-drug-ajovy-3445562/",
+        "https://www.drugs.com/medical-answers/type-drug-emgality-3450009/"
+    ],
+    "https://www.drugs.com/cons/galcanezumab-gnlm.html": null,
+    "https://www.drugs.com/cons/gallium-citrate-ga-67.html": null,
+    "https://www.drugs.com/cons/gallium-ga-68-dotatate.html": null,
+    "https://www.drugs.com/cons/gallium-ga-68-dotatoc.html": null,
+    "https://www.drugs.com/cons/gallium-ga-68-psma-11.html": null,
+    "https://www.drugs.com/mtm/galsulfase.html": [
+        "https://www.drugs.com/compare/galsulfase",
+        "https://www.drugs.com/sfx/galsulfase-side-effects.html",
+        "https://www.drugs.com/dosage/galsulfase.html",
+        "https://www.drugs.com/pregnancy/galsulfase.html",
+        "https://www.drugs.com/drug-class/lysosomal-enzymes.html",
+        "https://www.drugs.com/mtm_esp/galsulfase.html"
+    ],
+    "https://www.drugs.com/mtm/galzin.html": [],
+    "https://www.drugs.com/cons/gamastan.html": null,
+    "https://www.drugs.com/mtm/gamastan-igim.html": [],
+    "https://www.drugs.com/cons/gamastan-s-d.html": null,
+    "https://www.drugs.com/mtm/gamastan-s-d-igim.html": [],
+    "https://www.drugs.com/mtm/gamifant.html": [],
+    "https://www.drugs.com/gamimune.html": [],
+    "https://www.drugs.com/cons/gamimune-n.html": null,
+    "https://www.drugs.com/cons/gamma-e-plus.html": null,
+    "https://www.drugs.com/cons/gamma-e-gems.html": null,
+    "https://www.drugs.com/npp/gamma-oryzanol.html": [],
+    "https://www.drugs.com/gammagard.html": [],
+    "https://www.drugs.com/gammagard-liquid.html": null,
+    "https://www.drugs.com/cons/gammagard-s-d.html": null,
+    "https://www.drugs.com/mtm/gammagard-s-d-igiv.html": [],
+    "https://www.drugs.com/pro/gammaked.html": null,
+    "https://www.drugs.com/mtm/gammaked-intravenous-and-subcutaneous.html": [],
+    "https://www.drugs.com/cons/gammaplex.html": null,
+    "https://www.drugs.com/cons/gammaplex-10.html": null,
+    "https://www.drugs.com/mtm/gammaplex-igiv.html": [],
+    "https://www.drugs.com/cons/gammar-p.html": null,
+    "https://www.drugs.com/gammar-piv.html": [],
+    "https://www.drugs.com/gamunex.html": [],
+    "https://www.drugs.com/mtm/ganaxolone.html": [
+        "https://www.drugs.com/drug-class/narcotic-analgesics.html",
+        "https://www.drugs.com/drug-class/antidepressants.html"
+    ],
+    "https://www.drugs.com/pro/ganciclovir.html": null,
+    "https://www.drugs.com/cons/ganciclovir-intraocular.html": null,
+    "https://www.drugs.com/cons/ganciclovir-oral-intravenous.html": null,
+    "https://www.drugs.com/mtm/ganciclovir-injection.html": [
+        "https://www.drugs.com/mtm/didanosine.html",
+        "https://www.drugs.com/mtm/probenecid.html"
+    ],
+    "https://www.drugs.com/mtm/ganciclovir-ophthalmic.html": [
+        "https://www.drugs.com/compare/ganciclovir-ophthalmic",
+        "https://www.drugs.com/comments/ganciclovir-ophthalmic/",
+        "https://www.drugs.com/sfx/ganciclovir-ophthalmic-side-effects.html",
+        "https://www.drugs.com/dosage/ganciclovir-ophthalmic.html",
+        "https://www.drugs.com/pregnancy/ganciclovir-ophthalmic.html",
+        "https://www.drugs.com/drug-class/ophthalmic-anti-infectives.html",
+        "https://www.drugs.com/breastfeeding/ganciclovir.html",
+        "https://www.drugs.com/mtm_esp/ganciclovir-ophthalmic.html"
+    ],
+    "https://www.drugs.com/pro/ganciclovir-ophthalmic-gel.html": null,
+    "https://www.drugs.com/monograph/ganciclovir-sodium.html": [],
+    "https://www.drugs.com/mtm/ganirelix.html": [],
+    "https://www.drugs.com/mtm/ganirelix-acetate.html": [],
+    "https://www.drugs.com/pro/ganite.html": null,
+    "https://www.drugs.com/pro/gantrisin.html": null,
+    "https://www.drugs.com/cons/gantrisin-pediatric.html": null,
+    "https://www.drugs.com/mtm/garamycin.html": [],
+    "https://www.drugs.com/cons/garamycin-gentamicin-injection.html": null,
+    "https://www.drugs.com/cons/garamycin-gentamicin-ophthalmic.html": null,
+    "https://www.drugs.com/cons/garamycin-gentamicin-topical.html": null,
+    "https://www.drugs.com/pro/garamycin-eye-drops.html": null,
+    "https://www.drugs.com/mtm/garamycin-topical.html": [],
+    "https://www.drugs.com/npc/garcinia.html": null,
+    "https://www.drugs.com/garcinia-cambogia.html": null,
+    "https://www.drugs.com/pro/gardasil.html": null,
+    "https://www.drugs.com/mtm/gardasil-9.html": [],
+    "https://www.drugs.com/gardasil.html": [],
+    "https://www.drugs.com/mtm/garlic.html": [
+        "https://www.drugs.com/acetaminophen.html",
+        "https://www.drugs.com/article/birth-control-pill.html",
+        "https://www.drugs.com/mtm/chlorzoxazone.html",
+        "https://www.drugs.com/mtm/dipyridamole.html",
+        "https://www.drugs.com/drug-class/nonsteroidal-anti-inflammatory-agents.html"
+    ],
+    "https://www.drugs.com/cons/gas-aid-maximum-strength.html": null,
+    "https://www.drugs.com/mtm/gas-aide.html": [],
+    "https://www.drugs.com/mtm/gas-relief-extra-strength.html": [],
+    "https://www.drugs.com/mtm/gas-relief-ultra-strength-softgels.html": [],
+    "https://www.drugs.com/mtm/gas-x.html": [
+        "https://www.drugs.com/medical-answers/effective-beano-gas-1138864/"
+    ],
+    "https://www.drugs.com/mtm/gas-x-extra-strength.html": [],
+    "https://www.drugs.com/mtm/gas-x-maximum-strength.html": [
+        "https://www.drugs.com/medical-answers/effective-beano-gas-1138864/"
+    ],
+    "https://www.drugs.com/mtm/gas-x-ultra-softgels.html": [],
+    "https://www.drugs.com/mtm/gastrocrom.html": [],
+    "https://www.drugs.com/pro/gastrogard.html": null,
+    "https://www.drugs.com/pro/gastrografin.html": null,
+    "https://www.drugs.com/pro/gastromark.html": null,
+    "https://www.drugs.com/cons/gatifloxacin.html": null,
+    "https://www.drugs.com/monograph/gatifloxacin-eent.html": null,
+    "https://www.drugs.com/mtm/gatifloxacin-and-prednisolone-ophthalmic.html": [],
+    "https://www.drugs.com/pro/gatifloxacin-eye-drops.html": null,
+    "https://www.drugs.com/mtm/gatifloxacin-ophthalmic.html": [
+        "https://www.drugs.com/compare/gatifloxacin-ophthalmic",
+        "https://www.drugs.com/price-guide/gatifloxacin-ophthalmic",
+        "https://www.drugs.com/comments/gatifloxacin-ophthalmic/",
+        "https://www.drugs.com/sfx/gatifloxacin-ophthalmic-side-effects.html",
+        "https://www.drugs.com/dosage/gatifloxacin-ophthalmic.html",
+        "https://www.drugs.com/pregnancy/gatifloxacin-ophthalmic.html",
+        "https://www.drugs.com/drug-class/ophthalmic-anti-infectives.html",
+        "https://www.drugs.com/breastfeeding/gatifloxacin.html",
+        "https://www.drugs.com/mtm_esp/gatifloxacin-ophthalmic.html"
+    ],
+    "https://www.drugs.com/gattex.html": [],
+    "https://www.drugs.com/pro/gattex-injection.html": null,
+    "https://www.drugs.com/mtm/gavilax.html": [],
+    "https://www.drugs.com/pro/gavilyte-g.html": null,
+    "https://www.drugs.com/pro/gavilyte-h-and-bisacodyl.html": null,
+    "https://www.drugs.com/pro/gavilyte-n.html": null,
+    "https://www.drugs.com/mtm/gavilyte-c.html": [
+        "https://www.drugs.com/cg/depression.html",
+        "https://www.drugs.com/cg/hyponatremia.html",
+        "https://www.drugs.com/drug-class/nonsteroidal-anti-inflammatory-agents.html",
+        "https://www.drugs.com/ibuprofen.html",
+        "https://www.drugs.com/celecoxib.html",
+        "https://www.drugs.com/mtm/diclofenac-topical.html",
+        "https://www.drugs.com/mtm/indomethacin.html",
+        "https://www.drugs.com/meloxicam.html"
+    ],
+    "https://www.drugs.com/cons/gavilyte-c-with-flavor-pack.html": null,
+    "https://www.drugs.com/mtm/gavilyte-c-with-lemon-flavor-pack.html": [
+        "https://www.drugs.com/cg/depression.html",
+        "https://www.drugs.com/cg/hyponatremia.html",
+        "https://www.drugs.com/drug-class/nonsteroidal-anti-inflammatory-agents.html",
+        "https://www.drugs.com/ibuprofen.html",
+        "https://www.drugs.com/celecoxib.html",
+        "https://www.drugs.com/mtm/diclofenac-topical.html",
+        "https://www.drugs.com/mtm/indomethacin.html"
+    ],
+    "https://www.drugs.com/mtm/gavilyte-g-with-lemon-flavor-pack.html": [
+        "https://www.drugs.com/cg/depression.html",
+        "https://www.drugs.com/cg/hyponatremia.html",
+        "https://www.drugs.com/drug-class/nonsteroidal-anti-inflammatory-agents.html",
+        "https://www.drugs.com/ibuprofen.html",
+        "https://www.drugs.com/celecoxib.html",
+        "https://www.drugs.com/mtm/diclofenac-topical.html",
+        "https://www.drugs.com/mtm/indomethacin.html"
+    ],
+    "https://www.drugs.com/mtm/gavilyte-h-and-bisacodyl-with-flavor-packs.html": [
+        "https://www.drugs.com/drug-class/nonsteroidal-anti-inflammatory-agents.html",
+        "https://www.drugs.com/ibuprofen.html",
+        "https://www.drugs.com/naproxen.html",
+        "https://www.drugs.com/celecoxib.html",
+        "https://www.drugs.com/mtm/diclofenac-topical.html",
+        "https://www.drugs.com/mtm/indomethacin.html",
+        "https://www.drugs.com/meloxicam.html"
+    ],
+    "https://www.drugs.com/cons/gavilyte-n-with-flavor-pack.html": null,
+    "https://www.drugs.com/mtm/gavilyte-n-with-flavor-packs.html": [
+        "https://www.drugs.com/cg/depression.html",
+        "https://www.drugs.com/cg/hyponatremia.html",
+        "https://www.drugs.com/drug-class/nonsteroidal-anti-inflammatory-agents.html",
+        "https://www.drugs.com/ibuprofen.html",
+        "https://www.drugs.com/celecoxib.html",
+        "https://www.drugs.com/mtm/diclofenac-topical.html",
+        "https://www.drugs.com/mtm/indomethacin.html"
+    ],
+    "https://www.drugs.com/mtm/gaviscon.html": [],
+    "https://www.drugs.com/mtm/gaviscon-extra-strength.html": [
+        "https://www.drugs.com/medical-answers/what-is-the-dose-of-gaviscon-135112/"
+    ],
+    "https://www.drugs.com/mtm/gaviscon-regular-strength.html": [],
+    "https://www.drugs.com/gavreto.html": [],
+    "https://www.drugs.com/gazyva.html": [
+        "https://www.drugs.com/warfarin.html",
+        "https://www.drugs.com/coumadin.html",
+        "https://www.drugs.com/mtm/jantoven.html",
+        "https://www.drugs.com/mtm/cilostazol.html",
+        "https://www.drugs.com/mtm/clopidogrel.html",
+        "https://www.drugs.com/mtm/dipyridamole.html",
+        "https://www.drugs.com/mtm/ticagrelor.html"
+    ],
+    "https://www.drugs.com/mtm/gefitinib.html": [],
+    "https://www.drugs.com/mtm/gel-kam.html": [
+        "https://www.drugs.com/compare/gel-kam",
+        "https://www.drugs.com/price-guide/gel-kam",
+        "https://www.drugs.com/sfx/gel-kam-side-effects.html",
+        "https://www.drugs.com/dosage/fluoride-topical.html",
+        "https://www.drugs.com/pregnancy/fluoride-topical.html",
+        "https://www.drugs.com/drug-class/mouth-and-throat-products.html",
+        "https://www.drugs.com/mtm_esp/gel-kam.html"
+    ],
+    "https://www.drugs.com/cons/gel-one-hyaluronate-sodium-injection.html": null,
+    "https://www.drugs.com/cons/gel-one-hyaluronic-acid-injection.html": null,
+    "https://www.drugs.com/mtm/gel-one-injection.html": [],
+    "https://www.drugs.com/pro/gelato-neutral-ph.html": null,
+    "https://www.drugs.com/mtm/gelclair-topical.html": [
+        "https://www.drugs.com/compare/gelclair",
+        "https://www.drugs.com/sfx/gelclair-side-effects.html",
+        "https://www.drugs.com/dosage/sodium-hyaluronate-topical.html",
+        "https://www.drugs.com/drug-class/miscellaneous-topical-agents.html",
+        "https://www.drugs.com/mtm_esp/gelclair-topical.html"
+    ],
+    "https://www.drugs.com/gelnique.html": [
+        "https://www.drugs.com/cg/parkinson-disease.html",
+        "https://www.drugs.com/cg/peptic-ulcer.html",
+        "https://www.drugs.com/cg/motion-sickness.html",
+        "https://www.drugs.com/cg/irritable-bowel-syndrome.html",
+        "https://www.drugs.com/cg/asthma.html"
+    ],
+    "https://www.drugs.com/mtm/gelnique-transdermal.html": [
+        "https://www.drugs.com/health-guide/parkinson-s-disease.html",
+        "https://www.drugs.com/condition/gastric-ulcer.html",
+        "https://www.drugs.com/cg/motion-sickness.html",
+        "https://www.drugs.com/cg/irritable-bowel-syndrome.html"
+    ],
+    "https://www.drugs.com/npp/gelsemium.html": [],
+    "https://www.drugs.com/mtm/gelsyn-3-injection.html": [],
+    "https://www.drugs.com/mtm/gelusil.html": [],
+    "https://www.drugs.com/mtm/gemcitabine.html": [],
+    "https://www.drugs.com/gemfibrozil.html": [
+        "https://www.drugs.com/mtm/colchicine.html",
+        "https://www.drugs.com/atorvastatin.html",
+        "https://www.drugs.com/mtm/fluvastatin.html",
+        "https://www.drugs.com/mtm/lovastatin.html",
+        "https://www.drugs.com/mtm/pitavastatin.html",
+        "https://www.drugs.com/pravastatin.html",
+        "https://www.drugs.com/rosuvastatin.html",
+        "https://www.drugs.com/crestor.html",
+        "https://www.drugs.com/lipitor.html",
+        "https://www.drugs.com/zocor.html",
+        "https://www.drugs.com/vytorin.html"
+    ],
+    "https://www.drugs.com/monograph/gemifloxacin.html": [],
+    "https://www.drugs.com/pro/gemmily.html": null,
+    "https://www.drugs.com/mtm/gemmily-birth-control.html": [
+        "https://www.drugs.com/mtm/glecaprevir-and-pibrentasvir.html",
+        "https://www.drugs.com/drug-class/anticonvulsants.html",
+        "https://www.drugs.com/drug-class/anticonvulsants.html"
+    ],
+    "https://www.drugs.com/gemtesa.html": [
+        "https://www.drugs.com/digoxin.html"
+    ],
+    "https://www.drugs.com/cons/gemtuzumab.html": null,
+    "https://www.drugs.com/mtm/gemtuzumab-ozogamicin.html": [],
+    "https://www.drugs.com/gemzar.html": [],
+    "https://www.drugs.com/cons/gen-xene.html": null,
+    "https://www.drugs.com/pro/gen7t-lotion.html": null,
+    "https://www.drugs.com/pro/gen7t-patch.html": null,
+    "https://www.drugs.com/pro/gen7t-plus-patch.html": null,
+    "https://www.drugs.com/genace.html": [],
+    "https://www.drugs.com/cons/genacote.html": null,
+    "https://www.drugs.com/cons/genadur.html": null,
+    "https://www.drugs.com/cons/genapap.html": null,
+    "https://www.drugs.com/cons/genaphed.html": null,
+    "https://www.drugs.com/cons/genasal.html": null,
+    "https://www.drugs.com/cons/genasyme.html": null,
+    "https://www.drugs.com/mtm/gencontuss.html": [],
+    "https://www.drugs.com/cons/genebs.html": null,
+    "https://www.drugs.com/pro/generess-fe.html": null,
+    "https://www.drugs.com/cons/generlac.html": null,
+    "https://www.drugs.com/mtm/geneye-extra.html": [],
+    "https://www.drugs.com/mtm/geneyes.html": [],
+    "https://www.drugs.com/cons/gengraf.html": null,
+    "https://www.drugs.com/pro/gengraf-capsules.html": null,
+    "https://www.drugs.com/pro/gengraf-oral-solution.html": null,
+    "https://www.drugs.com/mtm/genicin.html": [],
+    "https://www.drugs.com/mtm/genicin-vita-d.html": [],
+    "https://www.drugs.com/cons/genoptic.html": null,
+    "https://www.drugs.com/cons/genoptic-s-o-p.html": null,
+    "https://www.drugs.com/cons/genosyl.html": null,
+    "https://www.drugs.com/mtm/genotropin.html": [
+        "https://www.drugs.com/article/birth-control-pill.html",
+        "https://www.drugs.com/mtm/dexamethasone-intraocular.html",
+        "https://www.drugs.com/methylprednisolone.html"
+    ],
+    "https://www.drugs.com/cons/genotropin-miniquick.html": null,
+    "https://www.drugs.com/mtm/genpril.html": [
+        "https://www.drugs.com/mtm/cyclosporine-ophthalmic.html",
+        "https://www.drugs.com/methotrexate.html",
+        "https://www.drugs.com/prednisone.html"
+    ],
+    "https://www.drugs.com/cons/gentacidin.html": null,
+    "https://www.drugs.com/cons/gentafair.html": null,
+    "https://www.drugs.com/cons/gentak.html": null,
+    "https://www.drugs.com/pro/gentak-ophthalmic-ointment.html": null,
+    "https://www.drugs.com/mtm/gentamicin.html": [],
+    "https://www.drugs.com/monograph/gentamicin-eent.html": null,
+    "https://www.drugs.com/cons/gentamicin-injection.html": null,
+    "https://www.drugs.com/cons/gentamicin-otic.html": null,
+    "https://www.drugs.com/mtm/gentamicin-and-prednisolone-ophthalmic.html": [],
+    "https://www.drugs.com/pro/gentamicin-cream.html": null,
+    "https://www.drugs.com/pro/gentamicin-ointment.html": null,
+    "https://www.drugs.com/mtm/gentamicin-ophthalmic.html": [
+        "https://www.drugs.com/compare/gentamicin-ophthalmic",
+        "https://www.drugs.com/price-guide/gentamicin-ophthalmic",
+        "https://www.drugs.com/sfx/gentamicin-ophthalmic-side-effects.html",
+        "https://www.drugs.com/dosage/gentamicin-ophthalmic.html",
+        "https://www.drugs.com/pregnancy/gentamicin-ophthalmic.html",
+        "https://www.drugs.com/drug-class/ophthalmic-anti-infectives.html",
+        "https://www.drugs.com/breastfeeding/gentamicin.html",
+        "https://www.drugs.com/mtm_esp/gentamicin-ophthalmic.html"
+    ],
+    "https://www.drugs.com/pro/gentamicin-ophthalmic-ointment.html": null,
+    "https://www.drugs.com/pro/gentamicin-ophthalmic-solution.html": null,
+    "https://www.drugs.com/pro/gentamicin-sodium-chloride.html": null,
+    "https://www.drugs.com/pro/gentamicin-sulfate.html": null,
+    "https://www.drugs.com/pro/gentamicin-sulfate-injection-concentrate.html": null,
+    "https://www.drugs.com/mtm/gentamicin-topical.html": [],
+    "https://www.drugs.com/cons/gentasol.html": null,
+    "https://www.drugs.com/pro/gentaved.html": null,
+    "https://www.drugs.com/mtm/genteal.html": [
+        "https://www.drugs.com/compare/genteal",
+        "https://www.drugs.com/comments/ocular-lubricant-ophthalmic/genteal-for-dry-eye-disease.html",
+        "https://www.drugs.com/sfx/genteal-side-effects.html",
+        "https://www.drugs.com/drug-class/ophthalmic-lubricants-and-irrigations.html",
+        "https://www.drugs.com/mtm_esp/genteal.html"
+    ],
+    "https://www.drugs.com/mtm/genteal-mild.html": [
+        "https://www.drugs.com/compare/genteal-mild",
+        "https://www.drugs.com/sfx/genteal-mild-side-effects.html",
+        "https://www.drugs.com/drug-class/ophthalmic-lubricants-and-irrigations.html",
+        "https://www.drugs.com/mtm_esp/genteal-mild.html"
+    ],
+    "https://www.drugs.com/mtm/genteal-pf-tears-moderate.html": [
+        "https://www.drugs.com/compare/genteal-tears-moderate",
+        "https://www.drugs.com/price-guide/genteal-tears-moderate",
+        "https://www.drugs.com/sfx/genteal-tears-moderate-side-effects.html",
+        "https://www.drugs.com/drug-class/ophthalmic-lubricants-and-irrigations.html"
+    ],
+    "https://www.drugs.com/mtm/genteal-tears-moderate.html": [
+        "https://www.drugs.com/compare/genteal-tears-moderate",
+        "https://www.drugs.com/price-guide/genteal-tears-moderate",
+        "https://www.drugs.com/sfx/genteal-tears-moderate-side-effects.html",
+        "https://www.drugs.com/drug-class/ophthalmic-lubricants-and-irrigations.html"
+    ],
+    "https://www.drugs.com/mtm/genteal-tears-night-time.html": [
+        "https://www.drugs.com/compare/genteal-tears-night-time",
+        "https://www.drugs.com/price-guide/genteal-tears-night-time",
+        "https://www.drugs.com/sfx/genteal-tears-night-time-side-effects.html",
+        "https://www.drugs.com/drug-class/ophthalmic-lubricants-and-irrigations.html",
+        "https://www.drugs.com/mtm_esp/genteal-tears-night-time.html"
+    ],
+    "https://www.drugs.com/mtm/genteal-tears-severe.html": [
+        "https://www.drugs.com/compare/genteal-tears-severe",
+        "https://www.drugs.com/price-guide/genteal-tears-severe",
+        "https://www.drugs.com/sfx/genteal-tears-severe-side-effects.html",
+        "https://www.drugs.com/drug-class/ophthalmic-lubricants-and-irrigations.html",
+        "https://www.drugs.com/mtm_esp/genteal-tears-severe.html"
+    ],
+    "https://www.drugs.com/npp/gentian.html": [],
+    "https://www.drugs.com/cons/gentian-violet-topical.html": null,
+    "https://www.drugs.com/cons/gentian-violet-vaginal.html": null,
+    "https://www.drugs.com/mtm/genvisc-850-injection.html": [],
+    "https://www.drugs.com/genvoya.html": [
+        "https://www.drugs.com/medical-answers/genvoya-with-food-3540666/"
+    ],
+    "https://www.drugs.com/geodon.html": [],
+    "https://www.drugs.com/cons/geodon-ziprasidone-intramuscular.html": null,
+    "https://www.drugs.com/cons/geodon-ziprasidone-oral.html": null,
+    "https://www.drugs.com/pro/geodon-injection.html": null,
+    "https://www.drugs.com/cons/geone.html": null,
+    "https://www.drugs.com/cons/gepirone.html": null,
+    "https://www.drugs.com/cons/geref.html": null,
+    "https://www.drugs.com/cons/geref-diagnostic.html": null,
+    "https://www.drugs.com/mtm/geri-dryl.html": [],
+    "https://www.drugs.com/mtm/geri-hydrolac.html": [
+        "https://www.drugs.com/compare/geri-hydrolac",
+        "https://www.drugs.com/comments/ammonium-lactate-topical/geri-hydrolac.html",
+        "https://www.drugs.com/sfx/geri-hydrolac-side-effects.html",
+        "https://www.drugs.com/dosage/ammonium-lactate-topical.html",
+        "https://www.drugs.com/pregnancy/ammonium-lactate-topical.html",
+        "https://www.drugs.com/drug-class/topical-emollients.html",
+        "https://www.drugs.com/mtm_esp/geri-hydrolac.html"
+    ],
+    "https://www.drugs.com/mtm/geri-kot.html": [
+        "https://www.drugs.com/warfarin.html",
+        "https://www.drugs.com/coumadin.html",
+        "https://www.drugs.com/mtm/jantoven.html"
+    ],
+    "https://www.drugs.com/mtm/geri-tussin-dm.html": [],
+    "https://www.drugs.com/mtm/geri-tussin-expectorant.html": [
+        "https://www.drugs.com/medical-answers/what-is-the-dose-for-an-adult-for-robitussin-dm-381017/"
+    ],
+    "https://www.drugs.com/cons/gets-it-corn-callus-remover.html": null,
+    "https://www.drugs.com/mtm/gialax.html": [],
+    "https://www.drugs.com/mtm/gianvi.html": [],
+    "https://www.drugs.com/cons/giapreza.html": null,
+    "https://www.drugs.com/mtm/giazo.html": [],
+    "https://www.drugs.com/pro/gildagia.html": null,
+    "https://www.drugs.com/cons/gildess-1-5-30.html": null,
+    "https://www.drugs.com/pro/gildess-1-20.html": null,
+    "https://www.drugs.com/pro/gildess-fe-1-5-30.html": null,
+    "https://www.drugs.com/pro/gildess-fe-1-20.html": null,
+    "https://www.drugs.com/gilenya.html": [
+        "https://www.drugs.com/condition/organ-transplant.html",
+        "https://www.drugs.com/mtm/ketoconazole-topical.html"
+    ],
+    "https://www.drugs.com/gilotrif.html": [],
+    "https://www.drugs.com/mtm/gilphex-tr.html": [],
+    "https://www.drugs.com/mtm/gilteritinib.html": [
+        "https://www.drugs.com/medical-answers/type-leukemia-xospata-gilteritinib-treat-3457244/"
+    ],
+    "https://www.drugs.com/mtm/giltuss.html": [],
+    "https://www.drugs.com/mtm/giltuss-allergy-and-sinus.html": [],
+    "https://www.drugs.com/mtm/giltuss-allergy-plus.html": [],
+    "https://www.drugs.com/mtm/giltuss-children-s-allergy-plus.html": [],
+    "https://www.drugs.com/mtm/giltuss-cough-and-chest-congestion.html": [],
+    "https://www.drugs.com/mtm/giltuss-cough-and-cold.html": [],
+    "https://www.drugs.com/mtm/giltuss-diabetic-cough-and-cold.html": [],
+    "https://www.drugs.com/mtm/giltuss-sinus-and-congestion.html": [],
+    "https://www.drugs.com/mtm/giltuss-tr.html": [],
+    "https://www.drugs.com/gimoti.html": null,
+    "https://www.drugs.com/mtm/gimoti-nasal.html": [
+        "https://www.drugs.com/mtm/isocarboxazid.html",
+        "https://www.drugs.com/mtm/linezolid-oral-injection.html",
+        "https://www.drugs.com/mtm/methylene-blue-injection.html",
+        "https://www.drugs.com/mtm/phenelzine.html",
+        "https://www.drugs.com/mtm/tranylcypromine.html"
+    ],
+    "https://www.drugs.com/mtm/ginger.html": [
+        "https://www.drugs.com/nifedipine.html",
+        "https://www.drugs.com/mtm/clopidogrel.html",
+        "https://www.drugs.com/mtm/dalteparin.html",
+        "https://www.drugs.com/mtm/dipyridamole.html",
+        "https://www.drugs.com/pro/ticlopidine.html"
+    ],
+    "https://www.drugs.com/mtm/ginger-root.html": [
+        "https://www.drugs.com/nifedipine.html",
+        "https://www.drugs.com/mtm/clopidogrel.html",
+        "https://www.drugs.com/mtm/dalteparin.html",
+        "https://www.drugs.com/mtm/enoxaparin.html",
+        "https://www.drugs.com/mtm/dipyridamole.html",
+        "https://www.drugs.com/pro/ticlopidine.html"
+    ],
+    "https://www.drugs.com/pro/gingimed.html": null,
+    "https://www.drugs.com/mtm/ginkgo.html": [
+        "https://www.drugs.com/cg/erectile-dysfunction.html",
+        "https://www.drugs.com/cg/arthritis.html",
+        "https://www.drugs.com/cg/autoimmune-disease.html"
+    ],
+    "https://www.drugs.com/mtm/ginkgo-biloba.html": [
+        "https://www.drugs.com/cg/erectile-dysfunction.html",
+        "https://www.drugs.com/cg/arthritis.html",
+        "https://www.drugs.com/cg/autoimmune-disease.html"
+    ],
+    "https://www.drugs.com/npc/ginseng.html": null,
+    "https://www.drugs.com/givlaari.html": [],
+    "https://www.drugs.com/mtm/givosiran.html": [],
+    "https://www.drugs.com/monograph/givosiran-sodium.html": [],
+    "https://www.drugs.com/mtm/glandosane-unflavored.html": [
+        "https://www.drugs.com/compare/glandosane-unflavored",
+        "https://www.drugs.com/sfx/glandosane-unflavored-side-effects.html",
+        "https://www.drugs.com/dosage/saliva-substitutes-topical.html",
+        "https://www.drugs.com/pregnancy/saliva-substitutes-topical.html",
+        "https://www.drugs.com/drug-class/mouth-and-throat-products.html"
+    ],
+    "https://www.drugs.com/mtm/glasdegib.html": [
+        "https://www.drugs.com/medical-answers/type-cancer-daurismo-glasdegib-treat-3457211/"
+    ],
+    "https://www.drugs.com/glassia.html": [
+        "https://www.drugs.com/compare/glassia",
+        "https://www.drugs.com/price-guide/glassia",
+        "https://www.drugs.com/comments/alpha-1-proteinase-inhibitor/glassia-for-alpha-1-proteinase-inhibitor-deficiency.html",
+        "https://www.drugs.com/sfx/glassia-side-effects.html",
+        "https://www.drugs.com/dosage/glassia.html",
+        "https://www.drugs.com/pregnancy/alpha-1-proteinase-inhibitor.html",
+        "https://www.drugs.com/history/glassia.html",
+        "https://www.drugs.com/drug-class/miscellaneous-respiratory-agents.html",
+        "https://www.drugs.com/mtm_esp/glassia.html"
+    ],
+    "https://www.drugs.com/cons/glatiramer.html": null,
+    "https://www.drugs.com/mtm/glatiramer-injection.html": [
+        "https://www.drugs.com/medical-answers/ms-patient-stops-taking-copaxone-3541132/",
+        "https://www.drugs.com/medical-answers/long-you-copaxone-3541061/",
+        "https://www.drugs.com/medical-answers/long-copaxone-effective-3541068/",
+        "https://www.drugs.com/medical-answers/copaxone-work-treatment-multiple-sclerosis-3541069/"
+    ],
+    "https://www.drugs.com/cons/glatopa.html": null,
+    "https://www.drugs.com/mtm/glatopa-injection.html": [
+        "https://www.drugs.com/medical-answers/ms-patient-stops-taking-copaxone-3541132/",
+        "https://www.drugs.com/medical-answers/long-you-copaxone-3541061/",
+        "https://www.drugs.com/medical-answers/long-copaxone-effective-3541068/",
+        "https://www.drugs.com/medical-answers/copaxone-work-treatment-multiple-sclerosis-3541069/"
+    ],
+    "https://www.drugs.com/glecaprevir-and-pibrentasvir.html": [],
+    "https://www.drugs.com/gleevec.html": [
+        "https://www.drugs.com/article/antibiotics.html",
+        "https://www.drugs.com/warfarin.html",
+        "https://www.drugs.com/coumadin.html",
+        "https://www.drugs.com/mtm/jantoven.html"
+    ],
+    "https://www.drugs.com/mtm/gleolan.html": [
+        "https://www.drugs.com/mtm/st-john-s-wort.html",
+        "https://www.drugs.com/article/antibiotics.html",
+        "https://www.drugs.com/condition/diabetes-mellitus-type-ii.html"
+    ],
+    "https://www.drugs.com/mtm/gleostine.html": [],
+    "https://www.drugs.com/cons/gliadel.html": null,
+    "https://www.drugs.com/mtm/gliadel-injection-implant.html": [
+        "https://www.drugs.com/mtm/phenobarbital.html",
+        "https://www.drugs.com/mtm/cimetidine.html"
+    ],
+    "https://www.drugs.com/mtm/glimepiride.html": [],
+    "https://www.drugs.com/mtm/glimepiride-and-pioglitazone.html": [],
+    "https://www.drugs.com/glipizide.html": [],
+    "https://www.drugs.com/mtm/glipizide-and-metformin.html": [],
+    "https://www.drugs.com/pro/glipizide-er.html": null,
+    "https://www.drugs.com/pro/glipizide-tablets.html": null,
+    "https://www.drugs.com/mtm/glipizide-xl.html": [],
+    "https://www.drugs.com/pro/glofil-125.html": null,
+    "https://www.drugs.com/mtm/glofitamab.html": [],
+    "https://www.drugs.com/cons/glofitamab-gxbm.html": null,
+    "https://www.drugs.com/cons/gloperba.html": null,
+    "https://www.drugs.com/pro/glostrips.html": null,
+    "https://www.drugs.com/cons/glucagen.html": null,
+    "https://www.drugs.com/cons/glucagen-diagnostic-kit.html": null,
+    "https://www.drugs.com/mtm/glucagen-hypokit-injection.html": [
+        "https://www.drugs.com/medical-answers/glucagon-glycogen-thing-3543887/",
+        "https://www.drugs.com/medical-answers/you-glucagen-hypokit-3544102/",
+        "https://www.drugs.com/medical-answers/insulin-glucagon-common-3536176/",
+        "https://www.drugs.com/medical-answers/release-glucagon-affect-blood-glucose-levels-3536177/",
+        "https://www.drugs.com/medical-answers/long-baqsimi-3543692/",
+        "https://www.drugs.com/medical-answers/baqsimi-cost-3543694/",
+        "https://www.drugs.com/medical-answers/baqsimi-covered-medicare-3543701/"
+    ],
+    "https://www.drugs.com/mtm/glucagen-injection.html": [
+        "https://www.drugs.com/medical-answers/glucagon-glycogen-thing-3543887/",
+        "https://www.drugs.com/medical-answers/you-glucagen-hypokit-3544102/",
+        "https://www.drugs.com/medical-answers/insulin-glucagon-common-3536176/",
+        "https://www.drugs.com/medical-answers/release-glucagon-affect-blood-glucose-levels-3536177/",
+        "https://www.drugs.com/medical-answers/long-baqsimi-3543692/",
+        "https://www.drugs.com/medical-answers/baqsimi-cost-3543694/",
+        "https://www.drugs.com/medical-answers/baqsimi-covered-medicare-3543701/"
+    ],
+    "https://www.drugs.com/glucagon.html": [
+        "https://www.drugs.com/medical-answers/glucagon-glycogen-thing-3543887/",
+        "https://www.drugs.com/medical-answers/insulin-glucagon-common-3536176/",
+        "https://www.drugs.com/medical-answers/release-glucagon-affect-blood-glucose-levels-3536177/",
+        "https://www.drugs.com/medical-answers/long-baqsimi-3543692/",
+        "https://www.drugs.com/medical-answers/baqsimi-cost-3543694/",
+        "https://www.drugs.com/medical-answers/baqsimi-covered-medicare-3543701/",
+        "https://www.drugs.com/medical-answers/you-baqsimi-nasal-powder-3543770/",
+        "https://www.drugs.com/medical-answers/you-administer-glucagon-injection-kit-3536171/"
+    ],
+    "https://www.drugs.com/cons/glucagon-injection.html": null,
+    "https://www.drugs.com/cons/glucagon-diagnostic-kit.html": null,
+    "https://www.drugs.com/cons/glucagon-emergency-kit.html": null,
+    "https://www.drugs.com/mtm/glucagon-emergency-kit-for-low-blood-sugar-injection.html": [
+        "https://www.drugs.com/medical-answers/glucagon-glycogen-thing-3543887/",
+        "https://www.drugs.com/medical-answers/insulin-glucagon-common-3536176/",
+        "https://www.drugs.com/medical-answers/release-glucagon-affect-blood-glucose-levels-3536177/",
+        "https://www.drugs.com/medical-answers/long-baqsimi-3543692/",
+        "https://www.drugs.com/medical-answers/baqsimi-cost-3543694/",
+        "https://www.drugs.com/medical-answers/baqsimi-covered-medicare-3543701/",
+        "https://www.drugs.com/medical-answers/you-baqsimi-nasal-powder-3543770/",
+        "https://www.drugs.com/medical-answers/you-administer-glucagon-injection-kit-3536171/"
+    ],
+    "https://www.drugs.com/mtm/glucagon-nasal.html": [
+        "https://www.drugs.com/medical-answers/glucagon-glycogen-thing-3543887/",
+        "https://www.drugs.com/medical-answers/insulin-glucagon-common-3536176/",
+        "https://www.drugs.com/medical-answers/release-glucagon-affect-blood-glucose-levels-3536177/",
+        "https://www.drugs.com/medical-answers/long-baqsimi-3543692/",
+        "https://www.drugs.com/medical-answers/baqsimi-cost-3543694/",
+        "https://www.drugs.com/medical-answers/baqsimi-covered-medicare-3543701/",
+        "https://www.drugs.com/medical-answers/you-baqsimi-nasal-powder-3543770/",
+        "https://www.drugs.com/medical-answers/you-administer-glucagon-injection-kit-3536171/"
+    ],
+    "https://www.drugs.com/mtm/glucarpidase.html": [],
+    "https://www.drugs.com/npc/glucomannan.html": null,
+    "https://www.drugs.com/glucophage.html": [
+        "https://www.drugs.com/medical-answers/how-long-does-glucophage-metformin-stay-in-system-269979/",
+        "https://www.drugs.com/medical-answers/drug-ingredients-contained-qternmet-xr-3496112/"
+    ],
+    "https://www.drugs.com/mtm/glucophage-xr.html": [
+        "https://www.drugs.com/medical-answers/drug-ingredients-contained-qternmet-xr-3496112/"
+    ],
+    "https://www.drugs.com/mtm/glucosamine.html": [],
+    "https://www.drugs.com/mtm/glucosamine-chondroitin-advanced-msm.html": [
+        "https://www.drugs.com/warfarin.html",
+        "https://www.drugs.com/coumadin.html",
+        "https://www.drugs.com/mtm/jantoven.html",
+        "https://www.drugs.com/mtm/doxorubicin.html",
+        "https://www.drugs.com/mtm/etoposide.html"
+    ],
+    "https://www.drugs.com/mtm/glucose.html": [],
+    "https://www.drugs.com/pro/glucose-injection.html": null,
+    "https://www.drugs.com/mtm/glucoten.html": [],
+    "https://www.drugs.com/glucotrol.html": [],
+    "https://www.drugs.com/mtm/glucotrol-xl.html": [],
+    "https://www.drugs.com/glucovance.html": [],
+    "https://www.drugs.com/cons/gludef.html": null,
+    "https://www.drugs.com/mtm/glumetza.html": [
+        "https://www.drugs.com/medical-answers/drug-ingredients-contained-qternmet-xr-3496112/"
+    ],
+    "https://www.drugs.com/mtm/glutamine.html": [],
+    "https://www.drugs.com/mtm/glutasolve.html": [],
+    "https://www.drugs.com/npc/glutathione.html": null,
+    "https://www.drugs.com/cons/glutol.html": null,
+    "https://www.drugs.com/cons/glutose.html": null,
+    "https://www.drugs.com/cons/gly-cort.html": null,
+    "https://www.drugs.com/glyburide.html": [],
+    "https://www.drugs.com/mtm/glyburide-eqv-diabeta.html": [],
+    "https://www.drugs.com/mtm/glyburide-eqv-micronase.html": [],
+    "https://www.drugs.com/mtm/glyburide-and-metformin.html": [],
+    "https://www.drugs.com/pro/glyburide-and-metformin-tablets.html": null,
+    "https://www.drugs.com/pro/glyburide-tablets.html": null,
+    "https://www.drugs.com/cons/glyburide-micronized.html": null,
+    "https://www.drugs.com/cons/glycate.html": null,
+    "https://www.drugs.com/pro/glycate-tablets.html": null,
+    "https://www.drugs.com/cons/glycerin.html": null,
+    "https://www.drugs.com/mtm/glycerin-and-witch-hazel-topical.html": [
+        "https://www.drugs.com/compare/glycerin-witch-hazel-topical",
+        "https://www.drugs.com/sfx/glycerin-witch-hazel-topical-side-effects.html",
+        "https://www.drugs.com/dosage/glycerin-witch-hazel-topical.html",
+        "https://www.drugs.com/pregnancy/glycerin-witch-hazel-topical.html",
+        "https://www.drugs.com/drug-class/anorectal-preparations.html",
+        "https://www.drugs.com/mtm_esp/glycerin-y-witch-hazel-topical.html"
+    ],
+    "https://www.drugs.com/mtm/glycerin-rectal.html": [],
+    "https://www.drugs.com/mtm/glycerin-lidocaine-and-witch-hazel-topical.html": [],
+    "https://www.drugs.com/mtm/glycerin-petrolatum-phenylephrine-and-pramoxine-topical.html": [
+        "https://www.drugs.com/mtm/dihydroergotamine-injection.html",
+        "https://www.drugs.com/ergotamine.html",
+        "https://www.drugs.com/cdi/ergonovine.html",
+        "https://www.drugs.com/mtm/methylergonovine-oral-and-injection.html"
+    ],
+    "https://www.drugs.com/mtm/glycerol-phenylbutyrate.html": [],
+    "https://www.drugs.com/pro/glycine.html": null,
+    "https://www.drugs.com/mtm/glycolax.html": [],
+    "https://www.drugs.com/pro/glycophos-injection.html": null,
+    "https://www.drugs.com/mtm/glycopyrrolate.html": [
+        "https://www.drugs.com/cg/depression.html",
+        "https://www.drugs.com/health-guide/parkinson-s-disease.html",
+        "https://www.drugs.com/cg/motion-sickness.html",
+        "https://www.drugs.com/cg/irritable-bowel-syndrome.html",
+        "https://www.drugs.com/cg/overactive-bladder.html"
+    ],
+    "https://www.drugs.com/cons/glycopyrrolate-intramuscular-intravenous.html": null,
+    "https://www.drugs.com/cons/glycopyrrolate-oral.html": null,
+    "https://www.drugs.com/cons/glycopyrrolate-and-formoterol.html": null,
+    "https://www.drugs.com/mtm/glycopyrrolate-and-neostigmine.html": [
+        "https://www.drugs.com/cg/depression.html",
+        "https://www.drugs.com/cg/overactive-bladder.html",
+        "https://www.drugs.com/health-guide/parkinson-s-disease.html",
+        "https://www.drugs.com/cg/motion-sickness.html",
+        "https://www.drugs.com/cg/irritable-bowel-syndrome.html"
+    ],
+    "https://www.drugs.com/mtm/glycopyrrolate-inhalation.html": [
+        "https://www.drugs.com/health-guide/parkinson-s-disease.html",
+        "https://www.drugs.com/condition/gastric-ulcer.html",
+        "https://www.drugs.com/cg/motion-sickness.html",
+        "https://www.drugs.com/cg/irritable-bowel-syndrome.html",
+        "https://www.drugs.com/mtm/darifenacin.html",
+        "https://www.drugs.com/mtm/fesoterodine.html",
+        "https://www.drugs.com/oxybutynin.html",
+        "https://www.drugs.com/mtm/tolterodine.html",
+        "https://www.drugs.com/mtm/solifenacin.html",
+        "https://www.drugs.com/drug-class/bronchodilators.html",
+        "https://www.drugs.com/mtm/aclidinium.html",
+        "https://www.drugs.com/mtm/ipratropium-nasal.html",
+        "https://www.drugs.com/mtm/umeclidinium.html"
+    ],
+    "https://www.drugs.com/pro/glycopyrrolate-injection.html": null,
+    "https://www.drugs.com/pro/glycopyrrolate-oral-solution.html": null,
+    "https://www.drugs.com/pro/glycopyrrolate-tablets.html": null,
+    "https://www.drugs.com/mtm/glycopyrrolate-topical-glycopyrronium-cloth.html": [
+        "https://www.drugs.com/cg/depression.html",
+        "https://www.drugs.com/mtm/benadryl-allergy.html",
+        "https://www.drugs.com/health-guide/parkinson-s-disease.html",
+        "https://www.drugs.com/cg/motion-sickness.html",
+        "https://www.drugs.com/cg/irritable-bowel-syndrome.html",
+        "https://www.drugs.com/cg/overactive-bladder.html"
+    ],
+    "https://www.drugs.com/monograph/glycopyrronium.html": [],
+    "https://www.drugs.com/cons/glycopyrronium-tosylate.html": null,
+    "https://www.drugs.com/cons/glycron-glyburide-oral.html": null,
+    "https://www.drugs.com/cons/glycron-glyburide-micronized-oral.html": null,
+    "https://www.drugs.com/mtm/glydo.html": [],
+    "https://www.drugs.com/pro/glydo-jelly.html": null,
+    "https://www.drugs.com/pro/glynase.html": null,
+    "https://www.drugs.com/cons/glynase-pres-tab-glyburide-oral.html": null,
+    "https://www.drugs.com/cons/glynase-pres-tab-glyburide-micronized-oral.html": null,
+    "https://www.drugs.com/mtm/glynase-prestab.html": [],
+    "https://www.drugs.com/pro/glyrx-pf.html": null,
+    "https://www.drugs.com/mtm/glyset.html": [
+        "https://www.drugs.com/mtm/pancreatin.html"
+    ],
+    "https://www.drugs.com/pro/glytone-clarifying-sunvanish.html": null,
+    "https://www.drugs.com/pro/glytone-skin-lightening-cream.html": null,
+    "https://www.drugs.com/pro/glytone-skin-lightening-gel.html": null,
+    "https://www.drugs.com/glyxambi.html": [
+        "https://www.drugs.com/cons/insulin-parenteral.html",
+        "https://www.drugs.com/mtm/rifampin.html",
+        "https://www.drugs.com/cg/tuberculosis.html"
+    ],
+    "https://www.drugs.com/npp/goat-s-rue.html": [
+        "https://www.drugs.com/breastfeeding/goat-s-rue.html"
+    ],
+    "https://www.drugs.com/gocovri.html": [
+        "https://www.drugs.com/mtm/sodium-bicarbonate.html"
+    ],
+    "https://www.drugs.com/mtm/gohibic.html": [],
+    "https://www.drugs.com/pro/gohibic-injection.html": null,
+    "https://www.drugs.com/npp/goji-berry.html": [],
+    "https://www.drugs.com/gold-bond-anti-itch.html": [
+        "https://www.drugs.com/compare/gold-bond-anti-itch",
+        "https://www.drugs.com/sfx/gold-bond-anti-itch-side-effects.html",
+        "https://www.drugs.com/dosage/pramoxine-topical.html",
+        "https://www.drugs.com/pregnancy/pramoxine-topical.html",
+        "https://www.drugs.com/drug-class/topical-anesthetics.html",
+        "https://www.drugs.com/breastfeeding/pramoxine.html"
+    ],
+    "https://www.drugs.com/cons/gold-bond-medicated-body-powder.html": null,
+    "https://www.drugs.com/mtm/gold-bond-medicated-maximum-strength-foot.html": [
+        "https://www.drugs.com/compare/gold-bond-medicated-maximum-strength-foot",
+        "https://www.drugs.com/sfx/gold-bond-medicated-maximum-strength-foot-side-effects.html",
+        "https://www.drugs.com/dosage/menthol-topical.html",
+        "https://www.drugs.com/pregnancy/menthol-topical.html",
+        "https://www.drugs.com/drug-class/topical-rubefacient.html",
+        "https://www.drugs.com/mtm_esp/gold-bond-medicated-maximum-strength-foot.html"
+    ],
+    "https://www.drugs.com/mtm/gold-bond-psoriasis-relief.html": [],
+    "https://www.drugs.com/cons/gold-star-medicated.html": null,
+    "https://www.drugs.com/npc/goldenseal.html": null,
+    "https://www.drugs.com/mtm/golimumab.html": [
+        "https://www.drugs.com/etanercept.html",
+        "https://www.drugs.com/adalimumab.html",
+        "https://www.drugs.com/mtm/certolizumab.html",
+        "https://www.drugs.com/mtm/tocilizumab.html"
+    ],
+    "https://www.drugs.com/mtm/golodirsen.html": [],
+    "https://www.drugs.com/mtm/golytely.html": [
+        "https://www.drugs.com/cg/depression.html",
+        "https://www.drugs.com/cg/hyponatremia.html",
+        "https://www.drugs.com/drug-class/nonsteroidal-anti-inflammatory-agents.html",
+        "https://www.drugs.com/ibuprofen.html",
+        "https://www.drugs.com/celecoxib.html",
+        "https://www.drugs.com/mtm/diclofenac-topical.html",
+        "https://www.drugs.com/mtm/indomethacin.html",
+        "https://www.drugs.com/meloxicam.html"
+    ],
+    "https://www.drugs.com/cons/gonadorelin.html": null,
+    "https://www.drugs.com/monograph/gonadotropin-chorionic.html": [],
+    "https://www.drugs.com/cons/gonak.html": null,
+    "https://www.drugs.com/mtm/gonak-hypromellose.html": [
+        "https://www.drugs.com/compare/gonak-hypromellose",
+        "https://www.drugs.com/sfx/gonak-hypromellose-side-effects.html",
+        "https://www.drugs.com/dosage/hydroxypropyl-methylcellulose-ophthalmic.html",
+        "https://www.drugs.com/drug-class/ophthalmic-lubricants-and-irrigations.html"
+    ],
+    "https://www.drugs.com/mtm/gonal-f.html": [],
+    "https://www.drugs.com/mtm/gonal-f-rff.html": [],
+    "https://www.drugs.com/cons/gonal-f-rff-follitropin-alfa-subcutaneous.html": null,
+    "https://www.drugs.com/cons/gonal-f-rff-follitropin-beta-subcutaneous.html": null,
+    "https://www.drugs.com/cons/gonal-f-rff-redi-ject.html": null,
+    "https://www.drugs.com/mtm/goniosoft.html": [
+        "https://www.drugs.com/compare/goniosoft",
+        "https://www.drugs.com/sfx/goniosoft-side-effects.html",
+        "https://www.drugs.com/dosage/hydroxypropyl-methylcellulose-ophthalmic.html",
+        "https://www.drugs.com/drug-class/ophthalmic-lubricants-and-irrigations.html",
+        "https://www.drugs.com/mtm_esp/goniosoft.html"
+    ],
+    "https://www.drugs.com/mtm/goniotaire.html": [
+        "https://www.drugs.com/compare/goniotaire",
+        "https://www.drugs.com/price-guide/goniotaire",
+        "https://www.drugs.com/sfx/goniotaire-side-effects.html",
+        "https://www.drugs.com/dosage/hydroxypropyl-methylcellulose-ophthalmic.html",
+        "https://www.drugs.com/drug-class/ophthalmic-lubricants-and-irrigations.html",
+        "https://www.drugs.com/mtm_esp/goniotaire.html"
+    ],
+    "https://www.drugs.com/mtm/goniovisc.html": [
+        "https://www.drugs.com/compare/goniovisc",
+        "https://www.drugs.com/sfx/goniovisc-side-effects.html",
+        "https://www.drugs.com/dosage/hydroxypropyl-methylcellulose-ophthalmic.html",
+        "https://www.drugs.com/drug-class/ophthalmic-lubricants-and-irrigations.html",
+        "https://www.drugs.com/mtm_esp/goniovisc.html"
+    ],
+    "https://www.drugs.com/cons/gonitro.html": null,
+    "https://www.drugs.com/pro/good-neighbor-all-day-allergy-d.html": null,
+    "https://www.drugs.com/pro/good-neighbor-anti-diarrheal.html": null,
+    "https://www.drugs.com/pro/good-neighbor-childrens-ibuprofen.html": null,
+    "https://www.drugs.com/pro/good-neighbor-clearlax.html": null,
+    "https://www.drugs.com/pro/good-neighbor-ibuprofen-cold-and-sinus.html": null,
+    "https://www.drugs.com/pro/good-neighbor-ibuprofen-suspension.html": null,
+    "https://www.drugs.com/pro/good-neighbor-sleep-aid.html": null,
+    "https://www.drugs.com/mtm/good-sense-allergy-relief-fluticasone.html": [
+        "https://www.drugs.com/cg/aids.html"
+    ],
+    "https://www.drugs.com/mtm/good-sense-children-s-allergy-relief.html": [
+        "https://www.drugs.com/cg/aids.html"
+    ],
+    "https://www.drugs.com/pro/good-sense-hair-regrowth-treatment.html": null,
+    "https://www.drugs.com/mtm/good-sense-lice-killing-shampoo-step-1.html": [
+        "https://www.drugs.com/compare/good-sense-lice-killing-shampoo-step-1",
+        "https://www.drugs.com/price-guide/good-sense-lice-killing-shampoo-step-1",
+        "https://www.drugs.com/sfx/good-sense-lice-killing-shampoo-step-1-side-effects.html",
+        "https://www.drugs.com/dosage/piperonyl-butoxide-pyrethrins-topical.html",
+        "https://www.drugs.com/drug-class/topical-anti-infectives.html",
+        "https://www.drugs.com/mtm_esp/good-sense-lice-killing-shampoo-step-1.html"
+    ],
+    "https://www.drugs.com/pro/good-sense-nicotine-lozenge.html": null,
+    "https://www.drugs.com/mtm/good-sense-omeprazole.html": [
+        "https://www.drugs.com/mtm/clopidogrel.html",
+        "https://www.drugs.com/methotrexate.html",
+        "https://www.drugs.com/mtm/st-john-s-wort.html",
+        "https://www.drugs.com/amoxicillin.html",
+        "https://www.drugs.com/clarithromycin.html"
+    ],
+    "https://www.drugs.com/pro/good-sense-sleep-aid.html": null,
+    "https://www.drugs.com/mtm/goodsense-cetirizine-d-12-hour.html": [],
+    "https://www.drugs.com/mtm/goody-s-headache-powders.html": [],
+    "https://www.drugs.com/mtm/goodys-extra-strength.html": [],
+    "https://www.drugs.com/pro/goprelto.html": null,
+    "https://www.drugs.com/mtm/gordofilm.html": [],
+    "https://www.drugs.com/mtm/gordogesic.html": [],
+    "https://www.drugs.com/mtm/gormel.html": [
+        "https://www.drugs.com/compare/gormel",
+        "https://www.drugs.com/sfx/gormel-side-effects.html",
+        "https://www.drugs.com/dosage/urea-topical.html",
+        "https://www.drugs.com/drug-class/topical-emollients.html",
+        "https://www.drugs.com/mtm_esp/gormel.html"
+    ],
+    "https://www.drugs.com/mtm/gormel-10.html": [
+        "https://www.drugs.com/compare/gormel-10",
+        "https://www.drugs.com/sfx/gormel-10-side-effects.html",
+        "https://www.drugs.com/dosage/urea-topical.html",
+        "https://www.drugs.com/drug-class/topical-emollients.html",
+        "https://www.drugs.com/mtm_esp/gormel-10.html"
+    ],
+    "https://www.drugs.com/monograph/goserelin.html": [],
+    "https://www.drugs.com/goserelin.html": [],
+    "https://www.drugs.com/npp/gossypol.html": [
+        "https://www.drugs.com/support/",
+        "https://www.drugs.com/sitemap.html",
+        "https://www.drugs.com/support/contact.html"
+    ],
+    "https://www.drugs.com/mtm/gotu-kola.html": [
+        "https://www.drugs.com/acetaminophen.html",
+        "https://www.drugs.com/mtm/leflunomide.html",
+        "https://www.drugs.com/mtm/teriflunomide.html",
+        "https://www.drugs.com/methotrexate.html",
+        "https://www.drugs.com/article/antibiotics.html",
+        "https://www.drugs.com/cg/tuberculosis.html",
+        "https://www.drugs.com/article/birth-control-pill.html",
+        "https://www.drugs.com/mtm/diclofenac-topical.html",
+        "https://www.drugs.com/mtm/indomethacin.html",
+        "https://www.drugs.com/carbamazepine.html",
+        "https://www.drugs.com/prednisone.html"
+    ]
+}
